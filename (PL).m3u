@@ -1,0 +1,330 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvphd.png",TVP
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42933&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvp1hd.png",TVP 1
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42936&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvp2hd.png",TVP 2
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Novela Plus
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=166411&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/poland_bayrak.gif",TVN
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=36162&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvn7hd.png",TVN 7
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42941&extension=ts
+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42935&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvphd.png",TVP 3
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42934&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/13ulicahd.png",13 Ulica
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43054&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/alekinoplus.png",Ale Kino+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43048&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/amcushd.png",AMC Polska
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43047&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/atmrozrywka.png",ATM Rozrywka TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43044&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/axnhd.png",AXN
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43042&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/axnblackpl.png",AXN Black
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43043&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/axnwhitehd.png",AXN White
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43040&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/axnspinhd.png",AXN Spin
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43041&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",CANAL+ FILM
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=56857&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/cbseuropa.png",CBS Europa
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43024&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/cinemaxhd.png",Cinemax
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43021&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/cinemax2hd.png",Cinemax 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43022&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/comedycentral.png",Comedy Central
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43020&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Epic Drama
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51359&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/cbseuropa.png",Power TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=122588&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/filmboxaction.png",Filmbox Action
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42999&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/filmboxarthouse.png",Filmbox Arthouse
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42998&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/filmboxextrahd.png",Filmbox Extra
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42997&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/filmboxfamily.png",Filmbox Family
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42996&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/filmboxpremium.png",FilmBox Premium
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42995&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",FOX
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51367&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/foxcomedy.png",Fox Comedy
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42994&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/hbohd.png",HBO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42990&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/hbo2lamhd.png",HBO 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42992&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/hbo3hd.png",HBO 3
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42991&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/investigationdiscoveryushd.png",Crime & Investigation
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42987&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/kinopolska.png",Kino Polska
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42986&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Kino TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51373&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/lifetimehd.png",Lifetime
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42982&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/mtv.png",MTV Polska
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42980&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatfilmhd.png",Polsat Film
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42969&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsat.png",Polsat Rodzina
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42964&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/stopklatkatv.png",Stopklatka TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42950&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",TNT
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51399&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tv6-lichoridas.png",TV6
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42943&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvprozrywka.png",TVP Rozrywka
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42928&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvpseriale.png",TVP Seriale
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42927&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/4funtvpldance.png",4Fun Dance
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43053&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/4funtvplgoldhits.png",4Fun Gold Hits
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43052&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/4funtvpl.png",4Fun TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43051&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discopolomusic.png",Disco Polo Music
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43017&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Eska Rock TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51362&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Eska TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51360&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Eska TV Extra
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51361&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/kinopolskamuzyka.png",Kino Polska Muzyka
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42985&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",MTV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51378&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/voxmusictv.png",Music VOX
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42979&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsat.png",Polsat Music
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42966&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",STARS.TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51395&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vh1.png",MTV 00s
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42924&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/babytv.png",Baby TV [Multi-Audio]
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43039&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",BBC CBeebies 1080P
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51347&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/boomerang.png",Boomerang
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43036&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/cartoonnetwork.png",Cartoon Network
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43026&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/davincilearning.png",Da Vinci
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43018&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/disneychannel.png",Disney Channel
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43012&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/disneyjuniorhd.png",Disney JR
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43011&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/disneyxd.png",Disney XD
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43010&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Nick JR
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51380&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",NICKELODEON
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51381&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Nicktoons
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51382&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/jimjam.png",Polsat JimJam
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42967&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",TVP ABC
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51407&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplusserialehd-lichoridas.png",Canal Seriale
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43031&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",CANAL+ SERIALE
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51354&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplusplsport.png",Canal Sport
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43029&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplusplsport2.png",Canal Sport 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43030&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplusplsport2.png",CANAL SPORT 3
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=56855&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplusplsport2.png",CANAL SPORT 4
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=56854&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/eleven.png",Eleven Sports 1
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43007&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/eleven.png",Eleven Sports 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43006&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/eleven.png",Eleven Sports 3
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43005&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/eleven.png",Eleven Sports 4
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43004&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/eurosport1hd.png",Eurosport 1
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43003&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/eurosport2hd.png",EuroSport 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43002&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/extremesportshd.png",Extreme Sports
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43001&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/fightboxhd.png",Fightbox
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43000&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Food Network
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51365&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/nsportplushd.png",nSport
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42975&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/paramountchannel.png",Paramount Channel
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42974&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42961&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatsportextra.png",Polsat Sport Extra
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42962&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatsportfighthd.png",Polsat Sport Fight
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42960&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Polsat Sport News
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51390&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport Premium 1
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42959&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport Premium 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42958&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport Premium PPV 4
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42956&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",SPORT KLUB
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51394&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvpsporthd.png",TVP Sport
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42926&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Active Family
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51345&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/adventurehd.png",Adventure
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43049&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/animalplanethd.png",Animal Planet
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43045&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/bbcearth.png",BBC Earth
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43038&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",BBC FIRST
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51348&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/bbchd.png",BBC
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43037&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplus1hd-lichoridas.png",Canal 1
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43035&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canalplusfamily.png",Canal Family
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43032&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",CANAL
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51350&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Canal+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51353&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/cbsreality.png",CBS Reality
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43023&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discoveryhd.png",Discovery
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43016&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Discovery Historia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51356&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discoverylifehd.png",Discovery Life
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43015&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discoverysciencehd.png",Discovery Science
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43014&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/discoveryturboxtra.png",Discovery Turbo Xtra
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43013&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/domoplushd.png",Domo+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43009&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",DTX
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51357&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",E! Entertainment
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51358&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Fokus TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51364&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Golf Channel
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51368&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/hgtv.png",HGTV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42989&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/historyhd.png",History
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42988&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",ID TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51371&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/kuchniaplushd.png",Kuchnia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42983&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Metro
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51376&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/miniminiplus.png",MiniMini
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42981&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/natgeous.png",National Geographic
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42978&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/natgeowildhd.png",Nat Geo Wild
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42976&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",NOWA
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51383&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/nutatvplhd.png",Nuta TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43050&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Planete+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51385&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Polo TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51386&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsat2hd.png",Polsat 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42973&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Polsat Doku
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51387&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatviasatexplorehd.png",Polsat Viasat Explore
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42953&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatviasathistoryhd.png",Polsat Viasat History
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42952&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/polsatviasatnature.png",Polsat Viasat Nature
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42951&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Red Carpet TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51392&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Romance TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51393&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/scifi-lichoridas.png",SciFi Universal
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=43028&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/sundancetv.png",Sundance TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42949&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Super Polsat
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51396&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",teleTOON
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=56858&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tlchd.png",TLC
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42948&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Travel Channel
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51402&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ttv.png",TTV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42947&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvpulshd.png",TV Puls 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42946&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvpulshd.png",TV Puls
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42945&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",TV REPUBLIKA
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51404&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",TVN 24 Bis
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51405&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvn24hd.png",TVN 24
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42942&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvnfabula.png",TVN Fabuła
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42940&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvnstylehd.png",TVN Style
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42938&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvnturbohd.png",TVN Turbo
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42937&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvphistoria.png",TVP Historia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42932&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvpinfo.png",TVP Info
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42931&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvpkultura.png",TVP Kultura
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42930&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvppolonia.png",TVP Polonia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=42929&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/tvsilesia.png",TVS
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=47241&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",wPolsce.pl
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51415&extension=ts
+#EXTINF:-1  tvg-logo="http://109.104.153.235:443/Flag/republic-of-poland.png",Zoom TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=51416&extension=ts
+#EXTINF:-1 ,Warner Tv
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=129229&extension=ts
+#EXTINF:-1 ,Tele 5
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=129227&extension=ts
+#EXTINF:-1 ,Wydarzenia 24
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=129226&extension=ts
+#EXTINF:-1 ,Nat Geo People
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=129225&extension=ts
+#EXTINF:-1 ,Ci Polsat
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=129224&extension=ts
+#EXTINF:-1 ,Canal+ Domo
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:B1:13:C4&stream=129223&extension=ts

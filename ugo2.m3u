@@ -1,0 +1,959 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP.png",TVP
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880504&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--1-HD.png",TVP 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880520&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-2-PL.png",TVP 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880519&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVR.png",TV REPUBLIKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880203&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-KOBIETA.png",TVP KOBIETA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121741&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-ROZ-PL.png",TVP ROZRYWKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880237&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-KULTURA.png",TVP KULTURA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880387&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-KULTURA-2.png",TVP KULTURA 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121742&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TTV.png",TTV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880389&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN.png",TVN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880518&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN--7.png",TVN 7
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880517&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN-FABULA.png",TVN FABULA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880516&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN-STYLE.png",TVN STYLE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880515&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN-TURBO.png",TVN TURBO
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880514&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SUPER-POLSAT.png",SUPER POLSAT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880386&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT.png",POLSAT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880509&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-2.png",POLSAT 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880508&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-RODZINA.png",POLSAT RODZINA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880506&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-CAFE.png",POLSAT CAFE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880404&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-GAMES.png",POLSAT GAMES
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880401&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-PLAY.png",POLSAT PLAY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880399&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/GAMETOON-TV.png",GAMETOON
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121747&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PULS-TV.png",PULS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880475&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PULS-2.png",PULS 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880479&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TV4.png",TV4
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880510&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TV6.png",TV6
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880511&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TELE-5.png",TELE 5
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880230&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/Antenna_TV.png",ANTENA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1060637&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TLC--PL.png",TLC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880474&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOOD-NETWORK--PL.png",FOOD NETWORK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880481&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HGTV--PL.png",HGTV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880385&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HOME-TV.png",HOME TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880214&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Domo.png",DOMO+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880424&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KUCHNIA+.png",KUCHNIA+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880415&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/activefamily.png",ACTIVE FAMILY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880234&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/METRO.png",METRO
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880212&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/TVS-PL.png",TVS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880201&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NOWA-TV.png",NOWA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880407&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ZOOM-TV.png",ZOOM TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880190&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/E-ENTER--PL.png",E! ENTERTAINMENT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880422&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/WP.png",WP
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880192&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/tvppolonia.png",TVP POLONIA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880242&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-PL.png",TVP POLONIA 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880241&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRWAM-PL.png",TRWAM TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=884764&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ITVN.png",ITVN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=897006&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ITVN-EXTRA.png",ITVN EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=897007&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/TV-RELAX.png",TV RELAX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1005093&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP3-WROCLAW.png",TVP3 WROCLAW
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936949&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/DAMI-TV.png",DAMI TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1005092&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/LUBELSKA-TV.png",LUBELSKA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=897009&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/channel13.png",CHANNEL 13
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=897004&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-SERIAL-PL.png",TVP SERIALE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882105&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--HISTORIA.png",TVP HISTORIA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882108&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SERIALE.png",POLSAT SERIALE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882078&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24.png",TVN24
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882083&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-1.png",POLSAT 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=897011&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KINO-POLSKA.png",KINO POLSKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882095&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HBO--PL.png",HBO
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882086&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HBO-2--PL.png",HBO 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882085&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HBO-3--PL.png",HBO 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882084&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Premium.png",CANAL+ PREMIUM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882088&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Seriale.png",CANAL+ SERIALE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882087&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfilmhd.png",CANAL+ FILM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882092&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Family-Poland.png",CANAL+ FAMILY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882090&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png",POLSAT SPORT PREMIUM 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882094&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png",POLSAT SPORT PREMIUM 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882093&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP--ABC.png",TVP ABC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882107&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+1.png",CANAL+ 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882091&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-NOW-.png",CANAL+ NOW
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=882089&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+4k-POLAND.png",CANAL+ 4K+ ULTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1271764&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-FILM.png",POLSAT FILM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880505&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PARAMOUNT--PL.png",PARAMOUNT CHANNEL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880472&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/Warner-TV-Poland.png",WARNER TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880473&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/13-ULICA.png",13 ULICA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880492&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AMC--PL.png",AMC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880433&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ALE-KINO+.png",ALE KINO+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880493&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AXN.png",AXN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880490&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AXN-SPIN.png",AXN SPIN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880489&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AXN-WHITE.png",AXN WHITE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880235&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/AXN-BLACK.png",AXN BLACK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880236&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-POLSKA.png",CINEMAX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880485&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-POLSKA.png",CINEMAX 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880488&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-PREMIUM--PL.png",FILMBOX PREMIUM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880483&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-XTRA--PL.png",FILMBOX EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880344&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-ARTHOUSE.png",FILMBOX ARTHOUSE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880232&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-ACTION.png",FILMBOX ACTION
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880233&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMBOX-FAMILY.png",FILMBOX FAMILY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880231&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/COMEDY-CENTRAL--PL.png",COMEDY CENTRAL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880487&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-COMEDY-CENTRAL-EXTRA.png",POLSAT COMEDY CENTRAL EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880403&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/COMEDY-CENTRAL--PL.png",COMEDY CENTRAL POLAND
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880486&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KINO-TV.png",KINO TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880478&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FILMAX-tv.png",FILMAX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121744&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOX--PL.png",FOX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880477&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOX-COMEDY--PL.png",FOX COMEDY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880480&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SCIFI-UNIVERSAL.png",SCIFI UNIVERSAL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880451&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CBS-EUROPA.png",CBS EUROPA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880431&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EPIC-DRAMA.png",EPIC DRAMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880421&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STOPKLATKA-TV.png",STOPKLATKA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880229&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/Sundance-TV-Poland.png",SUNDANCE TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880392&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/Romance-TV-Poland.png",ROMANCE TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880394&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/NOVELAS-TV.png",NOVELA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880209&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/NOVELAS+.png",NOVELAS+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880410&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/RED-CARPET.png",RED CARPET TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880395&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DIZI--PL.png",DIZI
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121745&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BOLLYWOOD-TV.png",BOLLYWOOD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121746&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/vod205.png",VOD 205
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880197&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/vod206.png",VOD 206
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880196&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/vod207.png",VOD 207
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880195&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://logo.protv.cc/picons/logos/vod208.png",VOD 208
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880194&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KRYMINALNIE.png",TVN KRYMINALNIE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433874&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KRYMINALNIE.png",TVN KRYMINALNIE ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433875&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KULTOWE-SERIALE.png",TVN KULTOWE SERIALE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433876&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-KULTOWE-SERIALE.png",TVN KULTOWE SERIALE ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433877&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOMENTY-PRAWDY.png",TVN MOMENTY PRAWDY ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433878&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOMENTY-PRAWDY.png",TVN MOMENTY PRAWDY ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433879&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOTO.png",TVN MOTO ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433880&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-MOTO.png",TVN MOTO ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433881&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png",TVN PRAWO I ŻYCIE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433882&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-PRAWO-I-%c5%bbYCIE.png",TVN PRAWO I ŻYCIE ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433883&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png",TVN RAJSKA MIŁOŚĆ ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433884&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-RAJSKA-MI%c5%81O%c5%9a%c4%86.png",TVN RAJSKA MIŁOŚĆ ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433885&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png",TVN REWOLUCJE W KUCHNI ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433886&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png",TVN REWOLUCJE W KUCHNI ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433887&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SERIAL-O-KOBIETACH.png",TVN SERIAL O KOBIETACH ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433888&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SERIAL-O-KOBIETACH.png",TVN SERIAL O KOBIETACH ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433889&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png",TVN SZKOŁA ŻYCIA ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433890&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-SZKO%c5%81A-%c5%bbYCIA.png",TVN SZKOŁA ŻYCIA ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433891&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png",TVN SZPITALNE HISTORIE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433892&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png",TVN SZPITALNE HISTORIE ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433893&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-TALK-SHOW.png",TVN TALK-SHOW ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433894&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-TALK-SHOW.png",TVN TALK-SHOW ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433895&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-TELENOWELE.png",TVN TELENOWELE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433896&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/logos/TVN-TELENOWELE.png",TVN TELENOWELE ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433897&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-USTERKA.png",TVN USTERKA ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433898&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-USTERKA.png",TVN USTERKA ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433899&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-W-DOMU.png",TVN W DOMU ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433900&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-W-DOMU.png",TVN W DOMU ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433901&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png",TVN ŻYCIE JAK W BAJCE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433902&extension=m3u8
+#EXTINF:-1 group-title="TVN PLAYER" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png",TVN ŻYCIE JAK W BAJCE ᵁᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1433903&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/DA-VINCI-POLSKA.png",DA VINCI LEARNING
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880224&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-ABC-2.png",TVP ABC 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121740&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DUCK-TV.png",DUCK TV ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121750&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DUCK-TV-PLUS-PL.png",DUCK TV PLUS ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121751&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CBEEBIS--PL.png",BBC CBEEBIES
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880226&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/topkids.png",TOP KIDS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=897016&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/BABY-TV-HD.png",BABY TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880225&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/2X2-TV.png",2X2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121758&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/4FUN-KIDS.png",4FUN KIDS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1035704&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/JUNIOR-MUSIC.png",JUNIOR MUSIC ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121756&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/Nick-Jr-Poland.png",NICK JR POLSKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880211&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NICK-MUSIC-PL.png",NICK MUSIC ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121757&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TEENNICK--PL.png",TEENNICK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880411&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TEENNICK--PL.png",TEENNICK ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880271&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NICKELODEON--PL.png",NICKELODEON
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880210&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NICKTOONS--PL.png",NICKTOONS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880412&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NICKTOONS--PL.png",NICKTOONS ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880272&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-JIM-JAM.png",POLSAT JIM JAM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880206&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-CHANNEL-POLSKA.png",DISNEY CHANNEL ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880285&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-JUNIOR-POLSKA.png",DISNEY JUNIOR
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880219&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISNEY-XD--PL.png",DISNEY XD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880218&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/BOOMERANG-POLSKA.png",BOOMERANG
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880443&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/BOOMERANG-POLSKA.png",BOOMERANG ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880303&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TELETOON+.png",TELETOON+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880390&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TELETOON+.png",TELETOON+ ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880250&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MINIMINI.png",MINIMINI
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880414&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MINIMINI.png",MINIMINI ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880274&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-POLSKA.png",CARTOON NETWORK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880432&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-POLSKA.png",CARTOON NETWORK ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880292&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/LOVE-NATURE.png",LOVE NATURE 4K+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1131804&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRAVEL--PL.png",TRAVEL CHANNEL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880445&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TRAVEL--PL.png",TRAVEL CHANNEL ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880305&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/animal-planet--pl.png",ANIMAL PLANET
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880437&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/animal-planet--pl.png",ANIMAL PLANET ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880297&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ADVENTURE-TV.png",ADVENTURE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880434&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ADVENTURE-TV.png",ADVENTURE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880294&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-BRIT-PL.png",BBC BRIT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880450&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-BRIT-PL.png",BBC BRIT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880310&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-EARTH--PL.png",BBC EARTH
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880436&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-EARTH--PL.png",BBC EARTH ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880296&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-FIRST--PL.png",BBC FIRST ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880309&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-FIRST--PL.png",BBC FIRST
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880449&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-LIFESTYLE--PL.png",BBC LIFESTYLE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880435&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BBC-LIFESTYLE--PL.png",BBC LIFESTYLE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880295&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/CBS-REALITY-POLSKA.png",CBS REALITY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880430&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/CBS-REALITY-POLSKA.png",CBS REALITY ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880290&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Dokument.png",CANAL+ DOKUMENT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880442&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Canal+-Dokument.png",CANAL+ DOKUMENT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880302&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY--PL.png",DISCOVERY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880428&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY--PL.png",DISCOVERY ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880288&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png",DISCOVERY SCIENCE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880426&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-SCIENCE--PL.png",DISCOVERY SCIENCE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880286&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-LIFE--PL.png",DISCOVERY LIFE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880427&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-LIFE--PL.png",DISCOVERY LIFE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880287&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCOVERY-HISTORIA.png",DISCOVERY HISTORIA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880228&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NAT-GEO--PL.png",NATIONAL GEOGRAPHIC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880438&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NAT-GEO--PL.png",NATIONAL GEOGRAPHIC ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880298&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NAT-GEO-WILD--PL.png",NAT GEO WILD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880439&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NAT-GEO-WILD--PL.png",NAT GEO WILD ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880299&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Nat-Geo-People--PL.png",NAT GEO PEOPLE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880440&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/Nat-Geo-People--PL.png",NAT GEO PEOPLE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880300&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ID.png",ID
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880416&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ID.png",ID ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880276&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CRIME-AND-INVESTIGATION-POLSAT.png",CRIME AND INVESTIGATION
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880429&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CRIME-AND-INVESTIGATION-POLSAT.png",CRIME AND INVESTIGATION ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880289&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DTX--PL.png",DTX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880423&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DTX--PL.png",DTX ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880283&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/History-Poland.png",HISTORY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880384&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/History-Poland.png",HISTORY ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880244&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/H-2--PL.png",H2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880418&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/H-2--PL.png",H2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880278&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PLANETE+.png",PLANETE+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880405&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PLANETE+.png",PLANETE+ ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880265&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-DOKU.png",POLSAT DOKU
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880402&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-DOKU.png",POLSAT DOKU ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880262&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-HISTORY.png",POLSAT VIASAT HISTORY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880397&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-HISTORY.png",POLSAT VIASAT HISTORY ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880257&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-EXPLORE.png",POLSAT VIASAT EXPLORE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880398&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-EXPLORE.png",POLSAT VIASAT EXPLORE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880258&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png",POLSAT VIASAT NATURE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880396&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-VIASAT-NATURE.png",POLSAT VIASAT NATURE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880256&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOKUS-TV.png",FOKUS TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880482&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FOKUS-TV.png",FOKUS TV ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880342&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/WATER-PLANET.png",WATER PLANET
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880193&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STUDIOMED-TV.png",STUDIOMED TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880393&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STUDIOMED-TV.png",STUDIOMED TV ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880253&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-DOKUMENT-PL.png",TVP DOKUMENT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880388&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-DOKUMENT-PL.png",TVP DOKUMENT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880248&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-HISTORIA.png",TVP HISTORIA 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121743&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png",ELEVEN SPORTS 1 4K+
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=905665&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png",ELEVEN SPORTS 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880457&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-1--PL.png",ELEVEN SPORTS 1 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880317&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png",ELEVEN SPORTS 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880456&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-2--PL.png",ELEVEN SPORTS 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880316&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png",ELEVEN SPORTS 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880455&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-3--PL.png",ELEVEN SPORTS 3 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880315&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png",ELEVEN SPORTS 4
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880454&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ELEVEN-SPORTS-4--PL.png",ELEVEN SPORTS 4 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880314&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-1--PL.png",EUROSPORT 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880453&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-1--PL.png",EUROSPORT 1 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880313&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-2--PL.png",EUROSPORT 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880452&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-2--PL.png",EUROSPORT 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880312&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-NOW-.png",CANAL+ NOW ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880359&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT--PL.png",CANAL+ SPORT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880461&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT--PL.png",CANAL+ SPORT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880321&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT-2--PL.png",CANAL+ SPORT 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880460&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT-2--PL.png",CANAL+ SPORT 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880320&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT-3.png",CANAL+ SPORT 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880459&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT-3.png",CANAL+ SPORT 3 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880319&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT-4.png",CANAL+ SPORT 4
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880458&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/CANAL+-SPORT-4.png",CANAL+ SPORT 4 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880318&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png",CANAL+ SPORT 5
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880406&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png",CANAL+ SPORT 5 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880266&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-NEWS.png",POLSAT SPORT NEWS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880468&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-NEWS.png",POLSAT SPORT NEWS ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880328&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT.png",POLSAT SPORT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880470&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT.png",POLSAT SPORT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880330&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png",POLSAT SPORT EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880471&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-EXTRA.png",POLSAT SPORT EXTRA ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880331&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-1.png",POLSAT SPORT PREMIUM 1 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880327&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-2.png",POLSAT SPORT PREMIUM 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880326&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png",POLSAT SPORT PREMIUM 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880465&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-3.png",POLSAT SPORT PREMIUM 3 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880325&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png",POLSAT SPORT PREMIUM 4
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880464&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-4.png",POLSAT SPORT PREMIUM 4 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880324&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png",POLSAT SPORT PREMIUM 5
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880463&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-5.png",POLSAT SPORT PREMIUM 5 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880323&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png",POLSAT SPORT PREMIUM 6
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880462&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-PREMIUM-6.png",POLSAT SPORT PREMIUM 6 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880322&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png",POLSAT SPORT FIGHT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880469&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-SPORT-FIGHT.png",POLSAT SPORT FIGHT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880329&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-SPORT.png",TVP SPORT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880502&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-SPORT.png",TVP SPORT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880362&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SPORTKLUB--PL.png",SPORTKLUB
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880447&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/SPORTKLUB--PL.png",SPORTKLUB ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880307&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FIGHTKLUB.png",FIGHTKLUB
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880420&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FIGHTKLUB.png",FIGHTKLUB ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880280&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FIGHTBOX.png",FIGHTBOX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880446&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FIGHTBOX.png",FIGHTBOX ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880306&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PRIME-FIGHT.png",PRIME FIGHT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121749&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/EXTREME-SPORTS-TV.png",EXTREME SPORTS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880448&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/EXTREME-SPORTS-TV.png",EXTREME SPORTS ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880308&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/GOLF-CHANNEL-NP.png",GOLF CHANNEL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880419&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/GOLF-CHANNEL-NP.png",GOLF CHANNEL ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880279&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MOTOWIZJA.png",MOTOWIZJA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880413&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MOTOWIZJA.png",MOTOWIZJA ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880273&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/GINX-ESPORTS-TV.png",GINX ESPORTS TV ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121748&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24.png",TVN24
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880512&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24-BIS.png",TVN24 BIS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880513&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVN24-BIS.png",TVN24 BIS ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880373&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-INFO-PL.png",TVP INFO
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880503&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-INFO-PL.png",TVP INFO ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880363&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/TVP-WORLD-1.jpeg",TVP WORLD ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121739&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/cnnihd.png",CNNI
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880997&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/cnnihd.png",CNNI ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880996&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-NEWS.png",POLSAT NEWS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880441&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-NEWS.png",POLSAT NEWS ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880301&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-NEWS-2.png",POLSAT NEWS 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880227&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/WYDARZENIA-24.png",WYDARZENIA 24
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1137583&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NEWS-24.png",NEWS 24 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121738&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BIZNES24.png",BIZNES24
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880444&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/BIZNES24.png",BIZNES24 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880304&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/WPOLSCE.png",WPOLSCE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880191&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/tvp3.png",TVP 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880240&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png",POLSAT NEWS POLITYKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880391&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/POLSAT-NEWS-POLITYKA.png",POLSAT NEWS POLITYKA ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880251&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ESKA-TV.png",ESKA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880216&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ESKA-TV-EXTRA.png",ESKA TV EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880215&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/ESKA-ROCK-TV.png",ESKA ROCK TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880217&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/4FUN-TV.png",4FUN.TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880220&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/4FUN-DANCE.png",4FUN DANCE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880222&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/4FUN-GOLD-HITS.png",4FUN GOLD HITS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880221&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/STARS-TV.png",STARS.TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880204&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/NUTA-TV.png",NUTA TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880207&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MUSIC-BOX-POLSKA.png",MUSIC BOX POLSKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880199&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MIXTAPE.png",MIXTAPE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121760&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/360-TUNEBOX.png",360 TUNEBOX ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121759&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KINO-POLSKA-MUZYKA.png",KINO POLSKA MUZYKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880213&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-MUSIC.png",POLSAT MUSIC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880400&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLSAT-MUSIC.png",POLSAT MUSIC ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880260&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MTV-LIVE.png",MTV LIVE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880409&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MTV-LIVE.png",MTV LIVE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880269&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/mtvpolska.png",MTV POLSKA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880408&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/MTV-Poland.png",MTV POLSKA ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880268&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MTV-80s-PL.png",MTV 00S ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121761&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png",MTV 00S
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880200&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MTV-ROCKS.png",MTV 80S ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880208&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VOX-MUSIC.png",VOX MUSIC TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880198&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POWER-TV.png",POWER TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880205&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCO-POLO-MUSIC.png",DISCO POLO MUSIC ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121755&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/DISCO-POLO-MUSIC.png",DISCO POLO MUSIC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880223&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLO-TV.png",POLO TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880383&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/POLO-TV.png",POLO TV ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=880243&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/JAZZ-PL.png",JAZZ ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121754&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MEZZO-PL.png",MEZZO ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121752&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/MEZZO-LIVE-PL.png",MEZZO LIVE ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1121753&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-BIALYSTOK.png",TVP3 BIALYSTOK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936815&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-BYDGOSZCZ.png",TVP3 BYDGOSZCZ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936816&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-GDANSK.jpeg",TVP3 GDANSK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936817&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-GORZOW.png",TVP3 GORZOW
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936818&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-KATOWICE.png",TVP3 KATOWICE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936819&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-KIELCE.png",TVP3 KIELCE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936820&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-KRAKOW.jpeg",TVP3 KRAKOW
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936821&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-LUBLIN.jpeg",TVP3 LUBLIN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936834&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-LODZ.png",TVP3 LODZ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936835&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-OLSZTYN.png",TVP3 OLSZTYN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936836&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-OPOLE.png",TVP3 OPOLE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936837&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-POZNAN.png",TVP3 POZNAN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936838&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-RZESZOW.png",TVP3 RZESZOW
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936839&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-SZCZECIN.png",TVP3 SZCZECIN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936948&extension=m3u8
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://logo.protv.cc/picons/logos/TVP3-WARSZAWA.png",TVP3 WARSZAWA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=936950&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 1  02-24-2024 1:05am | Columbus - Buffalo
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443144&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 2  02-24-2024 2:35am | Chicago - Winnipeg
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443145&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 3  02-24-2024 3:05am | Edmonton - Minnesota
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443146&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 4  02-24-2024 12:50pm | Osnabrück - Hannover
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443147&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 5  02-24-2024 12:50pm | Braunschweig - Hertha Berlin
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443148&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 6  02-24-2024 12:50pm | Kaiserslautern - Karlsruher
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443149&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 7  02-24-2024 1:25pm | Hull - West Brom
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443150&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 8  02-24-2024 3:00pm | Bundesliga Goal Arena
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443151&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 9  02-24-2024 3:05pm | Irlandia - Walia
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443152&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 10  02-24-2024 3:20pm | Werder Bremen - Darmstadt
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443153&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 11  02-24-2024 3:20pm | Stuttgart - Köln
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443154&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 12  02-24-2024 3:20pm | Mönchengladbach - Bochum
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443155&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 13  02-24-2024 3:20pm | Union Berlin - Heidenheim
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443156&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 14  02-24-2024 3:25pm | Multiliga Premier League
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443157&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 15  02-24-2024 3:55pm | Brighton - Everton
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443158&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 16  02-24-2024 3:55pm | Man United - Fulham
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443159&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 17  02-24-2024 3:55pm | Crystal Palace - Burnley
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443160&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 18  02-24-2024 3:55pm | Aston Villa - Nottingham Forest
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443161&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 19  02-24-2024 3:55pm | Sunderland - Swansea
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443162&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 20  01-28-2024 5:20pm | Dortmund - Bochum
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443163&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 21  02-24-2024 5:55pm | HV71 - Frölunda
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443164&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 22  02-24-2024 6:00pm | Bayern München - Leipzig
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443165&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 23  02-24-2024 6:00pm | Bournemouth - Man City
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443166&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 24  02-24-2024 6:05pm | Detroit - St. Louis
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443167&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 25  02-24-2024 6:55pm | Bergischer - Hannover-Burgdorf
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443168&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 26  02-24-2024 8:05pm | NY Islanders - Tampa Bay
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443169&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 27  02-24-2024 8:05pm | New Jersey - Montreal
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443170&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 28  02-24-2024 8:20pm | Magdeburg - Schalke
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443171&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 29  02-24-2024 8:30pm | Arsenal - Newcastle
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443172&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 30  02-24-2024 9:05pm | Philadelphia - NY Rangers
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443173&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 31  02-25-2024 12:05am | Florida - Washington
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443174&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 32  02-25-2024 1:05am | Vancouver - Boston
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443175&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 33  02-25-2024 1:05am | Ottawa - Vegas
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443176&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 34  02-25-2024 1:05am | Colorado - Toronto
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443177&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 35  02-25-2024 2:05am | Carolina - Dallas
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443178&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 36  02-25-2024 4:05am | Seattle - Minnesota
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443179&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 37  02-25-2024 4:05am | San Jose - Nashville
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443180&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 38  02-25-2024 4:05am | Edmonton - Calgary
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443181&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 39  02-25-2024 4:35am | Los Angeles - Anaheim
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443182&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 40  02-18-2024 1:05am | Montreal - Washington
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443183&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 41  02-18-2024 2:05am | New Jersey - Philadelphia
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443184&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 42  02-18-2024 4:05am | Vancouver - Winnipeg
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443185&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 43  02-18-2024 4:35am | Vegas - Carolina
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443186&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 44  02-18-2024 4:35am | San Jose - Columbus
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443187&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 45  02-11-2024 2:05am | Nashville - Arizona
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443188&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 46  02-11-2024 3:00am | NHL On The Fly
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443189&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",ViaPlay 47  02-11-2024 4:05am | Los Angeles - Edmonton
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443190&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",Viaplay  48
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443191&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",Viaplay  49
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443192&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY PPV VIP" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",Viaplay  50
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1443193&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",PREMIER LEAGUE TOP EVENT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111763&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",PREMIER LEAGUE TOP EVENT ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111762&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 1 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111761&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 2 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111760&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 3 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111759&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 4 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111758&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 5 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111757&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 6 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111756&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 7 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111755&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 8 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111754&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 9 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111753&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 10 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111752&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 11 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111751&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 12 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111750&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 13 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111749&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 14 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111748&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 15 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111747&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 16 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111746&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 17 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111745&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 18 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111744&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 19 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111743&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 20 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111742&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 21 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111741&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 22 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111740&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 23 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111739&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 25 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111738&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 26 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111737&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 40 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111736&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 44 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111735&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 48 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111734&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 49 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111733&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 50 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111732&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 63 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111731&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 64 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111730&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 65 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111729&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 66 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111728&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 67 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111727&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 68 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111726&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 69 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111725&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 70 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111724&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 71
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111723&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 71 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111722&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 72 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111721&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 73 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111720&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 74 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111719&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 75 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111718&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 76 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111717&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 77 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111716&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 78 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111715&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 79 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111714&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 80 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111713&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 81 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111712&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 82 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111711&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 83
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111710&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",XTRA 83 ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111709&extension=m3u8
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png",NFL ᴴᴰ
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1111708&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289020&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA-2.png",EUROSPORT XTRA 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289019&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289018&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 4
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289017&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 5
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289016&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 6
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289015&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 7
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289014&extension=m3u8
+#EXTINF:-1 group-title="EUROSPORT EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/EUROSPORT-XTRA.png",EUROSPORT XTRA 8
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289013&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HIGH-LEAGUE.png",HIGH LEAGUE 6
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1142450&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HIGH-LEAGUE.png",HIGH LEAGUE 6 BACKUP 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1142451&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HIGH-LEAGUE.png",HIGH LEAGUE 6 BACKUP 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1142452&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/KSW.png",KSW
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289021&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FAME-MMA.png",FAME MMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289023&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/PRIME-MMA.png",PRIME MMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289024&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/HIGH-LEAGUE.png",HIGH LEAGUE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289026&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/FEN-MMA.png",FEN MMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289022&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/THE-WAR.png",THE WAR
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289029&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/OKTAGON-MMA.png",OKTAGON MMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289028&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/WOTORE.png",WOTORE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289027&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/GROMDA.png",GROMDA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1289025&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV",CLOUT MMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1311423&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV",WALKI 1 (LIVE EVENT ONLY)
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1293996&extension=m3u8
+#EXTINF:-1 group-title="WALKI PPV",WALKI 2 (LIVE EVENT ONLY)
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:0C:5E&stream=1293995&extension=m3u8

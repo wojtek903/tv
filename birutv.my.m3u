@@ -1,0 +1,351 @@
+#EXTM3U
+#EXTINF:-1 , TVP 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42933&extension=ts&play_token=2MJadi0RJg
+#EXTINF:-1 , TVP 1 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42936&extension=ts&play_token=JYiVmCQUxW
+#EXTINF:-1 , TVP 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42935&extension=ts&play_token=5ThKo5HGHP
+#EXTINF:-1 , TVP 3
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42934&extension=ts&play_token=rfqZ5S2uZU
+
+#EXTINF:-1 , TVN 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=36162&extension=ts&play_token=89qlwAY8dk
+#EXTINF:-1 , TVN 7 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42941&extension=ts&play_token=bqT172ieTQ
+
+#EXTINF:-1 , Figh Klub
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43044&extension=ts&play_token=5T62OB7DD9
+#EXTINF:-1 , CBS Europa 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43024&extension=ts&play_token=F9axD6JK7B
+#EXTINF:-1 , Power TV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=122588&extension=ts&play_token=4VHidlJi6U
+#EXTINF:-1 , Fox Comedy
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42994&extension=ts&play_token=sVEGN1bDJN
+#EXTINF:-1 , Crime & Investigation 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42987&extension=ts&play_token=uzaySEUljP
+#EXTINF:-1 , Lifetime 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42982&extension=ts&play_token=a6kRF1d9ZA
+#EXTINF:-1 , MTV Polska
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42980&extension=ts&play_token=7EvgcQmEBZ
+#EXTINF:-1 , Polsat Rodzina 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42964&extension=ts&play_token=GQCGm5aLWD
+#EXTINF:-1 , Stopklatka TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42950&extension=ts&play_token=4arkTRCBk0
+#EXTINF:-1 , TNT
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51399&extension=ts&play_token=c2w5LGi9NT
+#EXTINF:-1 , TV6 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42943&extension=ts&play_token=B4uxdZ5HNB
+#EXTINF:-1 , TVP Rozrywka
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42928&extension=ts&play_token=WhecyzhLna
+#EXTINF:-1 , TVP Seriale
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42927&extension=ts&play_token=mKQ7TpEtyj
+#EXTINF:-1 , 4Fun Dance
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43053&extension=ts&play_token=xLwcAcR4dt
+#EXTINF:-1 , 4Fun Gold Hits
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43052&extension=ts&play_token=tsqj1NfGqq
+#EXTINF:-1 , 4Fun TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43051&extension=ts&play_token=l9CeIOs8fz
+#EXTINF:-1 , Disco Polo Music
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43017&extension=ts&play_token=CLjIImNPkG
+#EXTINF:-1 , Eska Rock TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51362&extension=ts&play_token=12MVpKX8zA
+#EXTINF:-1 , Eska TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51360&extension=ts&play_token=TTLAkIYs6E
+#EXTINF:-1 , Eska TV Extra
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51361&extension=ts&play_token=qs5DusNAdZ
+#EXTINF:-1 , Kino Polska Muzyka
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42985&extension=ts&play_token=L3nA3HDys2
+#EXTINF:-1 , MTV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51378&extension=ts&play_token=cHvkaWcqX1
+#EXTINF:-1 , Music VOX
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42979&extension=ts&play_token=isXKFotqbt
+#EXTINF:-1 , Polsat Music
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42966&extension=ts&play_token=wWVL6lHWeG
+#EXTINF:-1 , STARS.TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51395&extension=ts&play_token=b3wXz0RpjQ
+#EXTINF:-1 , MTV 00s
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42924&extension=ts&play_token=Y0noVlmbuy
+#EXTINF:-1 , Baby TV [Multi-Audio]
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43039&extension=ts&play_token=2cIK5k0baq
+#EXTINF:-1 , BBC CBeebies 1080P
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51347&extension=ts&play_token=MkGYz8NhUP
+#EXTINF:-1 , Boomerang
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43036&extension=ts&play_token=GPk4Qw9O80
+#EXTINF:-1 , Cartoon Network 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43026&extension=ts&play_token=GJzSF948L2
+#EXTINF:-1 , Da Vinci
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43018&extension=ts&play_token=B5kLZCARks
+#EXTINF:-1 , Disney Channel 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43012&extension=ts&play_token=EeekcPJFuA
+#EXTINF:-1 , Disney JR
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43011&extension=ts&play_token=HM25sC1bK4
+#EXTINF:-1 , Disney XD
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43010&extension=ts&play_token=ERGd2ZM2UR
+#EXTINF:-1 , Nick JR
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51380&extension=ts&play_token=MyhL02zXdI
+#EXTINF:-1 , NICKELODEON
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51381&extension=ts&play_token=y0t3S4FFzf
+#EXTINF:-1 , Nicktoons
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51382&extension=ts&play_token=lhOQ7i3nUp
+#EXTINF:-1 , Polsat JimJam
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42967&extension=ts&play_token=tRUua35ZoH
+#EXTINF:-1 , TVP ABC
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51407&extension=ts&play_token=gXNhUWsCuP
+#EXTINF:-1 , CANAL+ SERIALE
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51354&extension=ts&play_token=9tuRVnjaUM
+#EXTINF:-1 , Fightbox 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43000&extension=ts&play_token=cJ84xfLn7Q
+#EXTINF:-1 , Food Network
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51365&extension=ts&play_token=4LMqghlbHB
+#EXTINF:-1 , Paramount Channel 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42974&extension=ts&play_token=RevKEKnXBD
+#EXTINF:-1 , Animal Planet
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43045&extension=ts&play_token=QRSfWL3l3Z
+#EXTINF:-1 , BBC Earth 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43038&extension=ts&play_token=dybh05td61
+#EXTINF:-1 , BBC FIRST
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51348&extension=ts&play_token=pBj1KjwwoT
+#EXTINF:-1 , BBC
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43037&extension=ts&play_token=xsAO33c3gR
+#EXTINF:-1 , CBS Reality 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43023&extension=ts&play_token=mLApBf5Azz
+#EXTINF:-1 , Discovery 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43016&extension=ts&play_token=TMNuSJDJ7a
+#EXTINF:-1 , Discovery Historia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51356&extension=ts&play_token=RSHzkphbVf
+#EXTINF:-1 , Discovery Life 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43015&extension=ts&play_token=GkhxCRmqLr
+#EXTINF:-1 , Discovery Science 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43014&extension=ts&play_token=HKcElfZOfp
+#EXTINF:-1 , Discovery Turbo Xtra
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43013&extension=ts&play_token=93TWFYMwyb
+#EXTINF:-1 , Domo+ 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43009&extension=ts&play_token=OswEEclirg
+#EXTINF:-1 , DTX
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51357&extension=ts&play_token=rNx7w4A4CK
+#EXTINF:-1 , E! Entertainment
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51358&extension=ts&play_token=JQDjVAhSHq
+#EXTINF:-1 , Fokus TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51364&extension=ts&play_token=t2VmlScOTc
+#EXTINF:-1 , HGTV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42989&extension=ts&play_token=pQVfMJpOdO
+#EXTINF:-1 , History 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42988&extension=ts&play_token=8J3CW3yKW6
+#EXTINF:-1 , ID TV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51371&extension=ts&play_token=16aok4lG2I
+#EXTINF:-1 , Kuchnia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42983&extension=ts&play_token=fbQI6utxDe
+#EXTINF:-1 , Metro
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51376&extension=ts&play_token=HN6kHuldhu
+#EXTINF:-1 , MiniMini 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42981&extension=ts&play_token=jmPZoezSiv
+#EXTINF:-1 , National Geographic 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42978&extension=ts&play_token=xp4lLVZ29m
+#EXTINF:-1 , Nat Geo Wild 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42976&extension=ts&play_token=29i4B4LZTg
+#EXTINF:-1 , NOWA
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51383&extension=ts&play_token=wB7HyKSWlb
+#EXTINF:-1 , Nuta TV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43050&extension=ts&play_token=pNpEaqn4Aw
+#EXTINF:-1 , Planete+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51385&extension=ts&play_token=z7RE0niTNV
+#EXTINF:-1 , Polo TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51386&extension=ts&play_token=ax9MHFiJ3o
+#EXTINF:-1 , Polsat 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42973&extension=ts&play_token=O3ik00yIJh
+#EXTINF:-1 , Polsat Doku
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51387&extension=ts&play_token=5Zlsf5whe8
+#EXTINF:-1 , Polsat Viasat Explore 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42953&extension=ts&play_token=yt2CJokrrJ
+#EXTINF:-1 , Polsat Viasat History 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42952&extension=ts&play_token=ibEF8fTRPq
+#EXTINF:-1 , Polsat Viasat Nature
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42951&extension=ts&play_token=207XAEgcD1
+#EXTINF:-1 , Red Carpet TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51392&extension=ts&play_token=vBEd95lHQl
+#EXTINF:-1 , Romance TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51393&extension=ts&play_token=nxThYURRqK
+#EXTINF:-1 , SciFi Universal
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43028&extension=ts&play_token=rETuSnpyux
+#EXTINF:-1 , Sundance TV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42949&extension=ts&play_token=dkFtayuqhL
+#EXTINF:-1 , Super Polsat 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51396&extension=ts&play_token=jqK8bNnLeh
+#EXTINF:-1 , teleTOON
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=56858&extension=ts&play_token=Bc9ZbJ4WDx
+#EXTINF:-1 , TLC
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42948&extension=ts&play_token=AifW7VmGOk
+#EXTINF:-1 , Travel Channel
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51402&extension=ts&play_token=IgXriM5DYm
+#EXTINF:-1 , TTV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42947&extension=ts&play_token=bbRxo8jgsz
+#EXTINF:-1 , TV Puls 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42946&extension=ts&play_token=lct93t5GBB
+#EXTINF:-1 , TV Puls 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42945&extension=ts&play_token=XqzF8CLgdh
+#EXTINF:-1 , TV REPUBLIKA
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51404&extension=ts&play_token=MnnQoJCPKW
+#EXTINF:-1 , TVN 24 Bis
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51405&extension=ts&play_token=u86oSecxAq
+#EXTINF:-1 , TVN 24 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42942&extension=ts&play_token=jGGRk0n80q
+#EXTINF:-1 , TVN Fabu�a 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42940&extension=ts&play_token=KzruLFZjhw
+#EXTINF:-1 , TVN Style 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42938&extension=ts&play_token=bITKED4q4H
+#EXTINF:-1 , TVN Turbo 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42937&extension=ts&play_token=WDg7aOxp1B
+#EXTINF:-1 , TVP Historia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42932&extension=ts&play_token=lD0rVlzdoH
+#EXTINF:-1 , TVP Info 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42931&extension=ts&play_token=8mJWDebJLT
+#EXTINF:-1 , TVP Kultura
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42930&extension=ts&play_token=oYHyVAxm0U
+#EXTINF:-1 , TVP Polonia
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42929&extension=ts&play_token=8ApiGtQ2JF
+#EXTINF:-1 , TVS
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=47241&extension=ts&play_token=rGqlUSLj14
+#EXTINF:-1 , wPolsce.pl
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51415&extension=ts&play_token=uLHuQPlFV3
+#EXTINF:-1 , Zoom TV
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51416&extension=ts&play_token=4UM0pplyye
+#EXTINF:-1 , Warner Tv
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129229&extension=ts&play_token=IOPgW6kVNs
+#EXTINF:-1 , Tele5
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129227&extension=ts&play_token=r1LcnIWicH
+#EXTINF:-1 , Nat Geo People 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129225&extension=ts&play_token=5HCUGcmKYs
+#EXTINF:-1 , Ci Polsat 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129224&extension=ts&play_token=dBM61CjVQK
+#EXTINF:-1 , Canal Plus Domo 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129223&extension=ts&play_token=qtNK8P16eS
+#EXTINF:-1 , Antena
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129219&extension=ts&play_token=yWuCXwyB3Q
+#EXTINF:-1 , History 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129218&extension=ts&play_token=0TKOl3rIEz
+#EXTINF:-1 , 4Fun Kids
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129215&extension=ts&play_token=3gedViBEjy
+#EXTINF:-1 , Music Box Polska
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=129214&extension=ts&play_token=KdV556stwd
+#EXTINF:-1 , Polsat 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42970&extension=ts&play_token=z0CKz6J4IU
+#EXTINF:-1 , Polsat Cafe 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42971&extension=ts&play_token=g0mY0EpXNW
+#EXTINF:-1 , Polsat News 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42965&extension=ts&play_token=2ceC2lajnF
+#EXTINF:-1 , Polsat News 2
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51388&extension=ts&play_token=s7i9hKAbi0
+#EXTINF:-1 , Polsat Play
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51389&extension=ts&play_token=wczGnDX8EA
+#EXTINF:-1 , TV4 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42944&extension=ts&play_token=XlrVAhgpPr
+#EXTINF:-1 , 13 Ulica 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43054&extension=ts&play_token=UzkWMNJATF
+#EXTINF:-1 , Ale Kino 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43048&extension=ts&play_token=s6d2S3aRBD
+#EXTINF:-1 , AMC Polska
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43047&extension=ts&play_token=rSPNMCXc6v
+#EXTINF:-1 , AXN 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43042&extension=ts&play_token=x0wn51DdVz
+#EXTINF:-1 , AXN Black
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43043&extension=ts&play_token=zkfN0lF8ST
+#EXTINF:-1 , AXN White
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43040&extension=ts&play_token=a3CJVHBbx6
+#EXTINF:-1 , AXN Spin
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43041&extension=ts&play_token=T6gKKpjXzl
+#EXTINF:-1 , CANAL+ FILM
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=56857&extension=ts&play_token=iTbEmgNbHq
+#EXTINF:-1 , Cinemax 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43021&extension=ts&play_token=kZa3fhlVpg
+#EXTINF:-1 , Cinemax 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43022&extension=ts&play_token=C0098tXfE9
+#EXTINF:-1 , Comedy Central
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43020&extension=ts&play_token=N2TuYLHk6Q
+#EXTINF:-1 , Epic Drama
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51359&extension=ts&play_token=NEIZcfQS4G
+#EXTINF:-1 , Filmbox Action
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42999&extension=ts&play_token=uha7JHp5IC
+#EXTINF:-1 , Filmbox Arthouse
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42998&extension=ts&play_token=wHQkF9eXUw
+#EXTINF:-1 , Filmbox Extra 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42997&extension=ts&play_token=0LAKfDYs07
+#EXTINF:-1 , Filmbox Family
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42996&extension=ts&play_token=CMK9PKAv6u
+#EXTINF:-1 , FilmBox Premium 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42995&extension=ts&play_token=3DMs82nKl3
+#EXTINF:-1 , FOX
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51367&extension=ts&play_token=QKN0OaTSyu
+#EXTINF:-1 , HBO 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42990&extension=ts&play_token=reJffRYGhl
+#EXTINF:-1 , HBO 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42992&extension=ts&play_token=9dCNmgZI2Z
+#EXTINF:-1 , HBO 3 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42991&extension=ts&play_token=ETQHoBJVGN
+#EXTINF:-1 , Kino Polska 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42986&extension=ts&play_token=vVbn6V2FHP
+#EXTINF:-1 , Kino TV 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51373&extension=ts&play_token=gkI3qGxeeI
+#EXTINF:-1 , Polsat Film
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42969&extension=ts&play_token=Xjvltf9pvH
+#EXTINF:-1 , Canal Seriale 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43031&extension=ts&play_token=uY5fVJHFlp
+#EXTINF:-1 , Active Family
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51345&extension=ts&play_token=uh1sf6nL4b
+#EXTINF:-1 , Adventure 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43049&extension=ts&play_token=cgnR4D6Kk2
+#EXTINF:-1 , Canal+ 1 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43035&extension=ts&play_token=FcXWaMFsRV
+#EXTINF:-1 , Canal Family 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43032&extension=ts&play_token=TTYcPOAenB
+#EXTINF:-1 , CANAL
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51350&extension=ts&play_token=hDdomvT28p
+#EXTINF:-1 , Canal+
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51353&extension=ts&play_token=KGGYaEzCk7
+#EXTINF:-1 , Canal Sport 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43029&extension=ts&play_token=cNHYSae8jH
+#EXTINF:-1 , Canal Sport 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43030&extension=ts&play_token=rmqsKbrGwZ
+#EXTINF:-1 , CANAL SPORT 3
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=56855&extension=ts&play_token=Zoj8OLTxZd
+#EXTINF:-1 , CANAL SPORT 4
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=56854&extension=ts&play_token=Z6JAffE0fU
+#EXTINF:-1 , Eleven Sports 1 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43007&extension=ts&play_token=XuDxPaXgXa
+#EXTINF:-1 , Eleven Sports 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43006&extension=ts&play_token=O3xoOT3UbF
+#EXTINF:-1 , Eleven Sports 3 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43005&extension=ts&play_token=M0GmfqmkhA
+#EXTINF:-1 , Eleven Sports 4 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43004&extension=ts&play_token=qWJQsxEM8h
+#EXTINF:-1 , Eurosport 1
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43003&extension=ts&play_token=pSFP1gcx4R
+#EXTINF:-1 , EuroSport 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43002&extension=ts&play_token=jqMgyPRfJn
+#EXTINF:-1 , Extreme Sports 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=43001&extension=ts&play_token=3eTrF4lBdy
+#EXTINF:-1 , nSport 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42975&extension=ts&play_token=QZIxTQC3Oj
+#EXTINF:-1 , Polsat Sport 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42961&extension=ts&play_token=L6DgyOLR70
+#EXTINF:-1 , Polsat Sport Extra 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42962&extension=ts&play_token=eFBjinXjPg
+#EXTINF:-1 , Polsat Sport Fight 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42960&extension=ts&play_token=j30AvCmwhA
+#EXTINF:-1 , Polsat Sport News
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51390&extension=ts&play_token=8GO3IJXk1x
+#EXTINF:-1 , Polsat Sport Premium 1 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42959&extension=ts&play_token=Ri6fmGii6m
+#EXTINF:-1 , Polsat Sport Premium 2 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42958&extension=ts&play_token=Dbu6HyQU2F
+#EXTINF:-1 , Polsat Sport Premium PPV 4 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42956&extension=ts&play_token=wK8NxoiZDS
+#EXTINF:-1 , SPORT KLUB
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51394&extension=ts&play_token=Kuuh29oJ7o
+#EXTINF:-1 , TVP Sport 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=42926&extension=ts&play_token=yN9rxG0BB4
+#EXTINF:-1 , Golf Channel
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=51368&extension=ts&play_token=OVE7RTowQe
+#EXTINF:-1 , Fight Klub 
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=119657&extension=ts&play_token=4rm3b8tFNV
+#EXTINF:-1 , Novela Plus
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:36:7F:43&stream=166411&extension=ts&play_token=XVqVGu6Hfr

@@ -1,0 +1,343 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png",TVP
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42933&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp1hd.png",TVP 1
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42936&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp2hd.png",TVP 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42935&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Novela Plus
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=166411&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/poland_bayrak.gif",TVN
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=36162&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn7hd.png",TVN 7
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42941&extension=ts
+
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png",TVP 3
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42934&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13ulicahd.png",13 Ulica
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43054&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/alekinoplus.png",Ale Kino
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43048&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/amcushd.png",AMC Polska
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43047&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/atmrozrywka.png",ATM Rozrywka TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43044&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png",AXN
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43042&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnblackpl.png",AXN Black
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43043&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnwhitehd.png",AXN White
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43040&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnspinhd.png",AXN Spin
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43041&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",CANAL+ FILM
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=56857&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png",CBS Europa
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43024&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemaxhd.png",Cinemax
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43021&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png",Cinemax 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43022&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedycentral.png",Comedy Central
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43020&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Epic Drama
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51359&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png",Power TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=122588&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxaction.png",Filmbox Action
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42999&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxextrahd.png",Filmbox Extra
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42997&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxfamily.png",Filmbox Family
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42996&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxpremium.png",FilmBox Premium
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42995&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",FOX
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51367&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxcomedy.png",Fox Comedy
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42994&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbohd.png",HBO
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42990&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo2lamhd.png",HBO 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42992&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo3hd.png",HBO 3
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42991&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png",Crime & Investigation
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42987&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolska.png",Kino Polska
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42986&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Kino TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51373&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lifetimehd.png",Lifetime
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42982&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtv.png",MTV Polska
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42980&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatfilmhd.png",Polsat Film
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42969&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/stopklatkatv.png",Stopklatka TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42950&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",TNT
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51399&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv6-lichoridas.png",TV6
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42943&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvprozrywka.png",TVP Rozrywka
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42928&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpseriale.png",TVP Seriale
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42927&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpldance.png",4Fun Dance
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43053&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvplgoldhits.png",4Fun Gold Hits
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43052&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpl.png",4Fun TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43051&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discopolomusic.png",Disco Polo Music
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43017&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Eska Rock TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51362&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Eska TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51360&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Eska TV Extra
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51361&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolskamuzyka.png",Kino Polska Muzyka
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42985&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",MTV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51378&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxmusictv.png",Music VOX
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42979&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png",Polsat Music
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42966&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",STARS.TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51395&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vh1.png",MTV 00s
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42924&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png",Baby TV [Multi-Audio]
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43039&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",BBC CBeebies 1080P
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51347&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png",Boomerang
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43036&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png",Cartoon Network
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43026&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearning.png",Da Vinci
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43018&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png",Disney Channel
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43012&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjuniorhd.png",Disney JR
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43011&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyxd.png",Disney XD
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43010&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Nick JR
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51380&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",NICKELODEON
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51381&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Nicktoons
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51382&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jimjam.png",Polsat JimJam
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42967&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",TVP ABC
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51407&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusserialehd-lichoridas.png",Canal Seriale
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43031&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",CANAL+ SERIALE
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51354&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport.png",Canal Sport
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43029&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png",Canal Sport 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43030&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png",CANAL SPORT 3
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=56855&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png",CANAL SPORT 4
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=56854&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png",Eleven Sports 1
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43007&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png",Eleven Sports 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43006&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png",Eleven Sports 3
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43005&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png",Eleven Sports 4
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43004&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png",Eurosport 1
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43003&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png",EuroSport 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43002&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/extremesportshd.png",Extreme Sports
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43001&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/fightboxhd.png",Fightbox
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43000&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Food Network
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51365&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nsportplushd.png",nSport
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42975&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/paramountchannel.png",Paramount Channel
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42974&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42961&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportextra.png",Polsat Sport Extra
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42962&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportfighthd.png",Polsat Sport Fight
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42960&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Polsat Sport News
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51390&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport Premium 1
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42959&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport Premium 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42958&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png",Polsat Sport Premium PPV 4
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42956&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",SPORT KLUB
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51394&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpsporthd.png",TVP Sport
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42926&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Active Family
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51345&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/adventurehd.png",Adventure
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43049&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png",Animal Planet
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43045&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbcearth.png",BBC Earth
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43038&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",BBC FIRST
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51348&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbchd.png",BBC
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43037&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplus1hd-lichoridas.png",Canal 1
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43035&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusfamily.png",Canal Family
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43032&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",CANAL
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51350&extension=ts
+#EXTINF:-1 group-title="PL - CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Canal+
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51353&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbsreality.png",CBS Reality
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43023&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryhd.png",Discovery
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43016&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Discovery Historia
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51356&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverylifehd.png",Discovery Life
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43015&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverysciencehd.png",Discovery Science
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43014&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryturboxtra.png",Discovery Turbo Xtra
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43013&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/domoplushd.png",Domo+
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43009&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",DTX
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51357&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",E! Entertainment
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51358&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Golf Channel
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51368&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hgtv.png",HGTV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42989&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png",History
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42988&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",ID TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51371&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kuchniaplushd.png",Kuchnia
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42983&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Metro
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51376&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/miniminiplus.png",MiniMini
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42981&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png",National Geographic
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42978&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png",Nat Geo Wild
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42976&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",NOWA
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51383&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nutatvplhd.png",Nuta TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43050&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Planete+
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51385&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Polo TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51386&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat2hd.png",Polsat 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42973&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Polsat Doku
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51387&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatexplorehd.png",Polsat Viasat Explore
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42953&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasathistoryhd.png",Polsat Viasat History
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42952&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatnature.png",Polsat Viasat Nature
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42951&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Red Carpet TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51392&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Romance TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51393&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/scifi-lichoridas.png",SciFi Universal
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=43028&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sundancetv.png",Sundance TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42949&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Super Polsat
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51396&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",teleTOON
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=56858&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png",TLC
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42948&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Travel Channel
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51402&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ttv.png",TTV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42947&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png",TV Puls 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42946&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png",TV Puls
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42945&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",TV REPUBLIKA
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51404&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",TVN 24 Bis
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51405&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn24hd.png",TVN 24
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42942&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnfabula.png",TVN Fabuła
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42940&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnstyle.png",TVN Style
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42938&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnturbohd.png",TVN Turbo
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42937&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphistoria.png",TVP Historia
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42932&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpinfo.png",TVP Info
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42931&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpkultura.png",TVP Kultura
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42930&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvppolonia.png",TVP Polonia
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42929&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",wPolsce.pl
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51415&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Zoom TV
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51416&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Warner Tv
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129229&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Tele5
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129227&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Wydarzenia 24
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129226&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Nat Geo People
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129225&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Ci Polsat
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129224&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Canal Plus Domo
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129223&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",Antena
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129219&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",History 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129218&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA",4Fun Kids
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=129215&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png",Polsat
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42970&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatcafehd.png",Polsat Cafe
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42971&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatnewshd.png",Polsat News
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42965&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Polsat News 2
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51388&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png",Polsat Play
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=51389&extension=ts
+#EXTINF:-1 group-title="PL - POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4sevenhd.png",TV4
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=42944&extension=ts
+#EXTINF:-1 group-title="PL - SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/poland/fight_klub_pl.jpg",Fight Klub
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:AD:73&stream=119657&extension=ts

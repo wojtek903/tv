@@ -1,0 +1,383 @@
+#EXTM3U
+#EXTINF:-1 ,TVP
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227464&extension=ts
+#EXTINF:-1 ,TVP 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227463&extension=ts
+#EXTINF:-1 ,TVP 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227462&extension=ts
+#EXTINF:-1 ,TVP 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227461&extension=ts
+#EXTINF:-1 ,TVP POLONIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227460&extension=ts
+#EXTINF:-1 ,TV4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227459&extension=ts
+#EXTINF:-1 ,TELE 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227458&extension=ts
+#EXTINF:-1 ,TV6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227457&extension=ts
+#EXTINF:-1 ,POLONIA 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227456&extension=ts
+#EXTINF:-1 ,POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227455&extension=ts
+#EXTINF:-1 ,POLSAT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227454&extension=ts
+#EXTINF:-1 ,SUPER POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227453&extension=ts
+#EXTINF:-1 ,TVN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227452&extension=ts
+#EXTINF:-1 ,TVN 7
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227451&extension=ts
+#EXTINF:-1 ,TVS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227450&extension=ts
+#EXTINF:-1 ,TTV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227449&extension=ts
+#EXTINF:-1 ,TV PULS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227448&extension=ts
+#EXTINF:-1 ,POLSAT RODZINA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227447&extension=ts
+#EXTINF:-1 ,CANAL+ PREMIUM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227446&extension=ts
+#EXTINF:-1 ,CANAL+ 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227445&extension=ts
+#EXTINF:-1 ,CANAL+ 360
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227444&extension=ts
+#EXTINF:-1 ,CANAL+ DOKUMENT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227443&extension=ts
+#EXTINF:-1 ,CANAL+ NOW
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227442&extension=ts
+#EXTINF:-1 ,CANAL+ DOMO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227441&extension=ts
+#EXTINF:-1 ,CANAL+ KUCHNIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227440&extension=ts
+#EXTINF:-1 ,CANAL+ FILM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227439&extension=ts
+#EXTINF:-1 ,CANAL+ SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227438&extension=ts
+#EXTINF:-1 ,CANAL+ DISCOVERY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227437&extension=ts
+#EXTINF:-1 ,FILMBOX EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227436&extension=ts
+#EXTINF:-1 ,FILMBOX PREMIUM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227435&extension=ts
+#EXTINF:-1 ,FILMBOX ACTION
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227434&extension=ts
+#EXTINF:-1 ,FILMBOX FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227433&extension=ts
+#EXTINF:-1 ,FILMBOX ARTHOUSE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227432&extension=ts
+#EXTINF:-1 ,CINEMAX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227431&extension=ts
+#EXTINF:-1 ,CINEMAX 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227430&extension=ts
+#EXTINF:-1 ,HBO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227429&extension=ts
+#EXTINF:-1 ,HBO 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227428&extension=ts
+#EXTINF:-1 ,HBO 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227427&extension=ts
+#EXTINF:-1 ,VOD 205
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227426&extension=ts
+#EXTINF:-1 ,VOD 206
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227425&extension=ts
+#EXTINF:-1 ,VOD 207
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227424&extension=ts
+#EXTINF:-1 ,VOD 208
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227423&extension=ts
+#EXTINF:-1 ,KINO POLSKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227422&extension=ts
+#EXTINF:-1 ,FX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227421&extension=ts
+#EXTINF:-1 ,FX COMEDY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227420&extension=ts
+#EXTINF:-1 ,AXN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227419&extension=ts
+#EXTINF:-1 ,AXN WHITE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227418&extension=ts
+#EXTINF:-1 ,AXN BLACK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227417&extension=ts
+#EXTINF:-1 ,AXN SPIN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227416&extension=ts
+#EXTINF:-1 ,SYFY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227415&extension=ts
+#EXTINF:-1 ,13 ULICA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227414&extension=ts
+#EXTINF:-1 ,E! ENTERTAINMENT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227413&extension=ts
+#EXTINF:-1 ,TVP SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227412&extension=ts
+#EXTINF:-1 ,CBS EUROPA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227411&extension=ts
+#EXTINF:-1 ,POLSAT SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227410&extension=ts
+#EXTINF:-1 ,COMEDY CENTRAL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227409&extension=ts
+#EXTINF:-1 ,TLC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227408&extension=ts
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227407&extension=ts
+#EXTINF:-1 ,AMC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227406&extension=ts
+#EXTINF:-1 ,TVP KULTURA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227405&extension=ts
+#EXTINF:-1 ,TRAVEL CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227404&extension=ts
+#EXTINF:-1 ,TVN FABULA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227403&extension=ts
+#EXTINF:-1 ,TVN TURBO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227402&extension=ts
+#EXTINF:-1 ,ADVENTURE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227401&extension=ts
+#EXTINF:-1 ,DA VINCI
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227400&extension=ts
+#EXTINF:-1 ,FOOD NETWORK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227399&extension=ts
+#EXTINF:-1 ,DOMO+ 
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227398&extension=ts
+#EXTINF:-1 ,DTX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227397&extension=ts
+#EXTINF:-1 ,FOKUS TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227396&extension=ts
+#EXTINF:-1 ,KUCHNIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227395&extension=ts
+#EXTINF:-1 ,MOTOWIZJA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227394&extension=ts
+#EXTINF:-1 ,POWER TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227392&extension=ts
+#EXTINF:-1 ,PULS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227391&extension=ts
+#EXTINF:-1 ,ROMANCE TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227390&extension=ts
+#EXTINF:-1 ,WP
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227389&extension=ts
+#EXTINF:-1 ,ACTIVE FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227388&extension=ts
+#EXTINF:-1 ,BBC BRIT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227387&extension=ts
+#EXTINF:-1 ,BBC LIFESTYLE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227386&extension=ts
+#EXTINF:-1 ,BBC FIRST
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227385&extension=ts
+#EXTINF:-1 ,BABY TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227384&extension=ts
+#EXTINF:-1 ,POLSAT JIM JAM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227383&extension=ts
+#EXTINF:-1 ,CARTOONITO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227382&extension=ts
+#EXTINF:-1 ,CARTOON NETWORK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227381&extension=ts
+#EXTINF:-1 ,DISNEY XD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227380&extension=ts
+#EXTINF:-1 ,DISNEY JUNIOR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227379&extension=ts
+#EXTINF:-1 ,DISNEY CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227378&extension=ts
+#EXTINF:-1 ,NICK JR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227377&extension=ts
+#EXTINF:-1 ,NICKELODEON
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227376&extension=ts
+#EXTINF:-1 ,NICKTOONS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227375&extension=ts
+#EXTINF:-1 ,TELETOON 
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227374&extension=ts
+#EXTINF:-1 ,MINIMINI 
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227373&extension=ts
+#EXTINF:-1 ,BBC CBEEBIES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227372&extension=ts
+#EXTINF:-1 ,POLSAT GAMES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227371&extension=ts
+#EXTINF:-1 ,TBN POLAND
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227370&extension=ts
+#EXTINF:-1 ,MTV LIVE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227369&extension=ts
+#EXTINF:-1 ,TVP ROZRYWKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227367&extension=ts
+#EXTINF:-1 ,KINO POLSKA MUZYKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227365&extension=ts
+#EXTINF:-1 ,MTV POLSKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227364&extension=ts
+#EXTINF:-1 ,MTV MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227363&extension=ts
+#EXTINF:-1 ,ALE KINO 
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227362&extension=ts
+#EXTINF:-1 ,GOLD TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227361&extension=ts
+#EXTINF:-1 ,TVP ABC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227360&extension=ts
+#EXTINF:-1 ,POLSAT CAFE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227359&extension=ts
+#EXTINF:-1 ,POLSAT PLAY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227358&extension=ts
+#EXTINF:-1 ,POLO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227357&extension=ts
+#EXTINF:-1 ,METRO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227356&extension=ts
+#EXTINF:-1 ,ZOOM TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227355&extension=ts
+#EXTINF:-1 ,NOVELA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227354&extension=ts
+#EXTINF:-1 ,SUNDANCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227353&extension=ts
+#EXTINF:-1 ,TVN STYLE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227352&extension=ts
+#EXTINF:-1 ,HGTV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227351&extension=ts
+#EXTINF:-1 ,NOWA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227350&extension=ts
+#EXTINF:-1 ,TV OKAZJE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227349&extension=ts
+#EXTINF:-1 ,CBS REALITY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227348&extension=ts
+#EXTINF:-1 ,EPIC DRAMA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227347&extension=ts
+#EXTINF:-1 ,WARNER
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227346&extension=ts
+#EXTINF:-1 ,POLSAT FILM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227345&extension=ts
+#EXTINF:-1 ,KINO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227344&extension=ts
+#EXTINF:-1 ,STOPKLATKA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227343&extension=ts
+#EXTINF:-1 ,STARS.TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227342&extension=ts
+#EXTINF:-1 ,4FUN.TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227341&extension=ts
+#EXTINF:-1 ,POLSAT MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227340&extension=ts
+#EXTINF:-1 ,VOX MUSIC TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227339&extension=ts
+#EXTINF:-1 ,ESKA ROCK TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227338&extension=ts
+#EXTINF:-1 ,ESKA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227337&extension=ts
+#EXTINF:-1 ,ESKA TV EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227336&extension=ts
+#EXTINF:-1 ,NGC PEOPLE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227335&extension=ts
+#EXTINF:-1 ,ANIMAL PLANET
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227334&extension=ts
+#EXTINF:-1 ,CI POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227332&extension=ts
+#EXTINF:-1 ,HISTORY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227331&extension=ts
+#EXTINF:-1 ,ID
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227330&extension=ts
+#EXTINF:-1 ,TVP HISTORIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227329&extension=ts
+#EXTINF:-1 ,BBC EARTH
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227328&extension=ts
+#EXTINF:-1 ,H2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227327&extension=ts
+#EXTINF:-1 ,POLSAT DOKU
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227326&extension=ts
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227325&extension=ts
+#EXTINF:-1 ,DISCOVERY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227324&extension=ts
+#EXTINF:-1 ,DISCOVERY LIFE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227323&extension=ts
+#EXTINF:-1 ,DISCOVERY HISTORIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227322&extension=ts
+#EXTINF:-1 ,DISCO POLO MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227321&extension=ts
+#EXTINF:-1 ,4FUN GOLD HITS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227320&extension=ts
+#EXTINF:-1 ,4FUN DANCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227319&extension=ts
+#EXTINF:-1 ,POLSAT VIASAT EXPLORE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227318&extension=ts
+#EXTINF:-1 ,NGC WILD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227317&extension=ts
+#EXTINF:-1 ,WATER PLANET
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227316&extension=ts
+#EXTINF:-1 ,POLSAT VIASAT HISTORY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227315&extension=ts
+#EXTINF:-1 ,POLSAT VIASAT NATURE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227314&extension=ts
+#EXTINF:-1 ,NGC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227313&extension=ts
+#EXTINF:-1 ,CRIME & INVESTIGATION
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227312&extension=ts
+#EXTINF:-1 ,POLSAT SPORT EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227311&extension=ts
+#EXTINF:-1 ,POLSAT SPORT FIGHT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227310&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227309&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227308&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227307&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227306&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227305&extension=ts
+#EXTINF:-1 ,EUROSPORT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227303&extension=ts
+#EXTINF:-1 ,EUROSPORT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227302&extension=ts
+#EXTINF:-1 ,POLSAT SPORT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227301&extension=ts
+#EXTINF:-1 ,EXTREME SPORTS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227300&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREM. 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227299&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREM. 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227298&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREM. 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227297&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREM. 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227296&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREM. 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227295&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREM  PPV6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227294&extension=ts
+#EXTINF:-1 ,ELEVEN SPORT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227293&extension=ts
+#EXTINF:-1 ,ELEVEN SPORT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227292&extension=ts
+#EXTINF:-1 ,ELEVEN SPORT 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227291&extension=ts
+#EXTINF:-1 ,ELEVEN SPORT 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227290&extension=ts
+#EXTINF:-1 ,GOLF CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227289&extension=ts
+#EXTINF:-1 ,FIGHTBOX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227288&extension=ts
+#EXTINF:-1 ,FIGHTKLUB
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227287&extension=ts
+#EXTINF:-1 ,PPV KSW FIGHTS (LIVE ON MATCHES)
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227286&extension=ts
+#EXTINF:-1 ,TVP SPORT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227285&extension=ts
+#EXTINF:-1 ,POLSAT SPORT NEWS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227284&extension=ts
+#EXTINF:-1 ,CANAL+ EXTRA 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=879145&extension=ts
+#EXTINF:-1 ,CANAL+ EXTRA 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=879146&extension=ts
+#EXTINF:-1 ,CANAL+ EXTRA 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=879147&extension=ts
+#EXTINF:-1 ,CANAL+ EXTRA 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=879148&extension=ts
+#EXTINF:-1 ,TVN 24
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227282&extension=ts
+#EXTINF:-1 ,TVN24 BIZ
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227281&extension=ts
+#EXTINF:-1 ,POLSAT NEWS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227280&extension=ts
+#EXTINF:-1 ,POLSAT NEWS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227279&extension=ts
+#EXTINF:-1 ,WYDARZENIA 24
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227278&extension=ts
+#EXTINF:-1 ,TV REPUBLIKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227277&extension=ts
+#EXTINF:-1 ,WPOLSCE.PL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227276&extension=ts
+#EXTINF:-1 ,TVP INFO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227275&extension=ts
+#EXTINF:-1 ,POLSAT COMEDY CENTRAL EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227273&extension=ts
+#EXTINF:-1 ,NOVELAS+
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227272&extension=ts
+#EXTINF:-1 ,iTVN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:0E:14:FA&stream=227269&extension=ts

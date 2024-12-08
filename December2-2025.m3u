@@ -1,0 +1,379 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png",TVP
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227464&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP1_logo.png",TVP 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227463&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP2_logo.png",TVP 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227462&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP3_(2016).svg.png",TVP 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227461&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png",TVP POLONIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227460&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV4-2023.svg.png",TV4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227459&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Tele_5_29.png",TELE 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227458&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV6_Logo_2022.svg.png",TV6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227457&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/LogoPolonia1.png",POLONIA 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227456&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_logo.png",POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227455&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_2_logo.png",POLSAT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227454&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Super_Polsat_2021_gradient.svg.png",SUPER POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227453&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_logo.png",TVN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227452&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN7_logo_2021.svg.png",TVN 7
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227451&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVS_(Fernsehsender)_Logo.svg.png",TVS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227450&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Ttv_logo.svg.png",TTV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227449&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png",TV PULS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227448&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Rodzina.png",POLSAT RODZINA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227447&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Premium.svg.png",CANAL+ PREMIUM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227446&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png",CANAL+ 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227445&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfamily.png",CANAL+ FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227444&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-CANAL+_DOKUMENT.png",CANAL+ DOKUMENT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227443&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/C+Now.png",CANAL+ NOW
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227442&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Domo_logo_od_2021.png",CANAL+ DOMO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227441&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Kuchnia_logo_od_2021.png",CANAL+ KUCHNIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227440&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfilm.png",CANAL+ FILM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227439&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canal-plus-seriale.png",CANAL+ SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227438&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery.png",CANAL+ DISCOVERY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227437&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_extra_pl.png",FILMBOX EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227436&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FilmBoxPremium-logo.png",FILMBOX PREMIUM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227435&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox-action.png",FILMBOX ACTION
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227434&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/filmbox-famly-logo.png",FILMBOX FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227433&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_arthouse_pl.png",FILMBOX ARTHOUSE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227432&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_red.png",CINEMAX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227431&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_2_logo.png",CINEMAX 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227430&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO_logo.svg.png",HBO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227429&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/640px-HBO_2_Logo_Poland.png",HBO 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227428&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO3.png",HBO 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227427&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png",VOD 205
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227426&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png",VOD 206
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227425&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png",VOD 207
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227424&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png",VOD 208
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227423&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Kino_Polska_-_Logo.png",KINO POLSKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227422&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/foxhd.png",FX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227421&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FOX_COMEDY.png",FX COMEDY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227420&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_logo_(2015).svg.png",AXN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227419&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_White_logo_(2015).svg.png",AXN WHITE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227418&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_Black_logo_(2015).svg.png",AXN BLACK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227417&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_Spin_logo_(2015).svg.png",AXN SPIN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227416&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/220px-Syfy.svg.png",SYFY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227415&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/13_Ulica_with_Slogan.png",13 ULICA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227414&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/eentertainment.png",E! ENTERTAINMENT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227413&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-TVP_SERIALE.png",TVP SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227412&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CBS_Europa.png",CBS EUROPA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227411&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Seriale_2021_gradient.svg.png",POLSAT SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227410&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Comedy_Central_2018.svg%20(1).png",COMEDY CENTRAL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227409&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TLC-Logo_2016.svg.png",TLC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227408&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Paramount_Channel.png",PARAMOUNT CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227407&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AMC.png",AMC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227406&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvpkultura.png",TVP KULTURA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227405&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Travel_Channel_HD.png",TRAVEL CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227404&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_Fabu%C5%82a_logo_2015.png",TVN FABULA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227403&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_Turbo_HD.png",TVN TURBO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227402&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/adventuretv.png",ADVENTURE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227401&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/davinci.png",DA VINCI
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227400&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Food_Network.png",FOOD NETWORK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227399&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Domo.tv_logo.png",DOMO+
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227398&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-DTX_Logo.png",DTX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227397&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FOKUS-TV-GnT.png",FOKUS TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227396&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Kuchnia_logo_od_2021.png",KUCHNIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227395&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/motowizja.png",MOTOWIZJA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227394&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/POWER_TV_HD.png",POWER TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227392&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/puls2.png",PULS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227391&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Romance_TV_Logo_10.2019.svg.png",ROMANCE TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227390&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/WP.png",WP
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227389&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/activefamily.png",ACTIVE FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227388&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/BBC_Brit_29.png",BBC BRIT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227387&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/bbclifestyle.png",BBC LIFESTYLE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227386&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/bbcfirst.png",BBC FIRST
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227385&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/babytv.png",BABY TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227384&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/JimJam_logo.png",POLSAT JIM JAM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227383&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Boomerang_tv_logo.png",CARTOONITO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227382&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cartoon_Network.png",CARTOON NETWORK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227381&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Disney_XD.png",DISNEY XD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227380&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Disney_Junior_Logo.png",DISNEY JUNIOR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227379&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Disney_Channel_2022.png",DISNEY CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227378&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nick_Jr._logo_2023.png",NICK JR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227377&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nickelodeon_2023_logo_(outline).svg.png",NICKELODEON
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227376&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nicktoons_2023_(outline).png",NICKTOONS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227375&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Teletoon.png",TELETOON
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227374&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/MiniMini_logo.png",MINIMINI
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227373&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cbeebies.png",BBC CBEEBIES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227372&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Games.png",POLSAT GAMES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227371&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TBN%20Polska%20Logo%20-%20Large.png",TBN POLAND
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227370&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVLIVEHD.png",MTV LIVE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227369&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvprozrywka.png",TVP ROZRYWKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227367&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/kinopolskamuzyka.png",KINO POLSKA MUZYKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227365&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/MTV_29,png.png",MTV POLSKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227364&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/mtvmusic.png",MTV MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227363&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1280px-Ale_Kino!_2006_-_Logo.svg.png",ALE KINO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227362&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/GOLDTV-logo.png",GOLD TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227361&extension=ts
+#EXTINF:-1 group-title="BAJKI" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Logo_TVP_ABC.svg.png",TVP ABC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227360&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Caf%C3%A9_2021_gradient.svg.png",POLSAT CAFE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227359&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Play_2021_gradient.svg.png",POLSAT PLAY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227358&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polo_TV_(2016).svg.png",POLO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227357&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Metro_-_logo_stacji_telewizyjnej.png",METRO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227356&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Zoom_TV_(Poland).png",ZOOM TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227355&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Logo_novela_tv.png",NOVELA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227354&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Sundance_TV.png",SUNDANCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227353&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Tvn_style.png",TVN STYLE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227352&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HGTV_2010.png",HGTV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227351&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/nova_tv_logo_podstawowe_v12_duze-01.png",NOWA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227350&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CBS_Reality.png",CBS REALITY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227348&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Epic_Drama.png",EPIC DRAMA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227347&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Warner2018LA.png",WARNER
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227346&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatfilm.png",POLSAT FILM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227345&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/KinoTV-logo-black.png",KINO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227344&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/stopklatka.png",STOPKLATKA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227343&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Starz_TV.png",STARS.TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227342&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN.TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227341&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Music.svg.png",POLSAT MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227340&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Vox_Music.png",VOX MUSIC TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227339&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/EskaTV_logo_2011.png",ESKA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227337&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eska_TV_Extra_-_Nowy_Kana%C5%82_zast%C4%85pi%C5%82_Eska_TV.png",ESKA TV EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227336&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nat_Geo_People.png",NGC PEOPLE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227335&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227334&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Planete.png",PLANETE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227333&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CI_Polsat.png",CI POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227332&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/History.png",HISTORY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227331&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png",ID
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227330&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-TVP_Historia_logo.svg%20(1).png",TVP HISTORIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227329&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/bbcearth.png",BBC EARTH
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227328&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/h2.png",H2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227327&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Doku_2021_gradient.svg.png",POLSAT DOKU
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227326&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery_Science.png",DISCOVERY SCIENCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227325&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery.png",DISCOVERY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227324&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery_Life_29.png",DISCOVERY LIFE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227323&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery_Historia.png",DISCOVERY HISTORIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227322&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/disco-polo-polska-poland-polen-sticker.png",DISCO POLO MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227321&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN GOLD HITS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227320&extension=ts
+#EXTINF:-1 group-title="MUZYKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png",4FUN DANCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227319&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Viasat_Explore.png",POLSAT VIASAT EXPLORE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227318&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/National_Geographic_Wild_Logo_2019.svg.png",NGC WILD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227317&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Viasat_History.png",POLSAT VIASAT HISTORY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227315&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnature.png",POLSAT VIASAT NATURE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227314&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Crime.png",CRIME & INVESTIGATION
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227312&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Extra_2021_gradient.svg.png",POLSAT SPORT EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227311&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Fight.png",POLSAT SPORT FIGHT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227310&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Sport_2015.png",CANAL+ SPORT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227309&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Sport_2_PL.png",CANAL+ SPORT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227308&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalsport3.png",CANAL+ SPORT 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227307&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalsport4.png",CANAL+ SPORT 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227306&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CANAL+_Sport_5.png",CANAL+ SPORT 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227305&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Sportklub_logo%20(1).png",SPORT KLUB
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227304&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eurosport.png",EUROSPORT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227303&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eurosport.png",EUROSPORT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227302&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_2021_gradient.svg.png",POLSAT SPORT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227301&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Extreme_Sports_Channel.svg.png",EXTREME SPORTS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227300&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium1.png",POLSAT SPORT PREM. 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227299&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_2_2021.png",POLSAT SPORT PREM. 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227298&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_3_PPV_2021%20(1).png",POLSAT SPORT PREM. 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227297&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsat_sport_premium_4.png",POLSAT SPORT PREM. 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227296&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatpremium5.png",POLSAT SPORT PREM. 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227295&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsta_sport_premium_6.png",POLSAT SPORT PREM  PPV6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227294&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png",ELEVEN SPORT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227293&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png",ELEVEN SPORT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227292&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png",ELEVEN SPORT 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227291&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png",ELEVEN SPORT 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227290&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Golf-Channel-Polska-1.png",GOLF CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227289&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FightBoxHD-logo.png",FIGHTBOX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227288&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/fightklub-hd.png",FIGHTKLUB
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227287&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/ksw_logo%20(1).png",PPV KSW FIGHTS (LIVE ON MATCHES)
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227286&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP_Sport.png",TVP SPORT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227285&extension=ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnews.png",POLSAT SPORT NEWS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227284&extension=ts
+#EXTINF:-1 group-title="CANAL+ EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon//PL/CANAL+ EXTRA/CANAL+ EXTRA 1.png",CANAL+ EXTRA 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=879145&extension=ts
+#EXTINF:-1 group-title="CANAL+ EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon//PL/CANAL+ EXTRA/CANAL+ EXTRA 2.png",CANAL+ EXTRA 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=879146&extension=ts
+#EXTINF:-1 group-title="CANAL+ EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon//PL/CANAL+ EXTRA/CANAL+ EXTRA 3.png",CANAL+ EXTRA 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=879147&extension=ts
+#EXTINF:-1 group-title="CANAL+ EXTRA" tvg-logo="http://picon.tivi-ott.net:25461/picon//PL/CANAL+ EXTRA/CANAL+ EXTRA 4.png",CANAL+ EXTRA 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=879148&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_HD_Logo.png",TVN 24
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227282&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_Bis.png",TVN24 BIZ
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227281&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png",POLSAT NEWS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227280&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png",POLSAT NEWS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227279&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Wydarzenia.png",WYDARZENIA 24
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227278&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tv-republika.png",TV REPUBLIKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227277&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/wpolscepl.png",WPOLSCE.PL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227276&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP_Info_logo.svg.png",TVP INFO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227275&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_logo.png",POLSAT COMEDY CENTRAL EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227273&extension=ts
+#EXTINF:-1 group-title="ROZRYWKA" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Novelas.png",NOVELAS+
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227272&extension=ts
+#EXTINF:-1 group-title="OGOLNE" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/ITVN_logo.png",iTVN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:10:44:46&stream=227269&extension=ts

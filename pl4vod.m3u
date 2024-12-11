@@ -1,0 +1,387 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_13_ulica.jpg",13 Ulica
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25362&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_4fun_dance.jpg",4Fun Dance
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25361&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_4fun_gold.jpg",4Fun Gold Hits
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25360&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_4fun_tv.jpg",4Fun TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25359&extension=ts
+#EXTINF:-1 ,Activ Family
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35663&extension=ts
+#EXTINF:-1 ,Adventure
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25357&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl_ale_kino.jpg",Ale Kino+
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11491&extension=ts
+#EXTINF:-1 ,AMC Polska
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25358&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_animal_planet_europe.jpg",Animalanet
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11492&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_atm_rozrywka_tv.jpg",ATM Rozrywka TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25420&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_axn.jpg",AXN
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10402&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_axn_black_pl.jpg",AXN Black
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25356&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_axn_spin_pl.jpg",AXN Spin
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25419&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_axn_white_pl.jpg",AXN White
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25355&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_baby_tv_eu.jpg",Baby TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25354&extension=ts
+#EXTINF:-1  tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/BBCNEWS.png",BBC Brit
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35635&extension=ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/2000px-BBC.svg.png",BBC CBeebies
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11502&extension=ts
+#EXTINF:-1  tvg-logo="http://iptvw0rld.ga/bbcearth.png",BBC Earth
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11503&extension=ts
+#EXTINF:-1 ,BBC First
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35633&extension=ts
+#EXTINF:-1 ,BBC Lifestyle Polska
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35636&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_bloomberg_tv_eu.jpg",Boomerang
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11504&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl.jpg",Canal +
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=18012&extension=ts
+#EXTINF:-1 ,Canal + 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=256442&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl_family.jpg",Canal+ 360
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26538&extension=ts
+#EXTINF:-1 ,Canal+ Discovery
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10403&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Dokument.png",Canal+ Dokument
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769589&extension=ts
+#EXTINF:-1 ,Canal+ Domo
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46107&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl_film.jpg",Canal+ Film
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10415&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl_kuchnia.jpg",Canal+ Kuchnia
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11498&extension=ts
+#EXTINF:-1  tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/c+now.png",Canal+ Now
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=41515&extension=ts
+#EXTINF:-1 ,Canal+ Premium
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=85895&extension=ts
+#EXTINF:-1  tvg-logo="http://laredocordcutters.com/logos/3000%20logos%20mix/canal+%20series.png",Canal+ Seriale
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10405&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl_sport.jpg",Canal+ Sport
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=18013&extension=ts
+#EXTINF:-1  tvg-logo="http://laredocordcutters.com/logos/3000%20logos%20mix/canal+.png",Canal+ Sport 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=18014&extension=ts
+#EXTINF:-1 ,Canal+ Sport 3
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=42359&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/canal-plus-sport-4-polska-pl.png",Canal+ Sport 4
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=42360&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/nsport+.png",Canal+ Sport 5
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=256446&extension=ts
+#EXTINF:-1 ,Canal+ Sport Extra 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=986006&extension=ts
+#EXTINF:-1 ,Canal+ Sport Extra 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=986005&extension=ts
+#EXTINF:-1 ,Canal+ Sport Extra 3
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=986007&extension=ts
+#EXTINF:-1 ,Canal+ Sport Extra 4
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=986008&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cartoon_network_ce.jpg",Cartoon Network
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26537&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cbs_europa_pl.jpg",CBS Europa
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26535&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cbs_reality_pl.jpg",CBS Reality
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26534&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cinemax.jpg",Cinemax
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11493&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cinemax2_ce.jpg",Cinemax 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26533&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_comedy_central_pl.jpg",Comedy Central
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25353&extension=ts
+#EXTINF:-1 ,Crime & Investigation
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=59420&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Da+Vinci+Learning.png",Da Vinci Learning
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10419&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/pl_disco_polo.jpg",Disco Polo Music
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26531&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/discoverychannelpl.png",Discovery
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35661&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_discovery_pl.jpg",Discovery Channel
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11507&extension=ts
+#EXTINF:-1 ,Discovery Historia
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35660&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Discovery+Life.png",Discovery Life
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26530&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_discovery_science_pl.jpg",Discovery Science
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26529&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_disney_channel_pl.jpg",Disney Channel
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25352&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_logo_disney_junior.jpg",Disney JR
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11514&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_disney_xd_pl.jpg",Disney XD
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26528&extension=ts
+#EXTINF:-1 ,DTX
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35380&extension=ts
+#EXTINF:-1 ,E! Entertainment
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35659&extension=ts
+#EXTINF:-1  tvg-logo="http://www.camdserver.com/sb_data/files/logo/eleven-sport-hd.jpg",Eleven Sports 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46079&extension=ts
+#EXTINF:-1 ,Eleven Sports 1 4K [Only On 4K Devices]
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=348127&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png",Eleven Sports 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46080&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_eleven_3.jpg",Eleven Sports 3
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26527&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_eleven_4.jpg",Eleven Sports 4
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26526&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/epic-drama-pl.png",Epic Drama
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35668&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Eska+TV.png",Eska TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35657&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_eurosport.jpg",Eurosport 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11511&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_eurosport2.jpg",EuroSport 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16774&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_extreme_sports.jpg",Extreme Sports
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10418&extension=ts
+#EXTINF:-1 ,Fight Klub
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35656&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_fightbox.jpg",Fightbox
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11496&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_filmbox_action.jpg",Filmbox Action
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11517&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_filmbox_arthouse_pl.jpg",Filmbox Arthouse
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26525&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_filmbox_extra_pl.jpg",Filmbox Extra
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11518&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_filmbox_family.jpg",Filmbox Family
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10414&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_filmbox_hd.jpg",FilmBox Premium
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10404&extension=ts
+#EXTINF:-1 ,Fokus TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769593&extension=ts
+#EXTINF:-1 ,Food Network
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35655&extension=ts
+#EXTINF:-1 ,Fx
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35654&extension=ts
+#EXTINF:-1  tvg-logo="http://138.199.27.237:8080/POLONIA/FOX.png",Fx Comedy
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46090&extension=ts
+#EXTINF:-1 ,Gold TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769587&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Golf+Channel.png",Golf Channel
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=34689&extension=ts
+#EXTINF:-1  tvg-logo="http://chanlogos.xmltv.se/h2.historytv.se.png",H2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=29366&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_hbo_pl.jpg",HBO  [Multi-Audio]
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10407&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_hbo2_pl.jpg",HBO 2  [Multi-Audio]
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10406&extension=ts
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Hbo_3_hd.png/revision/latest?cb=20160331174701",HBO 3  [Multi-Audio]
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11497&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_hgtv.jpg",HGTV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25370&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_history_europe_hd.jpg",History
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25350&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_investigation_discovery_europe.jpg",Investigation Discovery
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26524&extension=ts
+#EXTINF:-1 ,Kino Polska
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35652&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_kino_polska_muzyka.jpg",Kino Polska Muzyka
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16782&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_kino_polska.jpg",Kino TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10408&extension=ts
+#EXTINF:-1  tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyplsDog9HkBnNM8Wuv7DFZx4uvpN0BLjRffdvzzMzTU9.png",KSW PPV [Live During Events Only]
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=851190&extension=ts
+#EXTINF:-1 ,KSW PPV 2 [Live During Events Only]
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=851193&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/METRO.png",Metro
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35631&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/PL_canalplus_pl_mini_mini.jpg",MiniMini+
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10409&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Motowizja.png",Motowizja
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35651&extension=ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PXjWLD6/MTV-Live-2021.png",MTV Live
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35650&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_mtv_pl.jpg",MTV Polska
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20614&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png",Nat Geo People
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769590&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_nat_geo_pl.jpg",National Geographic
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11513&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_nat_geo_wild_emea.jpg",National Geographic Wild
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25348&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/nickjr.png",Nick JR
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35649&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Nickelodeon.png",Nickelodeon
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35648&extension=ts
+#EXTINF:-1 ,Nicktoons
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35667&extension=ts
+#EXTINF:-1 ,Novela TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=85899&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/nowatvpl.png",Nowa TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35647&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_n_sport_pl.jpg",nSport+
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11520&extension=ts
+#EXTINF:-1 ,Nuta TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=34690&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_paramount_channel.jpg",Paramount Channel
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25366&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_canalplus_pl_planete_hd.jpg",Planete +
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20613&extension=ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries//polo-tv-pl.png",Polo TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35379&extension=ts
+#EXTINF:-1 ,Polonia 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769586&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/PL_polsat.jpg",Polsat
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10422&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/PL_polsat2_international.jpg",Polsat 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10421&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_cafe.jpg",Polsat Cafe
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10410&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_comedy_central_family_pl.jpg",Polsat Comedy Central Extra
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26532&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/polsatdokuhdpl.png",Polsat Doku
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35378&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_film.jpg",Polsat Film
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10411&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_games.jpg",Polsat Games
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=30507&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_jim_jam_polsat.jpg",Polsat JimJam
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11515&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_music_logo.jpg",Polsat Music
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20609&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_news.jpg",Polsat News
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10412&extension=ts
+#EXTINF:-1 ,Polsat News 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35377&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Polsat+Rodzina.png",Polsat Rodzina
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=30508&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_romans.jpg",Polsat Romans
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26523&extension=ts
+#EXTINF:-1 ,Polsat Seriale
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=85908&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport.jpg",Polsat Sport
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11519&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_extra.jpg",Polsat Sport Extra
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26522&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_Polsat_sport_fight.jpg",Polsat Sport Fight
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26521&extension=ts
+#EXTINF:-1  tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/POLSATSPORTNEWS.png",Polsat Sport News
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=84196&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_1.jpg",Polsat Sport Premium 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=27677&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_2.jpg",Polsat Sport Premium 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=27678&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_3.jpg",Polsat Sport Premium PPV 3
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=29307&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_4.jpg",Polsat Sport Premium PPV 4
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=29306&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_5.jpg",Polsat Sport Premium PPV 5
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=29305&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_sport_6.jpg",Polsat Sport Premium PPV 6
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=29304&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_viasat_explorer_pl.jpg",Polsat Viasat Explorer
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20612&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_viasat_history_pl.jpg",Polsat Viasat History
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20611&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_viasat_nature_pl.jpg",Polsat Viasat Nature
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20610&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_polsat_play.jpg",Polsatay
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10413&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/POWER+TV.png",Power TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35634&extension=ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries//red-carpet-pl.png",Red Carpet
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=813196&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/ROMANCE+TV.png",Romance TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35646&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_universal_channel_pl.jpg",SciFi
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10420&extension=ts
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png",Sci-Fi
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35645&extension=ts
+#EXTINF:-1 ,Sport Klub Polska
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35644&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Stars+TV.png",Stars TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35643&extension=ts
+#EXTINF:-1  tvg-logo="https://laredocordcutters.com/logos/tiv2/stopklatkatv.png",Stopklatka TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16781&extension=ts
+#EXTINF:-1 ,StudioMed TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=85902&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_sundance_tv.jpg",Sundance TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25367&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_Super_Polsat_HD.jpg",Super Polsat
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=33667&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/superstacjapl.png",Superstacja
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46108&extension=ts
+#EXTINF:-1  tvg-logo="http://logodmtv.ddns.net/logo_plus/POLONIA/TELETOON.png",TeleToon
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35641&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tlc_pl.jpg",TLC
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11499&extension=ts
+#EXTINF:-1 ,Travel Channel
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769592&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_ttv_logo.jpg",TTV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26386&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tv_puls.jpg",TV Puls
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=30002&extension=ts
+#EXTINF:-1 ,TV Puls 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769588&extension=ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/hGCFkPRc/TV-Republika-2017.jpg",TV Republika
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35639&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tv4_tr.jpg",TV4
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=11500&extension=ts
+#EXTINF:-1  tvg-logo="https://laredocordcutters.com/logos/tiv2/viasattv6no.png",TV6
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16778&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvn_pl.jpg",TVN
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=18015&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvn_24.jpg",TVN 24
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10416&extension=ts
+#EXTINF:-1 ,TVN 24 Bis
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46099&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvn_siedem.jpg",TVN 7
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25369&extension=ts
+#EXTINF:-1  tvg-logo="http://138.199.27.237:8080/POLONIA/TVNFABULA.png",TVN Fabula
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769583&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvn_style.jpg",TVN Style
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10417&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvn_turbo.jpg",TVN Turbo
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=25363&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_hd.jpg",TVP
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=19461&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp1.jpg",TVP 1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16777&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+2+HD.png",TVP 2
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=46064&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_regionalna_warszawa.jpg",TVP 3 Warszawa
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16775&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp-abc.jpg",TVP ABC
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=33668&extension=ts
+#EXTINF:-1  tvg-logo="https://laredocordcutters.com/logos/tiv2/tvphistoria.png",TVP Historia
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16779&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_info.jpg",TVP Info
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26518&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_kultura.jpg",TVP Kultura
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26517&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_polonia.jpg",TVP Polonia
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=10423&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_rozrywka_pl.jpg",TVP Rozrywka
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26519&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_tvp_seriale.jpg",TVP Seriale
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=16776&extension=ts
+#EXTINF:-1  tvg-logo="http://tugapt.com/picons/tvpsporthdpl.png",TVP Sport
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=657115&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVS.png",TVS
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35632&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_vh1_pl.jpg",VH1
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=26520&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cyfrowy_vod_155.jpg",VOD 205
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20607&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cyfrowy_vod_155.jpg",VOD 206
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20604&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cyfrowy_vod_155.jpg",VOD 207
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20606&extension=ts
+#EXTINF:-1  tvg-logo="http://185.211.43.125/PL/pl_cyfrowy_vod_155.jpg",VOD 208
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=20605&extension=ts
+#EXTINF:-1 ,Vox Music TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35627&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TNT+HD.png",Warner TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35666&extension=ts
+#EXTINF:-1 ,WP
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35628&extension=ts
+#EXTINF:-1 ,wPolsce 24
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=769594&extension=ts
+#EXTINF:-1 ,Zoom TV
+http://aabb.is:2095/play/live.php?mac=00:1A:79:BC:32:BC&stream=35630&extension=ts

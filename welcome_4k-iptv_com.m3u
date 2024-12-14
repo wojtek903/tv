@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/100px-TVP1_logo.svg.png", TVP
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3267
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/99px-TVP2_logo.svg.png", TVP 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3266
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TVP3_%282016%29.svg/100px-TVP3_%282016%29.svg.png", TVP 3
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3265
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/100px-TVP_Polonia_Logo_2020.svg.png", TVP POLONIA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3264
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TV4-2023.svg/200px-TV4-2023.svg.png", TV4
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3263
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikinews/pl/5/5d/Tele5.png?20071002194934", TELE 5 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3262
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TV6_Logo_2022.svg/157px-TV6_Logo_2022.svg.png", TV6
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3261
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LogoPolonia1.png/250px-LogoPolonia1.png", POLONIA 1 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3260
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Polsat.svg/240px-Logo_Polsat.svg.png", POLSAT TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3259
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Polsat2_Logo.svg/236px-Polsat2_Logo.svg.png", POLSAT 2 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3258
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/150px-Super_Polsat_2021_gradient.svg.png", SUPER POLSAT TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3257
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/220px-TVN_logo.svg.png", TVN
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3256
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVN7_HD.png/150px-TVN7_HD.png", TVN 7
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3255
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/250px-TVS_%28Fernsehsender%29_Logo.svg.png", TVS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3254
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ttv_logo.svg/240px-Ttv_logo.svg.png", TTV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3253
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/TV_Puls_logo.jpg/320px-TV_Puls_logo.jpg", TV PULS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3252
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Polsat_Rodzina_2021_gradient.svg/210px-Polsat_Rodzina_2021_gradient.svg.png", POLSAT RODZINA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3251
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/200px-Canal%2B_Premium.svg.png", CANAL+ PREMIUM TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3250
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/Poland/Canal+1.gif", CANAL+ 1 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3249
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+family.gif", CANAL+ FAMILY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3248
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CANAL%2B_DOKUMENT.png/240px-CANAL%2B_DOKUMENT.png", CANAL+ DOKUMENT TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3247
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/200px-C%2BNow.png", CANAL+ NOW TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3246
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Canal%2B_Domo_logo_od_2021.png/320px-Canal%2B_Domo_logo_od_2021.png", CANAL+ DOMO TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3245
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal%2B_Kuchnia_logo_od_2021.png/250px-Canal%2B_Kuchnia_logo_od_2021.png", CANAL+ KUCHNIA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3244
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal%2B_HD_Film_Logo_2013.png/120px-Canal%2B_HD_Film_Logo_2013.png?20130405155258", CANAL+ FILM TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3243
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/CANALPLUS_SERIALE.png", CANAL+ SERIALE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3242
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/CANALPLUS_DISCOVERY.png", CANAL+ DISCOVERY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3241
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/220px-Filmbox_extra_pl.png", FILMBOX EXTRA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3240
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmbox_premium_cz.png", FILMBOX PREMIUM TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3239
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Filmbox-action.jpg/220px-Filmbox-action.jpg", FILMBOX ACTION TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3238
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/FILMBOX_FAMILY.png", FILMBOX FAMILY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3237
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/FILMBOX_ARTHOUSE.png", FILMBOX ARTHOUSE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3236
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png", CINEMAX TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3235
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/CINEMAX_2.png", CINEMAX 2 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3234
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png", HBO
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3233
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png", HBO 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3232
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/HBO3.png", HBO 3
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3231
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png", VOD 205
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3230
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png", VOD 206
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3229
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png", VOD 207
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3228
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cyfrowy_polsat_vod.png", VOD 208
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3227
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Kino_Polska.svg/250px-Logo_Kino_Polska.svg.png", KINO POLSKA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3226
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png", FOX
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3225
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-comedy-polska-us-pl.svg", FOX COMEDY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3224
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png", AXN TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3223
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_white_us.png", AXN WHITE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3222
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_black_us.png", AXN BLACK TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3221
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-spin-us.png", AXN SPIN TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3220
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-polska-us-pl.png", SCIFI TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3219
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/num/13_ulica_pl.png", 13 ULICA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3218
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e-us.svg", E! ENTERTAINMENT TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3217
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-seriale-pl.svg", TVP SERIALE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3216
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs_europa_pl.png", CBS EUROPA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3215
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-seriale-pl.svg", POLSAT SERIAL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3214
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg", TLC TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3213
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/220px-Paramount_Network.svg.png", PARAMOUNT CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3212
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png", AMC CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3211
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-kultura-pl.svg", TVP KULTURA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3210
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-east-us.svg", TRAVEL CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3209
+#EXTINF:-1 group-title="Poland" tvg-logo="https://tvn.pl/aktualnosci/cdn-zdjecie-vf6mdq-wizytowka-fabula-7114712/alternates/ULTRA_WIDE_1620", TVN FABULA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3208
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/250px-TVN_turbo.svg.png", TVN TURBO
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3207
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adventure_pl_hd.png", ADVENTURE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3206
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png", DA VINCI TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3205
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food-network-us.svg", FOOD NETWORK TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3204
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Domo%2B_logo_2011.png", DOMO+  TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3203
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us_xtra.png", DTX CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3202
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fokus_tv_pl.png", FOKUS TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3201
+#EXTINF:-1 group-title="Poland" tvg-logo="https://ewsat.com/img/CANALPLUS_KUCHNIA.png", KUCHNIA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3200
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/mm/motowizja_tv_pl.png", MOTOWIZJA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3199
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nuta-tv-pl.png", NUTA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3198
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/power_tv_pl.png", POWER TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3197
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/puls-2-pl.png", PULS 2 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3196
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/rr/romance_tv_pl.png", ROMANCE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3195
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wp_tv_pl.png", WP CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3194
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/active_family_pl.png", ACTIVE FAMILY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3193
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-brit-uk.png", BBC BRIT TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3192
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png", BBC LIFESTYLE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3191
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-first-uk.svg", BBC FIRST TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3190
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png", BABY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3189
+#EXTINF:-1 group-title="Poland" tvg-logo="https://jimjamcdn.azureedge.net/wp-content/uploads/JimJam_Polsat_s-1.png", POLSAT JIM JAM TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3188
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png", BOOMERANG TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3187
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg", CARTOON NETWORK TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3186
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png", DISNEY XD TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3185
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-junior-us.svg", DISNEY JUNIOR TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3184
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg", DISNEY CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3183
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/200px-Nick_Jr._logo_2023_%28outline%29.svg.png", NICK JUNIOR TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3182
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon-us.svg", NICKELODEON TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3181
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nicktoons-us.svg", NICKTOONS TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3180
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Teletoon_logo_2007.svg/320px-Teletoon_logo_2007.svg.png", TELETOON TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3179
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_pl_mini_mini.png", MINIMINI TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3178
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbeebies-uk-uk.svg", BBC CBEEBIES TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3177
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-games-pl.svg", POLSAT GAMES TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3176
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/200px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png", TRINITY BC.NETWORK POLAND
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3175
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/253px-MTV_Live_2021_logo.svg.png", MTV LIVE
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3174
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/220px-VH1_logo.svg.png", VH1 CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3173
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-rozrywka-pl.svg", TVP ROZRYWKA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3172
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MTV_ROCKS_logo.svg/197px-MTV_ROCKS_logo.svg.png", MTV ROCKS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3171
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kino_polska_muzyka.png", KINO POLSKA MUZYKA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3170
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg", MTV POLSKA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3169
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/252px-MTV_Music_2021_logo.svg.png", MTV MUSIC CHANNEL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3168
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_pl_ale_kino.png", ALE KINO TV 
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3167
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/250px-Gold_2014.svg.png", GOLD TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3166
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-abc-pl.svg", TVP ABC CHANNEL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3165
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/200px-Polsat_Caf%C3%A9_2021_gradient.svg.png", POLSAT CAFE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3164
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/200px-Polsat_Play_2021_gradient.svg.png", POLSAT PLAY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3163
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Polo_TV_%282016%29.svg/200px-Polo_TV_%282016%29.svg.png", POLO TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3162
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Metro_tv_logo.png", METRO TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3161
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zoom_TV_-_logo_%28grafika_wektorowa%29.svg/320px-Zoom_TV_-_logo_%28grafika_wektorowa%29.svg.png", ZOOM TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3160
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novela_tv_pl.png", NOVELA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3159
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/250px-SundanceTV_2014.svg.png", SUNDANCE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3158
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tvn_Style_Logo.svg/317px-Tvn_Style_Logo.svg.png", TVN STYLE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3157
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/215px-HGTV_Logo.svg.png", HGTV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3156
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Nowa_TV.png", NOWA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3155
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TV_Okazje_logo.jpg/320px-TV_Okazje_logo.jpg", TV OKAZJE
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3154
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/225px-CBS_Reality.png", CBS REALITY TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3153
+#EXTINF:-1 group-title="Poland" tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png?1", EPIC DRAMA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3152
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/New_Warner_TV_Logo.jpg", WARNER BROS TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3151
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-film-pl.svg", POLSAT FILM TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3150
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kino-tv-pl.png", KINO TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3149
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stopklatka-tv-pl.png", STOPKLATKA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3148
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stars-tv-pl.png", STARS TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3147
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/320px-4fun.tv_Logo_%282017%29.svg.png", 4FUN TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3146
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Polsat_Music.svg/320px-Polsat_Music.svg.png", POLSAT MUSIC TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3145
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vox_Music_Tv-logo.jpg/120px-Vox_Music_Tv-logo.jpg", VOX MUSIC TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3144
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Eska_Rock_TV_%282017-.n.v.%29.webp/246px-Eska_Rock_TV_%282017-.n.v.%29.webp.png", ESKA ROCK TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3143
+#EXTINF:-1 group-title="Poland", ESKA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3142
+#EXTINF:-1 group-title="Poland", ESKA TV EXTRA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3141
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/200px-New_NatGeo_People_logo.svg.png", NAT GEO PEOPLE
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3140
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/AnimalPlanet.gif", ANIMAL PLANET TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3139
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Planet_TV_Logo.svg/320px-Planet_TV_Logo.svg.png", PLANETE  TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3138
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cipolsat.jpg/240px-Cipolsat.jpg", CRIME INVEST. POLSAT
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3137
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/history.gif", HISTORY CHANNEL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3136
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/discoveryid.gif", INVESTIGATION DISCOVERY
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3135
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVP_Historia_logo.svg/320px-TVP_Historia_logo.svg.png", TVP HISTORIA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3134
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/bbcearth.gif", BBC EARTH TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3133
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/h2history%202.gif", HISTORY 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3132
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/200px-Polsat_Doku_2021_gradient.svg.png", POLSAT DOKU TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3131
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Discovery_Science_logo.svg/192px-Discovery_Science_logo.svg.png", DISCOVERY SCIENCE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3130
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/discovery.gif", DISCOVERY CHANNEL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3129
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/260px-Discovery_Life_logo.svg.png", DISCOVERY LIFE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3128
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Discovery_Historia_2009.png/120px-Discovery_Historia_2009.png", DISCOVERY HISTORIA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3127
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Disco_Polo_Music_TV_logo.png/120px-Disco_Polo_Music_TV_logo.png", DISCO POLO MUSIC TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3126
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/4FUN_GOLD_HITS_logo.jpg/320px-4FUN_GOLD_HITS_logo.jpg", 4FUN GOLD HITS TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3125
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/120px-4fun.tv_Logo_%282017%29.svg.png", 4FUN DANCE TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3124
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Polsat_Viasat_Explore_HD_logo.jpg/140px-Polsat_Viasat_Explore_HD_logo.jpg", POLSAT VIASAT EXPLORE
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3123
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/natgeowild.gif", NATIONAL GEOGRAPIC WILD
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3122
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Water_Planet_logo_2012.png/250px-Water_Planet_logo_2012.png", WATER PLANET TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3121
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/100px-Viasat_History-logo.svg.png", POLSAT VIASAT HISTORY
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3120
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/100px-Viasat_Nature-logo.svg.png", POLSAT VIASAT NATURE
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3119
+#EXTINF:-1 group-title="Poland" tvg-logo="https://repo.ottshow.net/pikoni/doku/nationalgeographic.gif", NATIONAL GEOGRAPIC CHANNEL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3118
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/320px-Crime_%2B_Investigation_Logo_10.2019.svg.png", CRIME & INVESTIGATION TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3117
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-extra-pl.svg", POLSAT SPORT EXTRA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3116
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-fight-pl.svg", POLSAT SPORT FIGHT
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3115
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-polska-pl.png", CANAL+ SPORT
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3114
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-2-polska-pl.png", CANAL+ SPORT 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3113
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-3-polska-pl.png", CANAL+ SPORT 3
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3112
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-4-polska-pl.png", CANAL+ SPORT 4
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3111
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-5-polska-pl.png", CANAL+ SPORT 5
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3110
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_pl.png", SPORT KLUB
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3109
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg", EUROSPORT 1
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3108
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg", EUROSPORT 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3107
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-pl.svg", POLSAT SPORT
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3106
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ee/extreme_sports_nl.png", EXTREME SPORTS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3105
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png", POLSAT SPORT PREMIUM 1
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3104
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png", POLSAT SPORT PREMIUM 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3103
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-3-ppv-pl.png", POLSAT SPORT PREMIUM 3
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3102
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-4-ppv-pl.png", POLSAT SPORT PREMIUM 4
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3101
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-5-ppv-pl.png", POLSAT SPORT PREMIUM 5
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3100
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-6-ppv-pl.png", POLSAT SPORT PREMIUM  PPV6
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3099
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825", ELEVENSPORT 1  4K
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3098
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825", ELEVENSPORT 1
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3097
+#EXTINF:-1 group-title="Poland" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png", ELEVENSPORT 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3096
+#EXTINF:-1 group-title="Poland" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-632.png", ELEVENSPORT 3
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3095
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/250px-Eleven_Sports.png", ELEVENSPORT 4
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3094
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png", GOLF CHANNEL TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3093
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/archive/9/92/20131020125133%21Fightbox_Logo.png/120px-Fightbox_Logo.png", FIGHTBOX TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3092
+#EXTINF:-1 group-title="Poland" tvg-logo="https://sportowefakty.wp.pl/fightklub", FIGHTKLUB TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3091
+#EXTINF:-1 group-title="Poland" tvg-logo="https://r-file-05.dcs.redcdn.pl/file/o2/ksw/portal/images/kswtv.png", PPV KSW FIGHTS (LIVE ON MATCHES)
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3090
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-sport-pl.svg", TVP SPORT
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3089
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/250px-Polsat_Sport_News_2021_horizontal_gradient.svg.png", POLSAT SPORT NEWS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3088
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-24-pl.png", TVN 24
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3087
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-24-bis-pl.png", TVN24 BIS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3086
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-news-pl.svg", POLSAT NEWS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3085
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-news-2-pl.svg", POLSAT NEWS 2
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3084
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wydarzenia-24-pl.png", WYDARZENIA 24 TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3083
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-republika-pl.png", TV REPUBLIKA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3082
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ww/w-polsce-pl.png", WPOLSCE.PL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3081
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-info-pl.svg", TVP INFO
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3080
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studiomed-tv-pl.png", STUDIOMED TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3079
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Polsat_Comedy_Central_Extra.jpg", POLSAT COMEDY CENTRAL EXTRA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3078
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/320px-Logo_Novelas_TV.svg.png", NOVELAS+ TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3077
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ITVN_Extra_logo_2015.svg/320px-ITVN_Extra_logo_2015.svg.png", iTVN
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3076
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/320px-TVP1_logo.svg.png", TVP 1
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3075
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antenna-hd-pl.png", ANTENA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3074
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-dokument-pl.svg", TVP DOKUMENT TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3073
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TVC_logo.png?20110511055104", TVC
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3072
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png", TEENNICK TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3071
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Superstacja_old_logo.jpg/240px-Superstacja_old_logo.jpg", SUPERSTACJA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3070
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/bb/biznes-24-pl.png", BIZNES 24
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3069
+#EXTINF:-1 group-title="Poland" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", HISTORIA
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3068
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/320px-Nick.svg.png", NICK TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3067
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/256px-NickMusic.svg.png", NICK MUSIC
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3066
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Metro_tv_logo.png", METRO
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3065
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/298px-MTV_90s_2022.svg.png", MTV 90S
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3064
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nuta-gold-tv-new-logo-68BB5716F9-seeklogo.png?20230125130111", NUTA TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3063
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/220px-MTV_00s_remaster.png", MTV 00S
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3062
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/16/Red_Carpet_logo.png?20120521024328", RED CARPET TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3061
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/4FUN_KIDS.png/120px-4FUN_KIDS.png", 4FUN KIDS
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3060
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Konfrontacja_Sztuk_Walki_logo.png", KONFRONTACJA SZTUK WALKI TV
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3059
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/220px-Comedy_Central_2018.svg.png", COMEDY CENTRAL
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3058
+#EXTINF:-1 group-title="Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/225px-Logo_Canal%2B_1995.svg.png", CANAL+ 4K
+http://195.62.32.140:80/8zeJF7Q2Ay/1Yt9Ox8Hd7/3057

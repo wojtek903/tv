@@ -1,0 +1,371 @@
+#EXTM3U url-tvg="https://epg.polishteam.one/guide.xml"
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162408&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162410&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162412&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP INFO
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162406&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162413&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TV4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162416&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TV TRWAM
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=521691&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162417&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN 7
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162480&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TV6
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8302&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN FABULA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8307&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN STYLE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162445&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN TURBO
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162440&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN 24
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162450&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVN 24 BIS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162438&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8313&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",NOVELAS+
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=453828&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT NEWS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162419&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT NEWS 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162421&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162422&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162424&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT PLAY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8392&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT CAFE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162428&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT SERIALE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162426&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT GAMES
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8332&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",POLSAT RODZINA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8310&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",SUPER POLSAT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8388&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",ROMANCE TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162453&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",PULS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8304&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",PULS 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8318&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP POLONIA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=178078&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP ROZRYWKA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8301&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TVP KULTURA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8438&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TTV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8314&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",WP
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162466&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",WPOLSCE 24
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=162457&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TELE 5
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8394&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",TV REPUBLIKA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8319&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",NOVELA TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8432&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",ZOOM TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8320&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",FOKUS TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8312&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",STOPKLATKA TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8415&extension=ts
+#EXTINF:-1 group-title="✦ OGÓLNE ✦",CANAL+ 4K
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=225921&extension=ts
+#EXTINF:-1 group-title="✦ POLSKA  ✦",TV PULS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=481943&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",HOME 4K
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=225923&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",NAT GEO WILD
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=183505&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",NATIONAL GEOGRAPHIC
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8455&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",NAT GEO PEOPLE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8457&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",ANIMAL PLANET
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=184125&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",DISCOVERY SCIENCE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=183509&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",DISCOVERY LIFE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8458&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",DISCOVERY HISTORIA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8460&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",DA VINCI LEARNING
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8467&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",E! ENTERTAINMENT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8325&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",HISTORY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8453&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",HISTORY 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=183518&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",BBC EARTH
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8466&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",BBC BRIT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8452&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",BBC FIRST
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8445&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",BBC LIFESTYLE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8450&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",PLANETE+
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=184126&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",POLSAT DOKU
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8441&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",POLSAT VIASAT EXPLORE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8443&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",POLSAT VIASAT HISTORY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8442&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",POLSAT VIASAT NATURE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8444&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",CRIME+ INVESTIGATION
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8462&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",CANAL+ KUCHNIA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8412&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",CANAL+ DOKUMENT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=183521&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",CANAL+ DOMO
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8326&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",TRAVEL CHANNEL
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8470&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",TLC
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=183504&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",DTX
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=184128&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",HGTV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=178149&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",WATER PLANET
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8448&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",ADVENTURE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8464&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",FOOD NETWORK
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8321&extension=ts
+#EXTINF:-1 group-title="✦ DOKUMENT ✦",HOME TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8329&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/ 7 | KINO 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216459&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/ 7 | KINO 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216460&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/ 7 | KINO 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216461&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/ 7 | KINO 4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216462&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/ 7 | KINO 5
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216463&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/7 | CINEMA 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216464&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/7 | CINEMA 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216465&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/7 | CINEMA 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216466&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",24/7 | CINEMA 4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=216467&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CBS EUROPA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8451&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CBS REALITY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8447&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",TVP HISTORIA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8439&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",TVP SERIALE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8387&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",POLSAT FILM
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8391&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",ACTIVE FAMILY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8393&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CANAL+ SERIALE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8395&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CANAL+ FILM
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8396&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CANAL+ FAMILY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8397&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CANAL+ 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8399&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",AXN BLACK
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8400&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",AXN WHITE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8401&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",AXN
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8402&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",AXN SPIN
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8403&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FOX
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8404&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FOX COMEDY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8405&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",AMC
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8406&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",ALE KINO+
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8407&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",COMEDY CENTRAL
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8408&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",13 ULICA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8409&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",SCIFI
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8410&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",UNIVERSAL
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8411&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",SUNDANCE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8416&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",KINO POLSKA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8417&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",POLSAT COMEDY CENTRAL EXTRA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8419&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CANAL+ PREMIUM
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8420&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",HBO 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8422&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",HBO 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8423&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FILMBOX FAMILY
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8424&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FILMBOX ACTION
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8425&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FILMBOX EXTRA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8426&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FILMBOX PREMIUM
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8427&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",PARAMOUNT NETWORK
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8413&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CINEMAX 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8428&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",CINEMAX
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8429&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",METRO
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8322&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",EPIC DRAMA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8430&extension=ts
+#EXTINF:-1 group-title="✦ KINO ✦",FILMBOX ARTHOUSE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8431&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",ELEVEN SPORT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8485&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",ELEVEN SPORTS 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8486&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",ELEVEN SPORTS 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8487&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",ELEVEN SPORTS 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8488&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",ELEVEN SPORTS 4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8489&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT NEWS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8472&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT EXTRA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8473&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT FIGHT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8474&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8475&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT PREMIUM 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8477&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT PREMIUM 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8478&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT PREMIUM 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8479&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT PREMIUM 4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=523170&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT PREMIUM 5
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=523169&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",POLSAT SPORT PREMIUM 6
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=523168&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ SPORT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8481&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ SPORT 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8482&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ SPORT 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8483&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ SPORT 4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8484&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ SPORT 5
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=510216&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ EXTRA 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=561375&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ EXTRA 3
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=561373&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",CANAL+ EXTRA 4
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=561372&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",EUROSPORT 1
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8491&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",EUROSPORT 2
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8492&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",TVP SPORT
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8490&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",GOLF CHANNEL
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8493&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",SPORTKLUB
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8494&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",EXTREME SPORTS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8495&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",MOTOWIZJA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8496&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",FIGHTBOX
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8497&extension=ts
+#EXTINF:-1 group-title="✦ SPORT ✦",FIGHTKLUB
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8471&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",BABY TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8344&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",BOOMERANG
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8334&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",DISNEY XD
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8343&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",DISNEY CHANNEL
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8342&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",DISNEY JUNIOR
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8345&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",CARTOON NETWORK
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8347&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",CBEEBIES
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8341&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",PL| NICK JR
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8348&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",NICKTOONS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8359&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",NICKELODEON
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8349&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",MINIMINI+
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8340&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",JIM JAM
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8351&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",TELETOON+
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8355&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",TVP ABC
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8331&extension=ts
+#EXTINF:-1 group-title="✦ BAJKI ✦",4FUN KIDS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8385&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",NUTA TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=8336&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",POLSAT MUSIC
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246921&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",DISCO POLO MUSIC
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246922&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",MTV POLSKA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246925&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",POLO TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246927&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",STARS TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246928&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",4FUN TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246931&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",4FUN GOLD HITS
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246930&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",4FUN DANCE
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246929&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",ESKA ROCK TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246935&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",ESKA TV EXTRA
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246934&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",ESKA TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246933&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",VOX MUSIC TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246936&extension=ts
+#EXTINF:-1 group-title="✦ MUZYKA ✦",POWER TV
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:4D:07:66&stream=246932&extension=ts

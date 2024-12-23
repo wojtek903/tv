@@ -1,0 +1,347 @@
+#EXTM3U
+#EXTINF:-1 ,TVP
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511248&extension=ts
+#EXTINF:-1 ,TVP 1
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511247&extension=ts
+#EXTINF:-1 ,TVP 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511246&extension=ts
+#EXTINF:-1 ,TVP 3
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511397&extension=ts
+#EXTINF:-1 ,TVP SERIALE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511363&extension=ts
+#EXTINF:-1 ,TVP ABC
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511360&extension=ts
+#EXTINF:-1 ,TVP ABC
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511333&extension=ts
+#EXTINF:-1 ,TVP HISTORIA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511245&extension=ts
+#EXTINF:-1 ,TVP SERIALE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511244&extension=ts
+#EXTINF:-1 ,TVP SPORT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511243&extension=ts
+#EXTINF:-1 ,TVP KULTURA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511347&extension=ts
+#EXTINF:-1 ,TVP HISTORIA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511301&extension=ts
+#EXTINF:-1 ,POLONIA 1
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511393&extension=ts
+#EXTINF:-1 ,TV REPUBLIKA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511288&extension=ts
+#EXTINF:-1 ,TV4
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511396&extension=ts
+#EXTINF:-1 ,TV 6
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511394&extension=ts
+#EXTINF:-1 ,TVS
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511390&extension=ts
+#EXTINF:-1 ,POLSAT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511258&extension=ts
+#EXTINF:-1 ,POLSAT 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511392&extension=ts
+#EXTINF:-1 ,POLSAT 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511261&extension=ts
+#EXTINF:-1 ,POLSAT CAFE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511260&extension=ts
+#EXTINF:-1 ,POLSAT CAFE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511387&extension=ts
+#EXTINF:-1 ,SUPER POLSAT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511391&extension=ts
+#EXTINF:-1 ,POLSAT PLAY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511256&extension=ts
+#EXTINF:-1 ,TVN 24
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511254&extension=ts
+#EXTINF:-1 ,TVN 7
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511253&extension=ts
+#EXTINF:-1 ,TVN FABULA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511252&extension=ts
+#EXTINF:-1 ,TVN
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511251&extension=ts
+#EXTINF:-1 ,TVN STYLE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511250&extension=ts
+#EXTINF:-1 ,TVN FABULA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511249&extension=ts
+#EXTINF:-1 ,CANAL+ 1
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511425&extension=ts
+#EXTINF:-1 ,CANAL+ DOMO
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511424&extension=ts
+#EXTINF:-1 ,CANAL+ 360
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511423&extension=ts
+#EXTINF:-1 ,CANAL+ FILM
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511422&extension=ts
+#EXTINF:-1 ,CANAL+ NOW
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511421&extension=ts
+#EXTINF:-1 ,CANAL+ KUCHNIA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511420&extension=ts
+#EXTINF:-1 ,ELEVEN SPORTS 3
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511419&extension=ts
+#EXTINF:-1 ,ELEVEN SPORTS 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511418&extension=ts
+#EXTINF:-1 ,ELEVEN SPORTS 1 ULTRA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511417&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 5
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511413&extension=ts
+#EXTINF:-1 ,Epic Drama
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511412&extension=ts
+#EXTINF:-1 ,VIASAT EXPLORE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511411&extension=ts
+#EXTINF:-1 ,VIASAT HISTORY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511410&extension=ts
+#EXTINF:-1 ,VIASAT NATURE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511409&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 4
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511408&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 3
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511407&extension=ts
+#EXTINF:-1 ,CANAL+ SPORT 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511406&extension=ts
+#EXTINF:-1 ,CANAL+ SERIALE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511405&extension=ts
+#EXTINF:-1 ,CANAL+ PREMIUM
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511404&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 6  
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511403&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 5  
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511402&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 4  
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511401&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 3
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511400&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511399&extension=ts
+#EXTINF:-1 ,POLSAT VIASAT NATURE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511395&extension=ts
+#EXTINF:-1 ,TTV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511389&extension=ts
+#EXTINF:-1 ,FILMBOX EXTRA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511386&extension=ts
+#EXTINF:-1 ,FILMBOX PREMIUM
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511385&extension=ts
+#EXTINF:-1 ,FILMBOX ACTION
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511384&extension=ts
+#EXTINF:-1 ,FILMBOX FAMILY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511383&extension=ts
+#EXTINF:-1 ,FILMBOX ARTHOUSE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511382&extension=ts
+#EXTINF:-1 ,CINEMAX 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511381&extension=ts
+#EXTINF:-1 ,HBO2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511380&extension=ts
+#EXTINF:-1 ,HBO3
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511379&extension=ts
+#EXTINF:-1 ,TNT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511378&extension=ts
+#EXTINF:-1 ,ALA KINO TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511377&extension=ts
+#EXTINF:-1 ,STOPKLATKA TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511376&extension=ts
+#EXTINF:-1 ,NOWA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511375&extension=ts
+#EXTINF:-1 ,FOX COMEDY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511373&extension=ts
+#EXTINF:-1 ,AXN
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511372&extension=ts
+#EXTINF:-1 ,AXN
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511371&extension=ts
+#EXTINF:-1 ,AXN WHITE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511370&extension=ts
+#EXTINF:-1 ,AXN BLACK
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511369&extension=ts
+#EXTINF:-1 ,AXN SPIN
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511368&extension=ts
+#EXTINF:-1 ,SCIFI
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511367&extension=ts
+#EXTINF:-1 ,13 ULICA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511366&extension=ts
+#EXTINF:-1 ,EPIC DRAMA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511365&extension=ts
+#EXTINF:-1 ,E ENTERTAINMENT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511364&extension=ts
+#EXTINF:-1 ,NOVA ACTION
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511362&extension=ts
+#EXTINF:-1 ,CBS REALITY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511361&extension=ts
+#EXTINF:-1 ,COMEDY CENTRAL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511358&extension=ts
+#EXTINF:-1 ,METRO
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511357&extension=ts
+#EXTINF:-1 ,ZOOM TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511356&extension=ts
+#EXTINF:-1 ,SUNDANCE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511355&extension=ts
+#EXTINF:-1 ,BBC FIRST
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511354&extension=ts
+#EXTINF:-1 ,LIFETIME
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511353&extension=ts
+#EXTINF:-1 ,HGTV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511352&extension=ts
+#EXTINF:-1 ,NOWA TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511351&extension=ts
+#EXTINF:-1 ,Polsat Comedy Central Extra
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511350&extension=ts
+#EXTINF:-1 ,PARAMOUNT CHANNEL.
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511349&extension=ts
+#EXTINF:-1 ,AMC
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511348&extension=ts
+#EXTINF:-1 ,TVN FABULA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511346&extension=ts
+#EXTINF:-1 ,DA VINCI
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511345&extension=ts
+#EXTINF:-1 ,FOOD NETWORK
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511344&extension=ts
+#EXTINF:-1 ,BBC  BRIT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511343&extension=ts
+#EXTINF:-1 ,DTX
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511342&extension=ts
+#EXTINF:-1 ,FOKUS TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511341&extension=ts
+#EXTINF:-1 ,BBC EARTH
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511340&extension=ts
+#EXTINF:-1 ,MOTOWIZJA TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511339&extension=ts
+#EXTINF:-1 ,NUTA TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511338&extension=ts
+#EXTINF:-1 ,BBC BRIT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511337&extension=ts
+#EXTINF:-1 ,PULS 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511336&extension=ts
+#EXTINF:-1 ,ROMANCE TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511335&extension=ts
+#EXTINF:-1 ,TO!TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511334&extension=ts
+#EXTINF:-1 ,WP
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511332&extension=ts
+#EXTINF:-1 ,POLSAT JIM JAM
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511331&extension=ts
+#EXTINF:-1 ,DISNEY JUNIOR
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511329&extension=ts
+#EXTINF:-1 ,NICK JR
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511328&extension=ts
+#EXTINF:-1 ,NICKELODEON
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511327&extension=ts
+#EXTINF:-1 ,BBC LIFESTYLE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511326&extension=ts
+#EXTINF:-1 ,TELETOON
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511325&extension=ts
+#EXTINF:-1 ,DISNEY XD
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511324&extension=ts
+#EXTINF:-1 ,DISNEY CHANNEL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511323&extension=ts
+#EXTINF:-1 ,ALE KINO+
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511322&extension=ts
+#EXTINF:-1 ,KINO POLSKA MUZYKA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511318&extension=ts
+#EXTINF:-1 ,POLO TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511317&extension=ts
+#EXTINF:-1 ,DISCO POLO MUSIC
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511316&extension=ts
+#EXTINF:-1 ,ESKA TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511315&extension=ts
+#EXTINF:-1 ,4FUN TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511313&extension=ts
+#EXTINF:-1 ,4FUN DANCE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511312&extension=ts
+#EXTINF:-1 ,STARS TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511311&extension=ts
+#EXTINF:-1 ,TELETOON+
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511310&extension=ts
+#EXTINF:-1 ,NAT GEO WILD
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511309&extension=ts
+#EXTINF:-1 ,NATIONAL GEO
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511308&extension=ts
+#EXTINF:-1 ,DISCOVERY HISTORIA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511307&extension=ts
+#EXTINF:-1 ,DISCOVERY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511306&extension=ts
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511305&extension=ts
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511304&extension=ts
+#EXTINF:-1 ,NAT GEO PEOPLE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511303&extension=ts
+#EXTINF:-1 ,PLANETE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511302&extension=ts
+#EXTINF:-1 ,BBC EARTH
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511300&extension=ts
+#EXTINF:-1 ,H2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511299&extension=ts
+#EXTINF:-1 ,POLSAT DOKU
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511298&extension=ts
+#EXTINF:-1 ,SPORT KLUB
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511297&extension=ts
+#EXTINF:-1 ,EUROSPORT 1
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511296&extension=ts
+#EXTINF:-1 ,EUROSPORT 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511295&extension=ts
+#EXTINF:-1 ,POLSAT SPORT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511294&extension=ts
+#EXTINF:-1 ,GOLF CHANNEL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511293&extension=ts
+#EXTINF:-1 ,TVN 24 BIS
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511291&extension=ts
+#EXTINF:-1 ,POLSAT NEWS 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511290&extension=ts
+#EXTINF:-1 ,BBC CBEEBIES
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511289&extension=ts
+#EXTINF:-1 ,ELEVENSPORT 1
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511287&extension=ts
+#EXTINF:-1 ,EUROSPORT 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511286&extension=ts
+#EXTINF:-1 ,NICK JUNIOR.
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511285&extension=ts
+#EXTINF:-1 ,4 FUN TV
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511284&extension=ts
+#EXTINF:-1 ,ANIMAL PLANET
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511283&extension=ts
+#EXTINF:-1 ,CANAL  + DOKUMENT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511282&extension=ts
+#EXTINF:-1 ,CANAL  360
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511281&extension=ts
+#EXTINF:-1 ,CANAL+  FILM
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511280&extension=ts
+#EXTINF:-1 ,CANAL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511279&extension=ts
+#EXTINF:-1 ,CANAL  SERIALE
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511278&extension=ts
+#EXTINF:-1 ,CANAL  SPORT 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511277&extension=ts
+#EXTINF:-1 ,CANAL  SPORT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511276&extension=ts
+#EXTINF:-1 ,DISCOVERY
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511275&extension=ts
+#EXTINF:-1 ,DISNEY CHANNEL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511274&extension=ts
+#EXTINF:-1 ,DOMO
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511273&extension=ts
+#EXTINF:-1 ,EXTREME SPORTS
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511272&extension=ts
+#EXTINF:-1 ,HBO 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511271&extension=ts
+#EXTINF:-1 ,HBO 3
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511270&extension=ts
+#EXTINF:-1 ,HBO
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511269&extension=ts
+#EXTINF:-1 ,KINO POL
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511267&extension=ts
+#EXTINF:-1 ,KUCHNIA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511266&extension=ts
+#EXTINF:-1 ,MINI MINI
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511265&extension=ts
+#EXTINF:-1 ,MTV POLSKA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511264&extension=ts
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511263&extension=ts
+#EXTINF:-1 ,NICKELODEON
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511262&extension=ts
+#EXTINF:-1 ,POLSAT SPORT FIGHT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511416&extension=ts
+#EXTINF:-1 ,POLSAT SPORT NEWS
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511415&extension=ts
+#EXTINF:-1 ,POLSAT SPORT EXTRA
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511414&extension=ts
+#EXTINF:-1 ,POLSAT FILM
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511259&extension=ts
+#EXTINF:-1 ,POLSAT NEWS 2
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511257&extension=ts
+#EXTINF:-1 ,POLSAT SPORT
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511359&extension=ts
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 1
+http://wiki-ott.org:2052/play/live.php?mac=00:1A:79:58:C6:47&stream=511398&extension=ts

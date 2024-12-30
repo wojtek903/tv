@@ -1,0 +1,381 @@
+#EXTM3U url-tvg="https://epg.polishteam.one/guide.xml"
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/A6pae85.png",TVP
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162408&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/VwLlzvJ.png",TVP 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162410&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/TfBMU5P.png",TVP 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162412&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/BkyScPj.png",TV REPUBLIKA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8319&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/3Gzrbtk.png",CANAL+ 4K
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=225921&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/2guJm6P.png",TVP INFO
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162406&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/8OJT4fB.png",TVP 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162413&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/2KXlQrx.png",TV4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162416&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/1WgsBUQ.png",TV TRWAM
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=521691&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/bdr1XRi.png",TVN
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162417&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/5mhThUk.png",TVN 7
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162480&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/iVdrDno.png",TV6
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8303&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/l9JrWF3.png",TVN FABULA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8307&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/MnqIwzT.png",TVN STYLE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162445&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/5Eu0Pl4.png",TVN TURBO
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162440&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/3mwOTwm.png",TVN 24
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162450&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/LGqxMGK.png",TVN 24 BIS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162438&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/K0pZSdM.png",TVS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8313&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/hIcxsTd.png",NOVELAS+
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=453828&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/sQG1jQV.png",POLSAT NEWS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162419&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/BNAOBV0.png",POLSAT NEWS 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162421&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/UwucjLD.png",POLSAT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162422&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/diWJHFe.png",POLSAT 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162424&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/jAhbBDu.png",POLSAT PLAY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8392&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/3DXHtvw.png",POLSAT CAFE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162428&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/tS9KOdJ.png",POLSAT SERIALE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162426&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/1ENccSW.png",POLSAT GAMES
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8332&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/ngIwk1J.png",POLSAT RODZINA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8310&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/zobzgQD.png",SUPER POLSAT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8388&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/a7sTXEt.png",ROMANCE TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162453&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/rzOGknK.png",PULS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=178077&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/lFSi6c3.png",PULS 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8318&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/4UXwAWH.png",TVP POLONIA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=178078&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/1B0p1bZ.png",TVP ROZRYWKA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8301&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/0Lgsfkh.png",TVP KULTURA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8438&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/LgM2YU7.png",TTV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8314&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/4VcdLj5.png",WP
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162466&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/l8qdPCn.png",WPOLSCE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=162457&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/KjNckRV.png",TELE 5
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8394&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/8QSht3u.png",NOVELA TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8432&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/YpsqO5M.png",ZOOM TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8320&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/lsI9Q0L.png",FOKUS TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8312&extension=m3u8
+#EXTINF:-1 group-title="✦ POLSKA ✦" tvg-logo="https://i.imgur.com/zx42uPH.png",STOPKLATKA TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8415&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/IpnY5ZO.png",HOME 4K
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=225923&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/KqF67zk.png",NAT GEO WILD
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=183505&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/amRjokf.png",NATIONAL GEOGRAPHIC
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8455&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/aV7E1XX.png",NAT GEO PEOPLE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8457&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/RJCbAD1.png",ANIMAL PLANET
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=184125&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/EZPdYr9.png",DISCOVERY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8459&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/p1rIUVL.png",DISCOVERY SCIENCE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8461&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/86IiJdB.png",DISCOVERY LIFE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8458&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/cygJx2i.png",DISCOVERY HISTORIA SD
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8460&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/xqXxwem.png",DISCOVERY HISTORIA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=183511&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/dDiZGAy.png",DA VINCI LEARNING
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8467&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/pwsKmcW.png",E! ENTERTAINMENT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8325&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/7sAkFab.png",HISTORY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8453&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/F49xYyG.png",HISTORY 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=183518&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/b1UdvEk.png",BBC EARTH
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8466&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/xds1t0v.png",BBC BRIT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8452&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/Nfhkssp.png",BBC FIRST
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8445&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/lOVg6Bp.png",BBC LIFESTYLE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8450&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/e2GoIwQ.png",PLANETE+
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=184126&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/Dxxhfoi.png",POLSAT DOKU
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8441&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/mtXh6v8.png",POLSAT VIASAT EXPLORE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8443&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/c8cOnpx.png",POLSAT VIASAT HISTORY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8442&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/3C9UZaw.png",POLSAT VIASAT NATURE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8444&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/QHGjpin.png",CRIME+ INVESTIGATION
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8462&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/oVyQoyw.png",CANAL+ KUCHNIA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8412&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/IX4iGhU.png",CANAL+ DOKUMENT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=183521&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/6A7Sr6G.png",CANAL+ DOMO
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8326&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/PycCJC9.png",TRAVEL CHANNEL
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8470&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/YIKsG6u.png",TLC
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=183504&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/doKOu8j.png",DTX
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=184128&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/PycCJC9.png",HGTV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=178149&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/muJ7Lm0.png",WATER PLANET SD
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8448&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/tYtsDUv.png",WATER PLANET
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=184134&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/9eBLhNY.png",STUDIOMED TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8446&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/RvJQnCL.png",ADVENTURE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8464&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/RHZuCeA.png",FOOD NETWORK
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8321&extension=m3u8
+#EXTINF:-1 group-title="✦ DOKUMENTACJA ✦" tvg-logo="https://i.imgur.com/j45cbS5.png",HOME TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8329&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/ru6wHaO.png",24/ 7 | KINO 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216459&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/ru6wHaO.png",24/ 7 | KINO 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216460&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/ru6wHaO.png",24/ 7 | KINO 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216461&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/ru6wHaO.png",24/ 7 | KINO 4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216462&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/ru6wHaO.png",24/ 7 | KINO 5
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216463&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/aV5l6HA.png",24/7 | CINEMA 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216464&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/aV5l6HA.png",24/7 | CINEMA 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216465&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/aV5l6HA.png",24/7 | CINEMA 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216466&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/aV5l6HA.png",24/7 | CINEMA 4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=216467&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/rK3rdHA.png",CBS EUROPA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8451&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/hn6NCBb.png",CBS REALITY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8447&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/mWHmJjR.png",TVP HISTORIA SD
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8439&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/mWHmJjR.png",TVP HISTORIA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=184127&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/tdqS1ec.png",TVP SERIALE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8387&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/zfjidxY.png",POLSAT FILM
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8391&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/vjvM3bA.png",ACTIVE FAMILY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8393&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/NzEwtsM.png",CANAL+ SERIALE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8395&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/TGsdg7M.png",CANAL+ FILM
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8396&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/FrXQ5mg.png",CANAL+ FAMILY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8397&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/8dnSJAO.png",CANAL+ 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8399&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/KPCr1pj.png",AXN BLACK
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8400&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/TQTIk9L.png",AXN WHITE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8401&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/unlAWOa.png",AXN
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8402&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/lqghIrX.png",AXN SPIN
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8403&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/7P2kKqN.png",FOX
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8404&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/kMzQ70L.png",FOX COMEDY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8405&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/SYm1taF.png",AMC
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8406&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/IFSvZ6V.png",ALE KINO+
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8407&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/dktzUvF.png",COMEDY CENTRAL
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8408&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/t2We68p.png",13 ULICA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8409&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/JJBsPqL.png",SCIFI
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8410&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/HL3pjBE.png",UNIVERSAL
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8411&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/2SpP8nV.png",SUNDANCE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8416&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/TB03tWe.png",KINO POLSKA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8417&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/RrQMI22.png",POLSAT COMEDY CENTRAL EXTRA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8419&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/eNDWlek.png",CANAL+ PREMIUM
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8420&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/zeQ4Mwl.png",HBO
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8421&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/Kupr5Ai.png",HBO 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8422&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/hOHQDBh.png",HBO 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8423&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/X6CMW0I.png",FILMBOX FAMILY
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8424&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/0abx5KE.png",FILMBOX ACTION
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8425&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/o5kjWyg.png",FILMBOX EXTRA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8426&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/4odcBHH.png",FILMBOX PREMIUM
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8427&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/5qWy2iv.png",PARAMOUNT NETWORK
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8413&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/IYfhFx3.png",CINEMAX 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8428&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/5QmmiYT.png",CINEMAX
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8429&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/B1CSMTM.png",METRO
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8322&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/YU5XSnX.png",NOWA TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8316&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/w4yHxqm.png",EPIC DRAMA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8430&extension=m3u8
+#EXTINF:-1 group-title="✦ CINEMA ✦" tvg-logo="https://i.imgur.com/gwSRGSB.png",FILMBOX ARTHOUSE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8431&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/eKQtZRs.png",ELEVEN SPORT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8485&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/JGZJmb8.png",ELEVEN SPORTS 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8486&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/B7tk79D.png",ELEVEN SPORTS 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8487&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/sDDOCbC.png",ELEVEN SPORTS 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8488&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/QI2bThi.png",ELEVEN SPORTS 4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8489&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/zXyHyHV.png",POLSAT SPORT NEWS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8472&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/RzFIoC8.png",POLSAT SPORT EXTRA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8473&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/ngntkQo.png",POLSAT SPORT FIGHT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8474&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/1gIIwCD.png",POLSAT SPORT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8475&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/vBkkSYn.png",POLSAT SPORT PREMIUM 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8477&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/KHzPAy4.png",POLSAT SPORT PREMIUM 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8478&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/daUnj1Y.png",POLSAT SPORT PREMIUM 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8479&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/7xz7w2q.png",POLSAT SPORT PREMIUM 4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=523170&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/coZf2kx.png",POLSAT SPORT PREMIUM 5
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=523169&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/y8LwAHH.png",POLSAT SPORT PREMIUM 6
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=523168&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/ZT8zfL2.png",CANAL+ SPORT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8481&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/YNErs9N.png",CANAL+ SPORT 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8482&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/RP35ubv.png",CANAL+ SPORT 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8483&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/MAhy86H.png",CANAL+ SPORT 4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8484&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/9Fr1uwn.png",CANAL+ SPORT 5
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=510216&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="http://xc.contact:80/images/wIdaRoEEyada2MXv_mITKuypr2fHhFwPI5HAx5uhUbCDtNiiaSBx6gIKxzrrBoNv.jpg",CANAL+ EXTRA 3
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=561373&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="http://xc.contact:80/images/wIdaRoEEyada2MXv_mITKuypr2fHhFwPI5HAx5uhUbCDtNiiaSBx6gIKxzrrBoNv.jpg",CANAL+ EXTRA 4
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=561372&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/xsOmB3z.png",EUROSPORT 1
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8491&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/ClaNGPU.png",EUROSPORT 2
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8492&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/M6mNY9D.png",TVP SPORT
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8490&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/89czsXV.png",GOLF CHANNEL
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8493&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/rzcZ8qT.png",SPORTKLUB
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8494&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/8XLqDsc.png",EXTREME SPORTS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8495&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/VQwfuKM.png",MOTOWIZJA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8496&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/7Oe77fX.png",FIGHTBOX
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8497&extension=m3u8
+#EXTINF:-1 group-title="✦ SPORTY ✦" tvg-logo="https://i.imgur.com/dTnRTpu.png",FIGHTKLUB
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8471&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/bUSePL9.png",BABY TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8344&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/uJzs8If.png",BOOMERANG
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8334&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/JfHGFjQ.png",DISNEY XD
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8343&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/yfxz04X.png",DISNEY CHANNEL
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8342&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/QeuqzkB.png",DISNEY JUNIOR
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8345&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/DLBhTZH.png",CARTOON NETWORK
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8347&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/WWbYtcH.png",CBEEBIES
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8341&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/6l33fXE.png",PL| NICK JR
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8348&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/weFfy9c.png",NICKTOONS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8359&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/3GKHxzA.png",NICKELODEON
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8349&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/VLW6amr.png",MINIMINI+
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8340&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/WbWyHzl.png",JIM JAM
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8351&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/NOtkCmM.png",TELETOON+
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8355&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/NfSQETh.png",TVP ABC
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8331&extension=m3u8
+#EXTINF:-1 group-title="✦ KIDS-DLA DZIECI ✦" tvg-logo="https://i.imgur.com/j9j1xux.png",4FUN KIDS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8385&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/PZ4oVUd.png",PL: NUTA TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=8336&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/z5oTgee.png",PL: POLSAT MUSIC
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246921&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/br56gFU.png",PL: DISCO POLO MUSIC
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246922&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/LPOMzbz.png",PL: MTV POLSKA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246925&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/8uTbOof.png",PL: POLO TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246927&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/uyxFgF7.png",PL: STARS TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246928&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/GmsyyRD.png",PL: 4FUN TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246931&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/ISRW7cq.png",PL: 4FUN GOLD HITS
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246930&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/qyuu4VF.png",PL: 4FUN DANCE
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246929&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/N2HJ7BD.png",PL: ESKA ROCK TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246935&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/6SjS1Mo.png",PL: ESKA TV EXTRA
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246934&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/NPnc8Dx.png",PL: ESKA TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246933&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/nMEV3QY.png",PL: VOX MUSIC TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246936&extension=m3u8
+#EXTINF:-1 group-title="✦ MUZYKA ✦" tvg-logo="https://i.imgur.com/RM9CjYf.png",PL: POWER TV
+http://31.42.177.145:8080/play/live.php?mac=00:1A:79:C1:A0:EB&stream=246932&extension=m3u8

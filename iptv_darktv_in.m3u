@@ -1,0 +1,355 @@
+
+#EXTM3U
+#EXTM3U url-tvg="https://epg.polishteam.one/guide.xml"
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png", TVP 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42933&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp1hd.png", TVP 1 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42936&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvp2hd.png", TVP 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42935&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphd.png", TVP 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42934&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13ulicahd.png", 13 Ulica 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43054&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/alekinoplus.png", Ale Kino 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43048&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/amcushd.png", AMC Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43047&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/atmrozrywka.png", ATM Rozrywka TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43044&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Novela Plus
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=166411&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/poland_bayrak.gif", TVN 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=36162&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn7hd.png", TVN 7 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42941&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png", AXN 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43042&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnblackpl.png", AXN Black
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43043&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnwhitehd.png", AXN White
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43040&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnspinhd.png", AXN Spin
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43041&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", CANAL+ FILM
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=56857&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png", CBS Europa 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43024&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemaxhd.png", Cinemax 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43021&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cinemax2hd.png", Cinemax 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43022&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedycentral.png", Comedy Central
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43020&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Epic Drama
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51359&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbseuropa.png", Power TV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=122588&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxaction.png", Filmbox Action
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42999&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxarthouse.png", Filmbox Arthouse
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42998&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxextrahd.png", Filmbox Extra 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42997&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxfamily.png", Filmbox Family
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42996&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/filmboxpremium.png", FilmBox Premium 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42995&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", FX
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51367&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/foxcomedy.png", Fx Comedy
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42994&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbohd.png", HBO 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42990&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo2lamhd.png", HBO 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42992&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hbo3hd.png", HBO 3 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42991&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png", Crime & Investigation 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42987&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolska.png", Kino Polska 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42986&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Kino TV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51373&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lifetimehd.png", Lifetime 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42982&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtv.png", MTV Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42980&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatfilmhd.png", Polsat Film
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42969&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png", Polsat Rodzina 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42964&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/stopklatkatv.png", Stopklatka TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42950&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", TNT
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51399&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv6-lichoridas.png", TV6 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42943&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvprozrywka.png", TVP Rozrywka
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42928&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpseriale.png", TVP Seriale
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42927&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpldance.png", 4Fun Dance
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43053&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvplgoldhits.png", 4Fun Gold Hits
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43052&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4funtvpl.png", 4Fun TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43051&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discopolomusic.png", Disco Polo Music
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43017&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Eska Rock TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51362&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Eska TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51360&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Eska TV Extra
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51361&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinopolskamuzyka.png", Kino Polska Muzyka
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42985&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", MTV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51378&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxmusictv.png", Music VOX
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42979&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png", Polsat Music
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42966&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", STARS.TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51395&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/vh1.png", MTV 00s
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42924&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png", Baby TV [Multi-Audio]
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43039&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", BBC CBeebies 1080P
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51347&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png", Boomerang
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43036&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png", Cartoon Network 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43026&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearning.png", Da Vinci
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43018&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png", Disney Channel 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43012&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjuniorhd.png", Disney JR
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43011&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyxd.png", Disney XD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43010&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Nick JR
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51380&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", NICKELODEON
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51381&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Nicktoons
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51382&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jimjam.png", Polsat JimJam
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42967&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", TVP ABC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51407&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusserialehd-lichoridas.png", Canal Seriale 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43031&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", CANAL+ SERIALE
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51354&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport.png", Canal Sport 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43029&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png", Canal Sport 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43030&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png", CANAL SPORT 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=56855&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusplsport2.png", CANAL SPORT 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=56854&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png", Eleven Sports 1 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43007&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png", Eleven Sports 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43006&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png", Eleven Sports 3 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43005&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eleven.png", Eleven Sports 4 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43004&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png", Eurosport 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43003&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png", EuroSport 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43002&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/extremesportshd.png", Extreme Sports 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43001&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/fightboxhd.png", Fightbox 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43000&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Food Network
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51365&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nsportplushd.png", nSport 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42975&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/paramountchannel.png", Paramount Channel 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42974&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png", Polsat Sport 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42961&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportextra.png", Polsat Sport Extra 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42962&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsportfighthd.png", Polsat Sport Fight 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42960&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Polsat Sport News
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51390&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png", Polsat Sport Premium 1 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42959&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png", Polsat Sport Premium 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42958&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatsport.png", Polsat Sport Premium PPV 4 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42956&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", SPORT KLUB
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51394&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpsporthd.png", TVP Sport 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42926&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Active Family
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51345&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/adventurehd.png", Adventure 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43049&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png", Animal Planet
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43045&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbcearth.png", BBC Earth 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43038&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", BBC FIRST
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51348&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bbchd.png", BBC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43037&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplus1hd-lichoridas.png", Canal 1 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43035&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusfamily.png", Canal+ 360
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43032&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", CANAL
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51350&extension=ts
+#EXTINF:-1 group-title="CINEMA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Canal+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51353&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cbsreality.png", CBS Reality 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43023&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryhd.png", Discovery 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43016&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Discovery Historia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51356&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverylifehd.png", Discovery Life 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43015&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoverysciencehd.png", Discovery Science 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43014&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discoveryturboxtra.png", Discovery Turbo Xtra
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43013&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/domoplushd.png", Domo+ 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43009&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", DTX
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51357&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", E! Entertainment
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51358&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Fokus TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51364&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Golf Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51368&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/hgtv.png", HGTV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42989&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png", History 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42988&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", ID TV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51371&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kuchniaplushd.png", Kuchnia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42983&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Metro
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51376&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/miniminiplus.png", MiniMini 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42981&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png", National Geographic 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42978&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png", Nat Geo Wild 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42976&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", NOWA
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51383&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nutatvplhd.png", Nuta TV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43050&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Planete+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51385&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Polo TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51386&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat2hd.png", Polsat 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42973&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Polsat Doku
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51387&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatexplorehd.png", Polsat Viasat Explore 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42953&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasathistoryhd.png", Polsat Viasat History 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42952&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatviasatnature.png", Polsat Viasat Nature
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42951&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Red Carpet TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51392&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Romance TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51393&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/scifi-lichoridas.png", SciFi Universal
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=43028&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sundancetv.png", Sundance TV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42949&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Super Polsat 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51396&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", teleTOON+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=56858&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png", TLC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42948&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Travel Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51402&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ttv.png", TTV 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42947&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png", TV Puls 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42946&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpulshd.png", TV Puls 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42945&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", TV REPUBLIKA
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51404&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", TVN 24 Bis
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51405&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvn24hd.png", TVN 24 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42942&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnfabula.png", TVN Fabuła 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42940&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnstyle.png", TVN Style 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42938&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvnturbohd.png", TVN Turbo 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42937&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvphistoria.png", TVP Historia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42932&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpinfo.png", TVP Info 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42931&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvpkultura.png", TVP Kultura
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42930&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvppolonia.png", TVP Polonia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42929&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvsilesia.png", TVS
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=47241&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", wPolsce 24
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51415&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Zoom TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51416&extension=ts
+#EXTINF:-1 group-title="POLSKA", Warner Tv
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129229&extension=ts
+#EXTINF:-1 group-title="POLSKA", Tele5
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129227&extension=ts
+#EXTINF:-1 group-title="POLSKA", Wydarzenia 24
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129226&extension=ts
+#EXTINF:-1 group-title="POLSKA", Nat Geo People 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129225&extension=ts
+#EXTINF:-1 group-title="POLSKA", Ci Polsat 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129224&extension=ts
+#EXTINF:-1 group-title="POLSKA", Canal Plus Domo 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129223&extension=ts
+#EXTINF:-1 group-title="IT - ITALIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e6505057fe94eed2db938e09cb24c2dc.png",(IT) QVC 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129222&extension=ts
+#EXTINF:-1 group-title="POLSKA", Antena
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129219&extension=ts
+#EXTINF:-1 group-title="POLSKA", History 2 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129218&extension=ts
+#EXTINF:-1 group-title="POLSKA", 4Fun Kids
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129215&extension=ts
+#EXTINF:-1 group-title="POLSKA", Music Box Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=129214&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsat.png", Polsat 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42970&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatcafehd.png", Polsat Cafe 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42971&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/polsatnewshd.png", Polsat News 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42965&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Polsat News 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51388&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/republic-of-poland.png", Polsat Play
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=51389&extension=ts
+#EXTINF:-1 group-title="POLSKA" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/4sevenhd.png", TV4 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=42944&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/poland/fight_klub_pl.jpg", Fight Klub 
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:AB:B8:82&stream=119657&extension=ts

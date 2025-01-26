@@ -1,0 +1,357 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", TVP 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP1.png" group-title="OGÓLNE", TVP 1 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP2.png" group-title="OGÓLNE", TVP 2 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVP3.png" group-title="OGÓLNE", TVP 3 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSERIALE.png" group-title="OGÓLNE", TVP SERIALE 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" group-title="OGÓLNE", TVP POLONIA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/746441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN.png" group-title="OGÓLNE", TVN 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN7.png" group-title="OGÓLNE", TVN 7 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", POLSAT 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17625
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT2.png" group-title="OGÓLNE", POLSAT 2 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17633
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", TV PULS 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PULS2.png" group-title="OGÓLNE", PULS 2 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV4HD.png" group-title="OGÓLNE", TV 4 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TTV.png" group-title="OGÓLNE", TTV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNTURBO.png" group-title="OGÓLNE", TVN TURBO 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", TVP INFO 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="OGÓLNE", TVN 24 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVN24.png" group-title="OGÓLNE", TVN 24 BIS 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/1WgsBUQ.png" group-title="OGÓLNE", TV TRWAM
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/612541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title="OGÓLNE", POLSAT NEWS 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS2.png" group-title="OGÓLNE", POLSAT NEWS 2 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17622
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNSTYLE.png" group-title="OGÓLNE", TVN STYLE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TV6.png" group-title="OGÓLNE", TV 6 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVREPUBLIKA.png" group-title="OGÓLNE", TV REPUBLIKA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATPLAY.png" group-title="OGÓLNE", POLSAT PLAY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATCAFE.png" group-title="OGÓLNE", POLSAT CAFE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17631
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERPOLSAT.png" group-title="OGÓLNE", SUPER POLSAT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="OGÓLNE", POLSAT RODZINA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVNFABULA.png" group-title="OGÓLNE", TVN FABULA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSAT.png" group-title="OGÓLNE", POLSAT GAMES
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALHD.png" group-title="OGÓLNE", CANAL+ 4K
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/295665
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSEUROPAHD.png" group-title="OGÓLNE", CBS EUROPA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CBSREALITY.png" group-title="OGÓLNE", CBS REALITY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SCIFIHD.png" group-title="OGÓLNE", SCIFI
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FOX.png" group-title="OGÓLNE", FOX
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17689
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", FOX COMEDY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17691
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/13ULICAHD.png" group-title="OGÓLNE", 13 ULICA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/E!ENTERTAINMENT.png" group-title="OGÓLNE", E! ENTERTAINMENT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STOPKLATKATV.png" group-title="OGÓLNE", STOPKLATKA TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUPERSTACJA.png" group-title="OGÓLNE", SUPER STACJA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/METRO.png" group-title="OGÓLNE", METRO
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NOWATV.png" group-title="OGÓLNE", NOWA TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17645
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/WP.png" group-title="OGÓLNE", WP
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ZOOMTV.png" group-title="OGÓLNE", ZOOM TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="OGÓLNE", BBC BRIT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/139865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBC.png" group-title="OGÓLNE", BBC LIFESTYLE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/139867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ADVENTUREHD.png" group-title="OGÓLNE", ADVENTURE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DOMOHD.png" group-title="OGÓLNE", DOMO+
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/HGTVHD.png" group-title="OGÓLNE", HGTV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17681
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KUCHNIAHD.png" group-title="OGÓLNE", KUCHNIA+
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17668
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ROMANCETV.png" group-title="OGÓLNE", ROMANCE TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/LIFETIMEHD.png" group-title="OGÓLNE", LIFETIME
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17666
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SUNDANCEHD.png" group-title="OGÓLNE", SUNDANCE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MOTOWIZJATVHD.png" group-title="OGÓLNE", MOTOWIZJA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17660
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DTX.png" group-title="OGÓLNE", DTX
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POWERTV.png" group-title="OGÓLNE", POWER TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17594
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ACTIVEFAMILY.png" group-title="OGÓLNE", ACTIVE FAMILY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPROZRYWKA.png" group-title="OGÓLNE", TVP ROZRYWKA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", ATM ROZRYWKA TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/134999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLOTV.png" group-title="OGÓLNE", POLO TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17635
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUN.TV.png" group-title="OGÓLNE", 4FUN TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATMUSIC.png" group-title="OGÓLNE", POLSAT MUSIC
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135090
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ESKAROCKTV.png" group-title="OGÓLNE", ESKA ROCK TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", ESKA TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOPOLOMUSIC.png" group-title="OGÓLNE", DISCO POLO MUSIC
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNGOLDHITS.png" group-title="OGÓLNE", 4FUN GOLD HITS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/4FUNDANCE.png" group-title="OGÓLNE", 4FUN DANCE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATROMANS.png" group-title="OGÓLNE", POLSAT ROMANS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="OGÓLNE", TRACE TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/1280px-TVS_%28Fernsehsender%29_Logo.svg.png" group-title="OGÓLNE", TVS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/zHQ6wL5/LIVE-LOGO-PNG.png" group-title="OGÓLNE", CNN
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", TLC
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", TVN24 INTERNATIONAL
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/Warner_TV_Poland_Logo.png" group-title="OGÓLNE", WARNER TV 
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", CI POLSAT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", POLSAT COMEDY CENTRAL EXTRA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", PARAMOUNT CHANNEL
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", COMEDY CENTRAL POLSKA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", EPIC DRAMA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", HGTV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339857
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", FOOD NETWORK
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", KINO POLSKA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="OGÓLNE", MTV LIVE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/jHIOGn3.png" group-title="OGÓLNE", MTV HITS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://pic.qw1234.org/logos/tn_mtvdance.gif" group-title="OGÓLNE", MTV CLUB
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", TV OKAZJE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", E
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/Novelas+.png" group-title="OGÓLNE", NOVELAS+
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="OGÓLNE", TVT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://lo1.in/pol/tvtg.png" group-title="OGÓLNE", TVT ZGORZELEC
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.tvlogolar.xyz/europa/poland/polsat-viasat-explore-pl.png" group-title="OGÓLNE", V EXPLORE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title=" CINEMA",  KINO POLSKA MUZYKA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATFILM.png" group-title=" CINEMA", POLSAT FILM
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17627
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO1.png" group-title=" CINEMA", HBO
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17687
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO2.png" group-title=" CINEMA", HBO 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HBO3.png" group-title=" CINEMA", HBO 3
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17683
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" CINEMA", AXN
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNWHITE.png" group-title=" CINEMA", AXN WHITE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNBLACK.png" group-title=" CINEMA", AXN BLACK
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/AXNSPIN.png" group-title=" CINEMA", AXN SPIN
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFAMILY.png" group-title=" CINEMA", CANAL+ 360
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALFILM.png" group-title=" CINEMA", CANAL+  FILM
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANALSERIALE.png" group-title=" CINEMA",CANAL+  SERIALE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ALEKINO.png" group-title=" CINEMA", ALE KINO+
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" CINEMA", VOD 205
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/139871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/KINO.png" group-title=" CINEMA", KINO TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17670
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXEXTRA.png" group-title=" CINEMA", FILMBOX EXTRA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXPREMIUM.png" group-title=" CINEMA", FILMBOX PREMIUM
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXACTION.png" group-title=" CINEMA", FILMBOX ACTION
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135049
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXFAMILY.png" group-title=" CINEMA", FILMBOX FAMILY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17699
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FILMBOXARTHOUSE.png" group-title=" CINEMA", FILMBOX ARTHOUSE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" CINEMA", AMC
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TNT.png" group-title=" CINEMA", TNT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" CINEMA", CINEMAX
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CINEMAX2.png" group-title=" CINEMA", CINEMAX 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TRAVELCHANNEL.png" group-title=" DOCU", TRAVEL CHANNEL
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATDOKU.png" group-title=" DOCU", POLSAT DOKU
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17629
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title=" DOCU", HISTORY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17677
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/HISTORY.png" group-title=" DOCU", HISTORY 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/216595
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPHISTORIA.png" group-title=" DOCU", TVP HISTORIA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPKULTURA.png" group-title=" DOCU", TVP KULTURA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERYSCIENCE.png" group-title=" DOCU", DISCOVERY SCIENCE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/DISCOVERY.png" group-title=" DOCU", DISCOVERY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DISCOVERYHISTORIA.png" group-title=" DOCU", DISCOVERY HISTORIA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/DAVINCI.png" group-title=" DOCU", DA VINCI
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/PLANETEHD.png" group-title=" DOCU", PLANETE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGCWILD.png" group-title=" DOCU", NATIONAL GEO WILD
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NGC.png" group-title=" DOCU", NATIONAL GEO
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17652
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BBCFIRST.png" group-title=" DOCU", BBC FIRST
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/BBCEARTH.png" group-title=" DOCU", BBC EARTH
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/ID.png" group-title=" DOCU", ID
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17675
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATEXPLOREHD.png" group-title=" DOCU", POLSAT VIASAT EXPLORE
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATVIASATHISTORY.png" group-title=" DOCU", POLSAT VIASAT HISTORY
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17597
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/STARSTV.png" group-title=" DOCU", STARS TV
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTBOXHD.png" group-title=" SPORT", FIGHTBOX
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://orangebox.dynu.com:38093/Provip/Logotv/UFC.png" group-title=" SPORT", UFC FIGHT PASS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/646741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPSPORT.png" group-title=" SPORT", TVP SPORT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT1.png" group-title=" SPORT", EUROSPORT 1
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/EUROSPORT2.png" group-title=" SPORT", EUROSPORT 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/NSPORT+.png" group-title=" SPORT", NSPORT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17643
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/SPORTKLUBHD.png" group-title=" SPORT", SPORTKLUB
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title=" SPORT", POLSAT SPORT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", POLSAT SPORT PREMIUM 1
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17609
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", POLSAT SPORT PREMIUM 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17607
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", POLSAT SPORT PREMIUM 4
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/271821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", POLSAT SPORT PREMIUM 5
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/271822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", POLSAT SPORT PREMIUM 6
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/271823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORTHD.png" group-title=" SPORT", CANAL+  SPORT 1
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/CANAL+SPORT2HD.png" group-title=" SPORT", CANAL+ SPORT 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", CANAL+ SPORT 3
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13814.png?ver=45066" group-title=" SPORT", CANAL+ EXTRA 1
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/718137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13815.png?ver=56917" group-title=" SPORT", CANAL+ EXTRA 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/718139
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13816.png?ver=27653" group-title=" SPORT", CANAL+ EXTRA 3
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/718142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13818.png?ver=45692" group-title=" SPORT", CANAL+ EXTRA 4
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/718143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", ELEVEN SPORTS 1
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17723
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", ELEVEN SPORTS 2
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", ELEVEN SPORTS 3
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", ELEVEN SPORTS 4
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/GOLFCHANNEL.png" group-title=" SPORT", GOLF CHANNEL
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png" group-title=" SPORT", POLSAT SPORT EXTRA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title=" SPORT", EXTREME SPORTS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/FIGHTKLUBHD.png" group-title=" SPORT", FIGHTKLUB
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135048
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATNEWS.png" group-title=" SPORT", POLSAT SPORT NEWS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/qHVs7Rl.png" group-title=" SPORT", CANAL+ SPORT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title=" SPORT", CANAL SPORT
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/340008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title=" SPORT", CANAL+ SPORT 4
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/340009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title=" SPORT", ELEVEN SPORTS 1 4K
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/340011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/COMEDYCENTRALFAMILY.png" group-title=" KIDS", COMEDY CENTRAL FAMILY POLSKA
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/137415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/BOOMERANG.png" group-title=" KIDS", BOOMERANG
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title=" KIDS", DISNEY XD
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISNEYCHANNEL.png" group-title=" KIDS", DISNEY JUNIOR
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/135031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKJUNIOR.png" group-title=" KIDS", NICK JR.
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17649
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/NICKELODEON.png" group-title=" KIDS",  NICKELODEON
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/MINIMINIHD.png" group-title=" KIDS", MINIMINI
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/TVPABC.png" group-title=" KIDS", TVP ABC
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/17540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title=" KIDS", CARTOON NETWORK
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title=" KIDS", DISNEY CHANNEL
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title=" KIDS", 4FUN KIDS
+http://line.team-tv.link:80/f8WsGXKs/cnD4Fd7/339976

@@ -1,0 +1,351 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42933&extension=ts
+#EXTINF:-1 ,TVP 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42936&extension=ts
+#EXTINF:-1 ,TVP 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42935&extension=ts
+#EXTINF:-1 ,TV Republika
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51404&extension=ts
+#EXTINF:-1 ,wPolsce 24
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51415&extension=ts
+#EXTINF:-1 ,Novela Plus
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=166411&extension=ts
+#EXTINF:-1 ,TVN
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=36162&extension=ts
+#EXTINF:-1 ,TVN 7
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42941&extension=ts
+#EXTINF:-1 ,TVP 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42934&extension=ts
+#EXTINF:-1 ,13 Ulica
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43054&extension=ts
+#EXTINF:-1 ,Ale Kino+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43048&extension=ts
+#EXTINF:-1 ,AMC Polska
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43047&extension=ts
+#EXTINF:-1 ,TVP Rozrywka
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43044&extension=ts
+#EXTINF:-1 ,AXN
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43042&extension=ts
+#EXTINF:-1 ,AXN Black
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43043&extension=ts
+#EXTINF:-1 ,AXN White
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43040&extension=ts
+#EXTINF:-1 ,AXN Spin
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43041&extension=ts
+#EXTINF:-1 ,CANAL+ FILM
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=56857&extension=ts
+#EXTINF:-1 ,CBS Europa
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43024&extension=ts
+#EXTINF:-1 ,Cinemax
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43021&extension=ts
+#EXTINF:-1 ,Cinemax 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43022&extension=ts
+#EXTINF:-1 ,Comedy Central
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43020&extension=ts
+#EXTINF:-1 ,Epic Drama
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51359&extension=ts
+#EXTINF:-1 ,Power TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=122588&extension=ts
+#EXTINF:-1 ,Filmbox Action
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42999&extension=ts
+#EXTINF:-1 ,Filmbox Arthouse
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42998&extension=ts
+#EXTINF:-1 ,Filmbox Extra
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42997&extension=ts
+#EXTINF:-1 ,Filmbox Family
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42996&extension=ts
+#EXTINF:-1 ,FilmBox Premium
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42995&extension=ts
+#EXTINF:-1 ,FX
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51367&extension=ts
+#EXTINF:-1 ,Fx Comedy
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42994&extension=ts
+#EXTINF:-1 ,HBO
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42990&extension=ts
+#EXTINF:-1 ,HBO 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42992&extension=ts
+#EXTINF:-1 ,HBO 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42991&extension=ts
+#EXTINF:-1 ,Crime & Investigation
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42987&extension=ts
+#EXTINF:-1 ,Kino Polska
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42986&extension=ts
+#EXTINF:-1 ,Kino TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51373&extension=ts
+#EXTINF:-1 ,Lifetime
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42982&extension=ts
+#EXTINF:-1 ,MTV Polska
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42980&extension=ts
+#EXTINF:-1 ,Polsat Film
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42969&extension=ts
+#EXTINF:-1 ,Polsat Rodzina
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42964&extension=ts
+#EXTINF:-1 ,Stopklatka TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42950&extension=ts
+#EXTINF:-1 ,Warner
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51399&extension=ts
+#EXTINF:-1 ,TV 6
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42943&extension=ts
+#EXTINF:-1 ,TVP Rozrywka
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42928&extension=ts
+#EXTINF:-1 ,TVP Seriale
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42927&extension=ts
+#EXTINF:-1 ,4Fun Dance
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43053&extension=ts
+#EXTINF:-1 ,4Fun Gold Hits
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43052&extension=ts
+#EXTINF:-1 ,4Fun TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43051&extension=ts
+#EXTINF:-1 ,Disco Polo Music
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43017&extension=ts
+#EXTINF:-1 ,Eska Rock TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51362&extension=ts
+#EXTINF:-1 ,Eska TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51360&extension=ts
+#EXTINF:-1 ,Eska TV Extra
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51361&extension=ts
+#EXTINF:-1 ,Kino Polska Muzyka
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42985&extension=ts
+#EXTINF:-1 ,MTV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51378&extension=ts
+#EXTINF:-1 ,Music VOX
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42979&extension=ts
+#EXTINF:-1 ,Polsat Music
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42966&extension=ts
+#EXTINF:-1 ,STARS.TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51395&extension=ts
+#EXTINF:-1 ,MTV 00s
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42924&extension=ts
+#EXTINF:-1 ,Baby TV [Multi-Audio]
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43039&extension=ts
+#EXTINF:-1 ,BBC CBeebies 1080P
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51347&extension=ts
+#EXTINF:-1 ,Boomerang
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43036&extension=ts
+#EXTINF:-1 ,Cartoon Network
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43026&extension=ts
+#EXTINF:-1 ,Da Vinci
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43018&extension=ts
+#EXTINF:-1 ,Disney Channel
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43012&extension=ts
+#EXTINF:-1 ,Disney JR
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43011&extension=ts
+#EXTINF:-1 ,Disney XD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43010&extension=ts
+#EXTINF:-1 ,Nick JR
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51380&extension=ts
+#EXTINF:-1 ,NICKELODEON
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51381&extension=ts
+#EXTINF:-1 ,Nicktoons
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51382&extension=ts
+#EXTINF:-1 ,Polsat JimJam
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42967&extension=ts
+#EXTINF:-1 ,TVP ABC
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51407&extension=ts
+#EXTINF:-1 ,Canal+ Seriale
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43031&extension=ts
+#EXTINF:-1 ,CANAL+ SERIALE
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51354&extension=ts
+#EXTINF:-1 ,Canal Sport
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43029&extension=ts
+#EXTINF:-1 ,Canal Sport 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43030&extension=ts
+#EXTINF:-1 ,CANAL SPORT 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=56855&extension=ts
+#EXTINF:-1 ,CANAL SPORT 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=56854&extension=ts
+#EXTINF:-1 ,Eleven Sports 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43007&extension=ts
+#EXTINF:-1 ,Eleven Sports 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43006&extension=ts
+#EXTINF:-1 ,Eleven Sports 3
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43005&extension=ts
+#EXTINF:-1 ,Eleven Sports 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43004&extension=ts
+#EXTINF:-1 ,Eurosport 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43003&extension=ts
+#EXTINF:-1 ,EuroSport 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43002&extension=ts
+#EXTINF:-1 ,Extreme Sports
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43001&extension=ts
+#EXTINF:-1 ,Fightbox
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43000&extension=ts
+#EXTINF:-1 ,Food Network
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51365&extension=ts
+#EXTINF:-1 ,nSport+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42975&extension=ts
+#EXTINF:-1 ,Paramount Channel
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42974&extension=ts
+#EXTINF:-1 ,Polsat Sport
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42961&extension=ts
+#EXTINF:-1 ,Polsat Sport Extra
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42962&extension=ts
+#EXTINF:-1 ,Polsat Sport Fight
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42960&extension=ts
+#EXTINF:-1 ,Polsat Sport News
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51390&extension=ts
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42959&extension=ts
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42958&extension=ts
+#EXTINF:-1 ,Polsat Sport Premium PPV 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42956&extension=ts
+#EXTINF:-1 ,SPORT KLUB
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51394&extension=ts
+#EXTINF:-1 ,TVP Sport
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42926&extension=ts
+#EXTINF:-1 ,Active Family
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51345&extension=ts
+#EXTINF:-1 ,Adventure
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43049&extension=ts
+#EXTINF:-1 ,Animal Planet
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43045&extension=ts
+#EXTINF:-1 ,BBC Earth
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43038&extension=ts
+#EXTINF:-1 ,BBC FIRST
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51348&extension=ts
+#EXTINF:-1 ,BBC
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43037&extension=ts
+#EXTINF:-1 ,Canal+ 1
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43035&extension=ts
+#EXTINF:-1 ,Canal+ 360
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43032&extension=ts
+#EXTINF:-1 ,CANAL+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51350&extension=ts
+#EXTINF:-1 ,Canal+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51353&extension=ts
+#EXTINF:-1 ,CBS Reality
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43023&extension=ts
+#EXTINF:-1 ,Discovery
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43016&extension=ts
+#EXTINF:-1 ,Discovery Historia
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51356&extension=ts
+#EXTINF:-1 ,Discovery Life
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43015&extension=ts
+#EXTINF:-1 ,Discovery Science
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43014&extension=ts
+#EXTINF:-1 ,Discovery Turbo Xtra
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43013&extension=ts
+#EXTINF:-1 ,Domo+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43009&extension=ts
+#EXTINF:-1 ,DTX
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51357&extension=ts
+#EXTINF:-1 ,E! Entertainment
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51358&extension=ts
+#EXTINF:-1 ,Fokus TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51364&extension=ts
+#EXTINF:-1 ,Golf Channel
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51368&extension=ts
+#EXTINF:-1 ,HGTV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42989&extension=ts
+#EXTINF:-1 ,History
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42988&extension=ts
+#EXTINF:-1 ,ID TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51371&extension=ts
+#EXTINF:-1 ,Kuchnia
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42983&extension=ts
+#EXTINF:-1 ,Metro
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51376&extension=ts
+#EXTINF:-1 ,MiniMini+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42981&extension=ts
+#EXTINF:-1 ,National Geographic
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42978&extension=ts
+#EXTINF:-1 ,Nat Geo Wild
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42976&extension=ts
+#EXTINF:-1 ,NOWA
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51383&extension=ts
+#EXTINF:-1 ,Nuta TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43050&extension=ts
+#EXTINF:-1 ,Planete+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51385&extension=ts
+#EXTINF:-1 ,Polo TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51386&extension=ts
+#EXTINF:-1 ,Polsat 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42973&extension=ts
+#EXTINF:-1 ,Polsat Doku
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51387&extension=ts
+#EXTINF:-1 ,Polsat Viasat Explore
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42953&extension=ts
+#EXTINF:-1 ,Polsat Viasat History
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42952&extension=ts
+#EXTINF:-1 ,Polsat Viasat Nature
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42951&extension=ts
+#EXTINF:-1 ,Red Carpet TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51392&extension=ts
+#EXTINF:-1 ,Romance TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51393&extension=ts
+#EXTINF:-1 ,SciFi Universal
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=43028&extension=ts
+#EXTINF:-1 ,Sundance TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42949&extension=ts
+#EXTINF:-1 ,Super Polsat
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51396&extension=ts
+#EXTINF:-1 ,teleTOON+
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=56858&extension=ts
+#EXTINF:-1 ,TLC
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42948&extension=ts
+#EXTINF:-1 ,Travel Channel
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51402&extension=ts
+#EXTINF:-1 ,TTV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42947&extension=ts
+#EXTINF:-1 ,TV Puls 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42946&extension=ts
+#EXTINF:-1 ,TV Puls
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42945&extension=ts
+#EXTINF:-1 ,TVN 24 Bis
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51405&extension=ts
+#EXTINF:-1 ,TVN 24
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42942&extension=ts
+#EXTINF:-1 ,TVN Fabuła
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42940&extension=ts
+#EXTINF:-1 ,TVN Style
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42938&extension=ts
+#EXTINF:-1 ,TVN Turbo
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42937&extension=ts
+#EXTINF:-1 ,TVP Historia
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42932&extension=ts
+#EXTINF:-1 ,TVP Info
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42931&extension=ts
+#EXTINF:-1 ,TVP Kultura
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42930&extension=ts
+#EXTINF:-1 ,TVP Polonia
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42929&extension=ts
+#EXTINF:-1 ,TVS
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=47241&extension=ts
+#EXTINF:-1 ,Zoom TV
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51416&extension=ts
+#EXTINF:-1 ,Warner Tv
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129229&extension=ts
+#EXTINF:-1 ,Tele5
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129227&extension=ts
+#EXTINF:-1 ,Wydarzenia 24
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129226&extension=ts
+#EXTINF:-1 ,Nat Geo People
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129225&extension=ts
+#EXTINF:-1 ,Ci Polsat
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129224&extension=ts
+#EXTINF:-1 ,Canal Plus Domo
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129223&extension=ts
+#EXTINF:-1 ,Antena
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129219&extension=ts
+#EXTINF:-1 ,History 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129218&extension=ts
+#EXTINF:-1 ,4Fun Kids
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129215&extension=ts
+#EXTINF:-1 ,Music Box Polska
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=129214&extension=ts
+#EXTINF:-1 ,Polsat
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42970&extension=ts
+#EXTINF:-1 ,Polsat Cafe
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42971&extension=ts
+#EXTINF:-1 ,Polsat News
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42965&extension=ts
+#EXTINF:-1 ,Polsat News 2
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51388&extension=ts
+#EXTINF:-1 ,Polsat Play
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=51389&extension=ts
+#EXTINF:-1 ,TV 4
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=42944&extension=ts
+#EXTINF:-1 ,Fight Klub
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:4f:d4:fa&stream=119657&extension=ts

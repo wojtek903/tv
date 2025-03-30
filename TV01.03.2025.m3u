@@ -1,0 +1,777 @@
+#EXTM3U url-tvg="https://epg.polishteam.one/guide.xml"
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_1138_2AF8_13E_820000_0_0_0.png",TVP
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37159&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3ABD_514_13E_820000_0_0_0.png",TVP 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37140&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_C22_1E78_71_820000_0_0_0.png",TVP 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37142&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_113B_2AF8_13E_820000_0_0_0.png",TVP 3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=639&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D59_2C88_13E_820000_0_0_0.png",TVP Kultura
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42485&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/regio/kultura2.png",TVP Kultura 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103111&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4288_2BC0_13E_820000_0_0_0.png",TVP Rozrywka
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42484&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_132B_33F4_13E_820000_0_0_0.png",TVP Polonia
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42483&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_DB7_2D50_13E_820000_0_0_0.png",Active Family
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=674&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl/antena.png",ANTENA
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=374152&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/canal+domo.png",CANAL+ DOMO
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37364&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/canal+kuchnia.png",CANAL+ KUCHNIA
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37266&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1C9C_332C_13E_820000_0_0_0.png",CI Polsat
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37320&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E1E_2EE0_13E_820000_0_0_0.png",E! Entertainment
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37284&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD9_640_13E_820000_0_0_0.png",Food Network
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37280&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10E1_3E8_13E_820000_0_0_0.png",FOKUS TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=148948&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_10EB_3E8_13E_820000_0_0_0.png",HGTV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37162&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/hometv.png",Home TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=41814&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/id.png",ID
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37313&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4287_2BC0_13E_820000_0_0_0.png",Metro
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=652&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10E5_3E8_13E_820000_0_0_0.png",Nowa TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=148953&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/polonia1.png",Polonia 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=822&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/polsat.png",Polsat
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37144&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/polsatgo/polsat1.png",Polsat 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=385810&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/polsat2.png",Polsat 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37347&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/polsatcafe.png",Polsat Cafe
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37354&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/polsatgames.png",Polsat Games
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=148959&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/polsatplay.png",Polsat Play
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37357&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/polsatrodzina.png",Polsat Rodzina
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37299&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/redcarpet.png",Red Carpet TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=148973&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/studiomed.png",StudioMed TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=148974&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons2/superpolsat.png",Super Polsat
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37358&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E21_2EE0_13E_820000_0_0_0.png",TLC
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37291&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD7_640_13E_820000_0_0_0.png",TTV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37138&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3393_3390_71_820000_0_0_0.png",TV 4
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37359&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3D66_2C88_13E_820000_0_0_0.png",TV PULS
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37303&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10E3_3E8_13E_820000_0_0_0.png",TV Puls 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=110034&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_4292_2BC0_71_820000_0_0_0.png",TV6
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37308&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/tvc.png",TVC
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=700&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DCD_640_13E_820000_0_0_0.png",TVN
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37132&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD3_640_13E_820000_0_0_0.png",TVN 7
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37139&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD6_640_13E_820000_0_0_0.png",TVN Fabula
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37137&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DCE_640_13E_820000_0_0_0.png",TVN Style
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37133&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD0_640_13E_820000_0_0_0.png",TVN Turbo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37136&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D58_2C88_13E_820000_0_0_0.png",TVS
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=630&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D5A_2C88_13E_820000_0_0_0.png",WP
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=620&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4291_2BC0_13E_820000_0_0_0.png",Zoom TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=616&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/nowe/ViDoc.png",ViDoCTV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=397460&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4288_2BC0_13E_820000_0_0_0.png",Test_B
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=436901&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/pl2/canal+premium.png",CANAL+ PREMIUM
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37292&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13ED_5DC_13E_820000_0_0_0.png",CANAL+1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=757&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3779_44C_13E_820000_0_0_0.png",CANAL+ FILM
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37264&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="https://xatemo.pro/picons/nowe/Canal360.png",CANAL+ 360
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37263&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3782_44C_13E_820000_0_0_0.png",CANAL+ SERIALE
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37265&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_290E_1EDC_71_820000_0_0_0.png",HBO
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37143&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_E09_2D50_13E_820000_0_0_0.png",HBO2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37259&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_E0A_2D50_13E_820000_0_0_0.png",HBO3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37260&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_1168_2AF8_13E_820000_0_0_0.png",Cinemax
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37157&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_C26_1E78_71_820000_0_0_0.png",Cinemax 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37271&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons2/polsatfilm.png",Polsat Film
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37355&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons2/polsatseriale.png",Polsat Seriale
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149059&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_20_1964_13E_820000_0_0_0.png",Comedy Central
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37165&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons2/comedycentralpolsatextra.png",Polsat Comedy Central Extra
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37164&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D65_2C88_13E_820000_0_0_0.png",Filmbox Action
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178535&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_428A_2BC0_13E_820000_0_0_0.png",Filmbox Arthouse
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178536&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D68_2C88_13E_820000_0_0_0.png",Filmbox Extra
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178538&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D62_2C88_13E_820000_0_0_0.png",Filmbox Family
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178537&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3D60_2C88_13E_820000_0_0_0.png",FilmBox Premium
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37302&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/nowe/FX_Comedy_Logo_2023.svg.png",Fx Comedy
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37273&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/nowe/FX.png",FX
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37274&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E26_2EE0_13E_820000_0_0_0.png",13 Ulica
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37282&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_379F_44C_13E_820000_0_0_0.png",Ale kino+
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37262&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_C25_1E78_71_820000_0_0_0.png",AXN
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=814&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1C87_1CE8_71_820000_0_0_0.png",AXN Black
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178534&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1C86_1CE8_71_820000_0_0_0.png",AXN White
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178533&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3D5D_2C88_13E_820000_0_0_0.png",AXN SPIN
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37300&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1135_2AF8_13E_820000_0_0_0.png",KINO POLSKA
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37370&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D61_2C88_13E_820000_0_0_0.png",Kino TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149032&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_4290_2BC0_13E_820000_0_0_0.png",Epic Drama
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37305&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3AB7_514_13E_820000_0_0_0.png",AMC
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=1032&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="https://xatemo.pro/picons/nowe/filmcafe.png",Film Cafe
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37147&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4240_3DB8_13E_820000_0_0_0.png",Novela TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178541&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/pl2/novelas+.png",Novelas+
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149044&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_21_1964_13E_820000_0_0_0.png",Paramount Channel
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37255&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3ABE_514_13E_820000_0_0_0.png",Romance TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37315&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E20_2EE0_13E_820000_0_0_0.png",SciFi
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149062&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13ED_5DC_13E_820000_0_0_0.png",Stopklatka TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37363&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E1D_2EE0_13E_820000_0_0_0.png",Sundance Channel
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37290&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_423B_3DB8_13E_820000_0_0_0.png",Tele 5
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178544&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/cda/wbtv.png",Warner TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37156&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D5C_2C88_13E_820000_0_0_0.png",TVP SERIALE
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42136&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons/pl/vod+205.png",VOD 205
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=41811&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4273_2BC0_13E_820000_0_0_0.png",VOD 206
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=2894&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4274_2BC0_13E_820000_0_0_0.png",VOD 207
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=2895&extension=ts
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4275_2BC0_13E_820000_0_0_0.png",VOD 208
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=2896&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_32DE_190_13E_820000_0_0_0.png",CANAL+ SPORT
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37294&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13EE_5DC_13E_820000_0_0_0.png",CANAL+ SPORT 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37362&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/pl2/canal+sport3.png",CANAL+ SPORT 3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37371&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/pl2/canal+sport4.png",CANAL+ SPORT 4
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37372&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/pl/cplus-sport-5.png",CANAL+ SPORT 5
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37314&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/pl/canal++now.png",CANAL+ NOW
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37293&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/nowe/polsatsport1.png",Polsat Sport 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37141&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/psp1.png",Polsat Sport Premium PPV 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=156672&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/psp2.png",Polsat Sport Premium PPV 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=156673&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/psp2.png",Polsat Sport Premium PPV 3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=221223&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/psp2.png",Polsat Sport Premium PPV 4
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=221224&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/psp2.png",Polsat Sport Premium PPV 5
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=221225&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/psp2.png",Polsat Sport Premium PPV 6
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=221226&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/nowe/polsatsport2.png",Polsat Sport 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37277&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons2/polsatsportfight.png",Polsat Sport Fight
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37153&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/nowe/polsat%20sport3.png",Polsat Sport 3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37154&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_DB1_2D50_13E_820000_0_0_0.png",TVP Sport
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37131&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E25_2EE0_13E_820000_0_0_0.png",Eurosport 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37285&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_290C_1EDC_71_820000_0_0_0.png",Eurosport 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37150&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/Picony/Lextra1.png",CANAL+ EXTRA 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=397487&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/Picony/Lextra2.png",CANAL+ EXTRA 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=397543&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/Picony/Lextra3.png",CANAL+ EXTRA 3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=397546&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/Picony/Lextra4.png",CANAL+ EXTRA 4
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=397559&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="https://xatemo.pro/picons/nowe/canal+ extra5.png",CANAL+ EXTRA 5
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=410215&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="https://xatemo.pro/picons/nowe/canal+ extra6.png",CANAL+ EXTRA 6
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=410214&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="https://xatemo.pro/picons/nowe/canal+ extra7.png",CANAL+ EXTRA 7
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=410213&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13F3_5DC_13E_820000_0_0_0.png",Eleven Sports 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37365&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13F5_5DC_13E_820000_0_0_0.png",Eleven Sports 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37366&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13F8_5DC_13E_820000_0_0_0.png",Eleven Sports 3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37367&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_32CE_190_13E_820000_0_0_0.png",Eleven Sports 4
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37295&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_290A_1EDC_71_820000_0_0_0.png",Extreme Sports
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37151&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E24_2EE0_13E_820000_0_0_0.png",Fightbox
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37286&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_13F1_5DC_13E_820000_0_0_0.png",Fightklub
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37368&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E23_2EE0_13E_820000_0_0_0.png",Golf Channel
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37287&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_12C3_2E7C_13E_820000_0_0_0.png",Motowizja
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37267&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_DAF_2D50_13E_820000_0_0_0.png",Sportklub
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37261&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons/cda/ducktv.png",Duck TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=112322&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_579_2DB4_13E_820000_0_0_0.png",Baby TV PL
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=1094&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_7D9_22C4_13E_820000_0_0_0.png",BBC CBeebies
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=34584&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1CB8_1CE8_71_820000_0_0_0.png",Cartoonito
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37304&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_2906_1EDC_71_820000_0_0_0.png",Cartoon Network
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37146&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_1CC5_1CE8_71_820000_0_0_0.png",Disney Channel
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37298&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_2938_1EDC_71_820000_0_0_0.png",Disney Junior
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=803&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1CB5_1CE8_71_820000_0_0_0.png",Disney XD
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=802&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_32FE_190_13E_820000_0_0_0.png",MiniMini+
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37296&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3_1964_13E_820000_0_0_0.png",Nick Jr Polska
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=704&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_9_1964_13E_820000_0_0_0.png",Nickelodeon
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=34482&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_E_1964_13E_820000_0_0_0.png",Nicktoons
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37168&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1CB7_1CE8_71_820000_0_0_0.png",Polsat Jim Jam
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=786&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_377D_44C_13E_820000_0_0_0.png",teleTOON+
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37269&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons/pl/tenennick.png",TeenNick
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=102514&extension=ts
+#EXTINF:-1 group-title="BAJKOWE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D5F_2C88_13E_820000_0_0_0.png",TVP ABC
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=638&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_428D_2BC0_13E_820000_0_0_0.png",4Fun.TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=675&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons/pl/4fun_kids_logorgb.png",4Fun Kids
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=676&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_428F_2BC0_13E_820000_0_0_0.png",4Fun Dance
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=677&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10DB_3E8_13E_820000_0_0_0.png",Eska TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=718&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="https://xatemo.pro/picons/pl/eska+tv+extra.png",Eska TV Extra
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=399257&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="https://xatemo.pro/picons/pl/eska+tv+rock.png",Eska Rock
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=399250&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE",VOX Music TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=399237&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1C8C_1CE8_71_820000_0_0_0.png",Disco Polo Music
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=399271&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_4293_2BC0_13E_820000_0_0_0.png",Polsat Music
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37307&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_15_1964_13E_820000_0_0_0.png",MTV Live
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37166&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_F_1964_13E_820000_0_0_0.png",MTV Polska
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37167&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/mtv00s.png",MTV 00s
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=679&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/mtv90's.png",MTV 90's
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=791&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_DAE_2D50_13E_820000_0_0_0.png",Kino Polska Muzyka
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=653&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10DA_3E8_13E_820000_0_0_0.png",Polo TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149462&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons/pl2/mezzo.png",MEZZO
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=41813&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE",NICKMUSIC
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=678&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10DD_3E8_13E_820000_0_0_0.png",NUTA TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=699&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_427F_2BC0_71_820000_0_0_0.png",STARS.TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=645&extension=ts
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10E7_3E8_13E_820000_0_0_0.png",POWER TV
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=695&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD2_640_13E_820000_0_0_0.png",TVN 24
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=45273&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_10EA_3E8_13E_820000_0_0_0.png",TVN 24 BiS
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37163&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons/pl/biznes24+.png",BIZNES24
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149478&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons2/polsatnews.png",Polsat News
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37356&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons2/polsatnews2.png",Polsat News 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178470&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE",Polsat News Polityka
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=367160&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_1139_2AF8_13E_820000_0_0_0.png",TVP INFO
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37160&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons/pl2/TVP_World.png",TVP World
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=114288&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_4279_2BC0_13E_820000_0_0_0.png",wPolsce.pl
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178464&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons/pl2/republika.png",TV Republika
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42486&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE",Wydarzenia24
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178462&extension=ts
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_10D6_418_1_C00000_0_0_0.png",TV Trwam
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42138&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons/pl2/canal+dokument.png",CANAL+ DOKUMENT
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37310&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_10E9_3E8_13E_820000_0_0_0.png",ADVENTURE
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37161&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_12C6_2E7C_13E_820000_0_0_0.png",Animal Planet
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37256&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_7E0_22C4_13E_820000_0_0_0.png",BBC Brit
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37360&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_E08_2D50_13E_820000_0_0_0.png",BBC Earth
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37257&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons/pl2/bbcfirst.png",BBC First
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37258&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_7DB_22C4_13E_820000_0_0_0.png",BBC Lifestyle
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37361&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D5B_2C88_13E_820000_0_0_0.png",CBS Reality
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37306&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE",Da Vinci Learning
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178529&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3AB8_514_13E_820000_0_0_0.png",Discovery
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37311&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_DB2_2D50_13E_820000_0_0_0.png",Discovery Historia
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=178530&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3D56_2C88_13E_820000_0_0_0.png",Discovery Life
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37301&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons/pl2/discoveryscience.png",Discovery Science
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37149&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3A9C_514_13E_820000_0_0_0.png",DTX
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37312&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_C2F_1E78_71_820000_0_0_0.png",History
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37275&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3E22_2EE0_13E_820000_0_0_0.png",History 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37288&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_32DF_190_13E_820000_0_0_0.png",Nat Geo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37297&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_2907_1EDC_71_820000_0_0_0.png",Nat Geo People
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37152&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_1137_2AF8_13E_820000_0_0_0.png",Nat Geo Wild
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37158&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_377E_44C_13E_820000_0_0_0.png",Planete+
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37268&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons2/polsatdoku.png",Polsat Doku
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37276&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE",Polsat Viasat Explore
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149586&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_C20_1E78_71_820000_0_0_0.png",Polsat Viasat History
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37278&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_1CCD_1CE8_71_820000_0_0_0.png",Polsat Viasat Nature
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37155&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons/nowe/viasattruecrime.png",Viasat True Crime
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=396247&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_19_3DD8_640_13E_820000_0_0_0.png",Travel Channel
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=37281&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE",TVP Dokument
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=149591&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_3D99_2C88_13E_820000_0_0_0.png",TVP Historia
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=42137&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/tvphistoria2.png",TVP Historia 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103114&extension=ts
+#EXTINF:-1 group-title="PRZYRODNICZE" tvg-logo="http://xatemo.pro/picons_13E/1_0_1_423E_3DB8_13E_820000_0_0_0.png",Water Planet
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=1030&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",ECHO 24
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=106110&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",TVP ABC 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=109928&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",TV WORLD
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=109929&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",TV Torun
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=105564&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",ALFA TVP
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=105874&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/bialystok.png",TVP3 Bialystok
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103107&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/budgoszcz.png",TVP3 Bydgoszcz
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103106&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/gdansk.png",TVP3 Gdansk
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103105&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/gorzow.png",TVP3 Gorzow Wielkopolski
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103104&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/katowice.png",TVP3 Katowice
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103103&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/kielce.png",TVP3 Kielce
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103102&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/krakow.png",TVP3 Krakow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103101&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/r5wxdkB.png",TVP3 Lodz
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103099&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/lublin.png",TVP3 Lublin
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103100&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/olsztyn.png",TVP3 Olsztyn
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103098&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/opole.png",TVP3 Opole
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103097&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/poznan.png",TVP3 Poznan
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103096&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/rzeszow.png",TVP3 Rzeszow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103095&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/szczecin.png",TVP3 Szczecin
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103094&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/warszawa.png",TVP3 Warszawa
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103093&extension=ts
+#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://xatemo.pro/picons/regio/wroclaw.png",TVP3 Wroclaw
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=103092&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",TVP PARLAMENT - SEJM
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=105872&extension=ts
+#EXTINF:-1 group-title="REGIONALNE",TVP PARLAMENT - SENAT
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=439937&extension=ts
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://xatemo.pro/picons/pl/elevensport1-4k.png",Eleven Sports 4K* [HQ] (Okazyjnie)
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=102531&extension=ts
+#EXTINF:-1 group-title="OGOLNOTEMATYCZNE" tvg-logo="http://xatemo.pro/picons/pl/TVPKobieta.png",TVP Kobieta
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=181526&extension=ts
+#EXTINF:-1 group-title="VIAPLAY" tvg-logo="http://xatemo.pro/picons/sport/viaplay-logo.png",V Xtra 40 (Okazyjnie)
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=111938&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/247/bajki/kubuspuchatek.jpg",Kubus Puchatek
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=428440&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://i.ytimg.com/vi/4obVOCiCsMc/maxresdefault.jpg",Polskie Kolędy
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=428026&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://hdtvpolska.com/wp-content/uploads/2022/12/filmy-na-s%CC%81wie%CC%A8ta-2022-online-vod-top-5-ok%C5%82adka-1200x676.jpg",11 filmow swiatecznych
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=353734&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f8duPjfo6wzbd7xLKwhbQYv986B.jpg",13 Dzielnica
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227534&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pfMISNPM09OHgZwNlTqWhu0DbFm.jpg",300
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227535&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkYEOw8PSpUxx9w5a6WL60QKSYF.jpg",365
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209647&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7QmM88M4x8we8uh471Y7QMhqd0s.jpg",47 Roninow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227536&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cyj3NL0JotRMPajf0lJxMHknfK4.jpg",48 godzin
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227537&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y3VdHSYoMWpIC4LtYHDXEZwM5nn.jpg",Accident Man
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227786&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/250ewaLutOJXqBBqMKxCHD1KpCL.jpg",After
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209648&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tF7ywT3lm0ji19jYIR8q2fU8Ae1.jpg",Agatha
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227785&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwYgoX3Shl9T5Vgyrze2Pgxxm6p.jpg",Akademia Policyjna (1984-1994)
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=78147&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jAbtLbAbebtuF5q1gZIPUCuegd.jpg",Aladyn
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228347&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2pq8xRYW56uPI2XN0WQhYetgmiQ.jpg",Alex Cross
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228350&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cBgw6bIVL6wJWzDvxQNrONsPH0d.jpg",Alfa i Omega
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228349&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fLvRQcuk5ZFKnDvUC553XK3OnPC.jpg",Alvin i wiewiorki
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228348&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cNqNmezA9iSeJcPdzMqjfXldV9F.jpg",American Pie I-VIII
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63858&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/angkids.png",Angielski dla dzieci-Quest for English
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63156&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Angry Birds TOONS
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=79288&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ouiyGYcv3E1JPrPrC7pLjxlDhC.jpg",Annabelle
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=212858&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVFXeCgjc4Z1UBC0WsXpVEqydRg.jpg",Ant-Man
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228351&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oLzXRg0v9PnqHfV0zt9QwXr832u.jpg",Army of the Dead
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210529&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AlUO83mpTu9OBOnEiwVgZJoeVvs.jpg",Asterix & Obelix
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209761&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/avatar.png",Avatar
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70877&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qyAN4lUJRvxQb4q3ZAlsKe2LdYu.jpg",Avengers
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=216173&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3d7uxx2EHOymZ5LQ9njinos91WL.jpg",Azumi
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228352&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pYjrDzhYgflAG96nLtBHhSr97IE.jpg",Backdraft
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228353&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iB59poJBofg1ciKlu6LzZakf11m.jpg",Bad Boys
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=228354&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/disney.png",Bajki Disneya Cz2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=50562&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Bajki Mix
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=101215&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://kayum.xyz/bajki/balslowek.png",Bal Slowek - Bajka po Francusku
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=66500&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/adQxUvQW8HXNsvMG5aj71pHh9T.jpg",Batman 1989-2012*
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63371&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ap5itYVGgQAnxausOj6Tg41uFtq.jpg",Bez litosci
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227784&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",Bing
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=69671&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qTcATCpiFDcgY8snQIfS2j0bFP7.jpg",Blade Runner
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=227783&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u9Ul6IP57Ykn2Fwi6DOZcjNRhBv.jpg",Blade Wieczny łowca
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=349927&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1sIBbzTqErI2qjeoSwiH55XBXrV.jpg",Blaze i Mega Maszyny
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70515&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/bluey.png",Bluey
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=351166&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sylxr48B42zKpyYBXupqHaXt7Ne.jpg",Bob Budowniczy cz.1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70875&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sylxr48B42zKpyYBXupqHaXt7Ne.jpg",Bob Budowniczy cz.2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=72653&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/imhv3pC6870krA4yBF0DXdRKGBM.jpg",Bolek i Lolek
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62292&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omnPz8NvgYDty6XsMA0YcA895CW.jpg",Booba
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=48452&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uiRATuw9cgL1ZGiek9e98edToKa.jpg",Champion
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80608&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Av2fm8ev9CQwMoIPPhTILdvFNL9.jpg",Chip i Dale: Brygada RR
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=67275&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="xatemo.pro/bajki/Ciekawski George.png",Ciekawski George
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=351461&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Classic Disney
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70673&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://fanart.tv/api/download.php?type=download&image=234152&section=3",Cloverfield
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210530&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xMaBtROZCNBtjXcQ3k4wDzPLANl.jpg",Creed
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=349928&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Ninja
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=72896&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://kayum.xyz/bajki/disney.png",Disney 1937 - 2009
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70957&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Dobranocny Ogrod
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=346203&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzYPg7GiB8oZOpT6QTWRVPGaGdC.jpg",Escape Plan
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=208858&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oy8CTAllQ1gRPJA40K00qOAafRS.jpg",Faceci w Czerni
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=92538&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="http://xatemo.pro/Picony/247movies.png",Filmy Dokumentalne
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70434&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="http://xatemo.pro/Picony/247movies.png",Filmy Swiateczne 1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=76582&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="http://xatemo.pro/Picony/247movies.png",Filmy Swiateczne 2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=76583&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://fwcdn.pl/fpo/61/57/96157/7650210.6.jpg",Flintstonowie (1960)
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=88789&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/fran.png",Francuski
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62514&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LtZM6zLB2TDbdIaOC5uafjYZY1.jpg",G.I. Joe
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=349929&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNm8IhaHXdW04QcMJH0RhziKRJ2.jpg",Gang Olsena
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80026&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gbaFVZMVL0nUhZLmX3TWNZj8ydE.jpg",Gwiezdne wojny
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=216174&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDP12TfIuiN12eZe1wjP9ualjK.jpg",Gwiezdne Wojny - Wojny Klonow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70819&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1GPJWb8ctSHWLn8QvpIFuYv2SG4.jpg",Harry Potter
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=66713&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwHNIXA6YeYsI9XgX4g1UmLDCxo.jpg",Hobbit
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209762&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fPer2U4uQT1dkXTUWODDaLECWoW.jpg",Igrzyska smierci
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209763&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lpxDrACKJhbbGOlwVMNz5YCj6SI.jpg",Indiana Jones
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80619&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayYkEcvuArO5mpI4Dxnqq3Z5WEQ.jpg",Inspektor Gadzet
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63779&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EUdChJQRLCZjSwKU3r7vAABXSq.jpg",James Bond
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=92912&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q0ma8ozYaaol1IvdGjBvj3KllyL.jpg",Jason Bourne
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209764&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9e2wgxZpAu22yR77fRXzHwOtw9z.jpg",Jetsonowie
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=77561&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fDzGH0jGhJMMxbgsb9JiC7Ep4uk.jpg",Jezdzcy smokow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=73123&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/port.png",Jezyk Portugalski
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62791&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVEggvo1yFwKuZOIher2TS8xfOT.jpg",John Wick
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209765&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg",Johny Bravo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=67090&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iW4v3OuewJmbpCvwUmyd1EIvpQp.jpg",Kac Vegas
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=209766&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/kacze.opowiesci.1987-1990.png",Kacze Opowiesci
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=99494&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://kayum.xyz/bajki/kaczord.png",Kaczor Donald Przedstawia
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=87682&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l9RdP5Tst7WcVZBVTUPanqi4mMY.jpg",Kajko i Kokosz
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=85712&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pzb6JpDUDUQxaSlAAmLja4lEBFN.jpg",Kingsman
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=216176&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/gaska.png",Klub Mamy Gaski-English Version
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62217&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",Klub Przyjaciol Myszki Miki
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=99599&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hnWYwPE7nwqAD1OGLEEXyML5LaH.jpg",Kocia ferajna
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=87441&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Kolekcja Bajek
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=78586&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m62fOheveg5xQUnhz0Kctl3lV82.jpg",Koziolek Matolek
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63304&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oG1heUs503GV6xBnFhgyYTGWm05.jpg",Krol Lew
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63166&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/bugs.png",Krolik Bugs
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63333&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Kultowe Bajki cz.1
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=78617&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Kultowe Bajki cz.2
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=78618&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Kultowe Bajki cz.3
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=97738&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Kultowe Bajki cz.4
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=97797&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/lego.png",LEGO Ninjago
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70649&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mj1R2hVMzs96xVPk50SlslMeFLa.jpg",Listy do M.
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210521&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNF8rlJhTe50iH9E9DWeStjLISh.jpg",Lucky Luke
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=66498&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cNzCJnG4wstosen59BhydnUkaZJ.jpg",Mad Max
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=92576&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bI3tw2vzjEbW1WiL5eLroMT8UGv.jpg",Masza i Niedzwiedz
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70876&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fRtLeO36LzIaaMVKY88jx8ZTRa6.jpg",Matrix
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80621&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/884EoFuQ8vJ6kF9jjD78VTMu1Ub.jpg",Mission Impossible
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210522&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oiOJuqbNSISYlOxT39A3XYWqCUc.jpg",Mroczny Rycerz
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=349932&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/ang.png",Nauka angielskiego. Mr Wikipedia
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62291&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/hisz.png",Nauka Hiszpanskiego.  Hablo Espanol
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62395&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/nauka_holenderskiego_logo.png",Nauka Holenderskiego 4 godziny
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=250995&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/nauka_holenderskiego_logo.png",Nauka Holenderskiego 6 godzin
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=250994&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://kayum.xyz/jezyki/islandzki.png",Nauka Islandzkiego - Viltu Laera Islensku
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70776&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="https://xatemo.pro/247/nauka%20norweckiego/norwecki.jpg",Nauka Jezyka Norweskiego
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=363811&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w1213HKk1XKSwHiBgjkWghn9biC.jpg",Naznaczony
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=349930&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/niemdzieci.png",Niemiecki dla dzieci
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63167&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hxy9GZRAoEIt2OJ2e1YXSRP80ti.jpg",Niesmiertelny
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80513&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/veumOmXMAGxla8bk8xfRXy0m40R.jpg",Noc w muzeum
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210523&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yriOcdpJ6gQIAuWGZvtgSzkhWoz.jpg",Obcy
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=188513&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",Obecnosc
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=349931&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Baumh5J9N1nJUYzNkm0xsgjpwY.jpg",Ojciec Chrzestny
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=92476&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44dKzGtSDw0oFHEvAduduwjyVSZ.jpg",Opowiesci z Narnii
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210524&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44PYEwwjGts8pAob59RHd6zlkKc.jpg",Pan Kleks
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210525&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRjIiII9hac2BXWFuKmDtu3BIjA.jpg",Park Jurajski
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=64255&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hqJlNMtaHYbKSTh4RBBtUzRNvcB.jpg",Pat&Mat
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63789&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fhvp1AKsr7iHh24pOUbvB4xs8xC.jpg",Pingwiny z Madagaskaru
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=98007&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXer7TFiEGQAesrQpSw2xMRmJa6.jpg",Piraci z Karaibow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210526&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4SB9F6P9K9445EJZoYfNZ8a56RL.jpg",Pitbull
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=71460&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3fyC3BIFFKAJPO6enUfeq1U9jhA.jpg",Pokemon Liga Indigo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=69670&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3fyC3BIFFKAJPO6enUfeq1U9jhA.jpg",Pokemon Slonce i Ksiezyc
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=69999&extension=ts
+#EXTINF:-1 group-title="VOD - NAUKA JEZYKOW" tvg-logo="http://xatemo.pro/jezyki/niemie.png",Polski-Niemiecki kompletny kurs 100 lekcji
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=62396&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVzIeC3PbG9BtDAudpwSNdKAgh6.jpg",Powrot do Przyszlosci
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=188514&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",Predator
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=212855&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fOI5XGjKaABdvovfwtmPCjUsScq.jpg",Przygody Kota w butach
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=68348&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lli5jDJzs3neBgwe2iP6qOOm4G7.jpg",Przygody misia Paddingtona
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=412307&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",Psi Patrol
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=76190&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/91yij2ycG8F2HKcjtWFRjTxibgG.jpg",PSY
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210527&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q88q2CnCZbmRsPHBYuqodXcrg24.jpg",Rambo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=92451&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ed8cYt6V7DVoVuHhBV5dD2YRFvb.jpg",Resident Evil
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=188331&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKe9y1AJHEzoiHwSrjfwyinuCE8.jpg",Rocky
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80620&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/scooby%20do%20i%20brygada%20detektywow.png",Scooby Do i Brygada Detektywow
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=100532&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/becool.png",Scooby Doo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70736&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/82w8tiM7JqDecPeAHAemPg2vjv1.jpg",Shrek
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63844&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cezQyM5cO454vUdLiLOkv78K64D.jpg",Smerfy
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=71180&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Smok Edzio
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=204247&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/stars%20wars.png",Star Wars
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=98752&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhVwAVSOECSXkorcAvNL7A5t4QG.jpg",Strazak Sam
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=71430&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51qicrvNwWVL8PZoxp3VLLRANYH.jpg",Straznicy Miasta
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=72652&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/Picony/247kids.png",Swiat Elmo
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=203312&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ycf1ZqisXs8ZCGmw0reD1pI2Zlp.jpg",Swinka Peppa
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=71176&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oOJVCDBowZ8RMbfFJp80YoSABcJ.jpg",Szklana pulapka
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=216175&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xpx7Rt9ofkwx5KVsvcaZqinijTQ.jpg",Szybcy i Wsciekli
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=188511&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cleKAQ87tnBeUZqOsHBcwB37Owl.jpg",Terminator
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=66503&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/the%20simpson.png",The Simpson
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=99319&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPCQP3IiOHEtlHOz7twuVK51Kbs.jpg",Tom and Jerry Show
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=70648&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="http://xatemo.pro/bajki/trollhunters_poster.png",Trollhunters
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=99840&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rATCbdJOGRYYeRGF3WqJGMlDZ9h.jpg",U Pana Boga
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=210528&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK8qq0X0pZbf5ncE3JLQ27hdC4F.jpg",Underworld
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=80514&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",Uwolnic Orke
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=212856&extension=ts
+#EXTINF:-1 group-title="VOD - BAJKI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0stXWOtebK7puIWIPzsMcI5Epe.jpg",Wilk i Zajac
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=63360&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Q6tGwxyo2HSKIjNcda2szn9vwl.jpg",Wladca Pierscieni
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=48271&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z3tt4KNnZlPhvuWUwlE4wu5Xeug.jpg",X-Men
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=92618&extension=ts
+#EXTINF:-1 group-title="VOD - FILMY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDhk3ODho5mvkcoXM5sBvejpO1i.jpg",[REC]
+http://195.66.213.180:8880/play/live.php?mac=00:1A:79:6A:E9:06&stream=212857&extension=ts

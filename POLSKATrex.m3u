@@ -1,0 +1,441 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP HD.png",TVP
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880364&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP 1 HD.png",TVP 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880380&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP 2 HD.png",TVP 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880379&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TV Republika.png",TV Republika
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880203&extension=ts
+#EXTINF:-1 ,TVP Info
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880363&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVN HD.png",TVN
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880378&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/iTVN.png",Itvn
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897006&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/iTVN+extra.png",Itvn Extra
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897007&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat HD.png",Polsat
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880369&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat 2 HD.png",Polsat 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880368&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVN 7 HD.png",TVN 7
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880377&extension=ts
+#EXTINF:-1 ,TV6
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880371&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TV 4.png",TV4
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880370&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Fokus TV.png",Fokus TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880342&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/NOWA TV.png",Nowa TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880267&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Metro TV.png",Metro
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880212&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Zoom TV.png",Zoom TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880190&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Antena.png",Antena TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1060637&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/FILMAX.png",Filmax
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121744&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Red+Carpet+TV.png",RED Carpet TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880255&extension=ts
+#EXTINF:-1 ,TVS
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880201&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Warner+TV.png",Warner TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880333&extension=ts
+#EXTINF:-1 ,Paramount Channel
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880332&extension=ts
+#EXTINF:-1 ,TVN Fabula
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880376&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Film HD.png",Polsat Film
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880365&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Kino Polska.png",Kino Polska
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880336&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TTV HD.png",TTV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880249&extension=ts
+#EXTINF:-1 ,Polonia
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880242&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP Historia.png",TVP Historia
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880238&extension=ts
+#EXTINF:-1 ,TVP Kultura
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880247&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+Kultura+2.png",TVP Kultura 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121742&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png",TVP Kobieta
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121741&extension=ts
+#EXTINF:-1 ,TVP Dokument
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880248&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP Seriale.png",TVP Seriale
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880189&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP Rozrywka.png",TVP Rozrywka
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880237&extension=ts
+#EXTINF:-1 ,TVP Polonia 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880241&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Tele+5.png",Tele 5
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880230&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVN 24 HD.png",TVN 24
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897018&extension=ts
+#EXTINF:-1 ,Tvn24 Bis
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880373&extension=ts
+#EXTINF:-1 ,Puls
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880335&extension=ts
+#EXTINF:-1 ,Puls 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880339&extension=ts
+#EXTINF:-1 ,Trwam TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=884764&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/HBO HD.png",HBO
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880354&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/HBO 2 HD.png",HBO 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880356&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/HBO 3 HD.png",HBO 3
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880355&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Canal+ Film HD.png",Canal+ Film
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880351&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Canal+ 1 HD.png",Canal+ 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880361&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Canal+ HD.png",Canal+ Premium
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880358&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Canal+ Seriale HD.png",Canal+ Seriale
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880357&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Canal+ Family HD.png",Canal+ Family
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880360&extension=ts
+#EXTINF:-1 ,Canal+ Dokument
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880302&extension=ts
+#EXTINF:-1 ,Canal+ Kuchnia+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880275&extension=ts
+#EXTINF:-1 ,Canal+ Domo+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880284&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Canal+ Now.png",Canal+ Now
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880359&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Filmbox Extra.png",Filmbox Extra
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880344&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Filmbox Arthouse.png",Filmbox Arthouse
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880232&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Filmbox Action.png",Filmbox Action
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880233&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Filmbox Family.png",Filmbox Family
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880231&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Cinemax HD.png",Cinemax
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880345&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Cinemax 2 HD.png",Cinemax 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880348&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Kino TV.png",Kino TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880338&extension=ts
+#EXTINF:-1 ,ALE Kino+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880353&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Romance TV HD.png",Romance TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880254&extension=ts
+#EXTINF:-1 ,Bollywood
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121746&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/DIZI.png",Dizi
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121745&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/VOD+205.png",VOD 205
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880197&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/VOD+206.png",VOD 206
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880196&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/VOD+207.png",VOD 207
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880195&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/VOD+208.png",VOD 208
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880194&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Discovery Channel HD.png",Discovery
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880288&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Discovery Historia.png",Discovery Historia
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880228&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Discovery Science HD.png",Discovery Science
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880286&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Discovery Life.png",Discovery Life
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880287&extension=ts
+#EXTINF:-1 ,ID
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880276&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/National Geographic HD.png",National Geographic
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880298&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Nat Geo People HD.png",NAT Geo People
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880300&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Nat Geo Wild HD.png",NAT Geo Wild
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880299&extension=ts
+#EXTINF:-1 ,Polsat Viasat Explore
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880258&extension=ts
+#EXTINF:-1 ,Polsat Viasat Nature
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880256&extension=ts
+#EXTINF:-1 ,Polsat Viasat History
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880257&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/CI Polsat.png",Crime And Investigation
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880289&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Doku HD.png",Polsat Doku
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880262&extension=ts
+#EXTINF:-1 ,BBC Firs
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880309&extension=ts
+#EXTINF:-1 ,BBC Brit
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880310&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/BBC Earth HD.png",BBC Earth
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880296&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/BBC Lifestyle HD.png",BBC Lifestyle
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880295&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/History HD.png",History
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880244&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/H2 HD.png",H2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880278&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Planete+ HD.png",Planete+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880265&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Travel Channel HD.png",Travel Channel
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880305&extension=ts
+#EXTINF:-1 ,Animal Planet
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880297&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/WATER+PLANET.png",Water Planet
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880193&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Adventure HD.png",Adventure
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880294&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png",Wydarzenia 24
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1137583&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Food Network HD.png",Food Network
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880341&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/HGTV HD.png",Hgtv
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880245&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Home+TV.png",Home TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880214&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVN Turbo HD.png",TVN Turbo
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880374&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVN Style HD.png",TVN Style
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880375&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TLC HD.png",TLC
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880334&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat News HD.png",Polsat News
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880301&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat News 2.png",Polsat News 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880227&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/WP.png",WP
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880192&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/WP.png",Wpolsce
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880191&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Super Polsat HD.png",Super Polsat
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880246&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Play HD.png",Polsat Play
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880259&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Cafe HD.png",Polsat Cafe
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880264&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png",Polsat Rodzina
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880366&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/AXN HD.png",AXN
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880350&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/AXN White.png",AXN White
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880235&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/AXN Black.png",AXN Black
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880236&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/AXN HD.png",AXN Spin
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880349&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/FOX Comedy HD.png",FOX Comedy
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880340&extension=ts
+#EXTINF:-1 ,FOX
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880337&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/13 Ulica HD.png",13 Ulica HD
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880352&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Da Vinci Learning.png",DA Vinci Learning
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880224&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Scifi Universal.png",Scifi Universal
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880311&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/E! Entertainment.png",E! Entertainment
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880282&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/AMC HD.png",AMC
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880293&extension=ts
+#EXTINF:-1 ,Epic Drama
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880281&extension=ts
+#EXTINF:-1 ,Novelas+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880270&extension=ts
+#EXTINF:-1 ,Comedy Central
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880347&extension=ts
+#EXTINF:-1 ,Polsat Comedy Central Extra
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880263&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/CBS Europa HD.png",CBS Europa
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880291&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/CBS Reality.png",CBS Reality
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880290&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Active+Family.png",Active Family
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880234&extension=ts
+#EXTINF:-1 ,DTX
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880283&extension=ts
+#EXTINF:-1 ,Baby TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880225&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Disney Channel HD.png",Disney Channel
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880285&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Duck+TV.png",Duck TV Plus
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121751&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Duck+TV.png",Duck TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121750&extension=ts
+#EXTINF:-1 ,TVP Abc
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880239&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TVP+ABC+2.png",TVP Abc 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121740&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Boomerang HD.png",Boomerang
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880303&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Teletoon+ HD.png",Teletoon+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880250&extension=ts
+#EXTINF:-1 ,Polsat Jim Jam
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880206&extension=ts
+#EXTINF:-1 ,Cartoon Network
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880292&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TeenNick.png",Teennick
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880271&extension=ts
+#EXTINF:-1 ,Nickelodeon
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880210&extension=ts
+#EXTINF:-1 ,Nicktoons
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880272&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Nick Jr.png",Nick Jr Polska
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880211&extension=ts
+#EXTINF:-1 ,Disney Junior
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880219&extension=ts
+#EXTINF:-1 ,Minimini
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880274&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/TOP+KIDS.png",TOP Kids
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897016&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png",Disney Xd
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880218&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/4Fun Hits.png",4fun Kids
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1035704&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/MTV Polska HD.png",MTV Polska
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880268&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/MTV Polska HD.png",MTV Live
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880269&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/MTV+80S.png",MTV 80s
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121761&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/MTV Music.png",MTV 00s
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880200&extension=ts
+#EXTINF:-1 ,MTV Rocks
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880208&extension=ts
+#EXTINF:-1 ,4fun.tv
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880220&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/4Fun Fit Dance.png",4fun Dance
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880222&extension=ts
+#EXTINF:-1 ,4fun Gold Hits
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880221&extension=ts
+#EXTINF:-1 ,Eska TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880216&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Eska+TV+Extra.png",Eska TV Extra
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880215&extension=ts
+#EXTINF:-1 ,Eska Rock TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880217&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/MUSIC+BOX.png",Music Box Polska
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880199&extension=ts
+#EXTINF:-1 ,VOX Music TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880198&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Kino Polska Muzyka.png",Kino Polska Muzyka
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880213&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Music HD.png",Polsat Music
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880260&extension=ts
+#EXTINF:-1 ,Stars.tv
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880204&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Power TV.png",Power TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880205&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Nuta TV.png",Nuta TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880207&extension=ts
+#EXTINF:-1 ,Polo TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880243&extension=ts
+#EXTINF:-1 ,Disco Polo Music
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880223&extension=ts
+#EXTINF:-1 ,360 Tunebox
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121759&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/2x2.png",2X2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121758&extension=ts
+#EXTINF:-1 ,Nick Music
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121757&extension=ts
+#EXTINF:-1 ,Junior Music
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121756&extension=ts
+#EXTINF:-1 ,Mezzo Live
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121753&extension=ts
+#EXTINF:-1 ,Jazz H
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121754&extension=ts
+#EXTINF:-1 ,Lubelska TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897009&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP 3.png",TVP 3
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880240&extension=ts
+#EXTINF:-1 ,Comedy Central Poland
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880346&extension=ts
+#EXTINF:-1 ,Biznes24
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880304&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Games.png",Polsat Games
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880261&extension=ts
+#EXTINF:-1  tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png",Studiomed TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880253&extension=ts
+#EXTINF:-1 ,Sundance TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880252&extension=ts
+#EXTINF:-1 ,Superstacja
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880251&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/BBC Cbeebies.png",BBC Cbeebies
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880226&extension=ts
+#EXTINF:-1  tvg-logo="http://93.159.131.123/netmar/insert/img/programy/novelatv.png",Novela TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880209&extension=ts
+#EXTINF:-1 ,Cnni HD
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880996&extension=ts
+#EXTINF:-1 ,Polsat 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897011&extension=ts
+#EXTINF:-1 ,TV Relax
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1005093&extension=ts
+#EXTINF:-1 ,Dami TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1005092&extension=ts
+#EXTINF:-1 ,Channel 13
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=897004&extension=ts
+#EXTINF:-1 ,Polsat Seriale
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=882078&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png",Polsat Sport Premium 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=882094&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png",Polsat Sport Premium 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=882093&extension=ts
+#EXTINF:-1 ,Domo+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=882096&extension=ts
+#EXTINF:-1 ,Kuchnia+
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=882097&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/TVP Sport HD.png",TVP Sport
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880362&extension=ts
+#EXTINF:-1 ,Prime Fight
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121749&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Sport HD.png",Polsat Sport
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880330&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Sport Fight HD.png",Polsat Sport Fight
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880329&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Sport News HD.png",Polsat Sport News
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880328&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat Sport Extra HD.png",Polsat Sport Extra
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880331&extension=ts
+#EXTINF:-1 ,Canal+ Sport
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880321&extension=ts
+#EXTINF:-1 ,Canal+ Sport 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880320&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png",Canal+ Sport 3
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880319&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png",Canal+ Sport 4
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880318&extension=ts
+#EXTINF:-1  tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880266&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Extreme Sports HD.png",Extreme Sports
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880308&extension=ts
+#EXTINF:-1 ,Eleven Sports 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880317&extension=ts
+#EXTINF:-1 ,Eleven Sports 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880316&extension=ts
+#EXTINF:-1 ,Eleven Sports 3 HD
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880315&extension=ts
+#EXTINF:-1 ,Eleven Sports 4
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880314&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880325&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880324&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+5.png",Polsat Sport Premium 5
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880323&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880322&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Eurosport 1 HD.png",Eurosport 1
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880313&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Eurosport 2 HD.png",Eurosport 2
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880312&extension=ts
+#EXTINF:-1 ,Sportklub
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880307&extension=ts
+#EXTINF:-1  tvg-logo="http://epg.ovh/logo/GINX+ESPORTS+TV.png",Ginx Esports TV
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=1121748&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/Golf Channel.png",Golf Channel
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880279&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/FightKlub HD.png",Fightklub
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880280&extension=ts
+#EXTINF:-1  tvg-logo="http://logo.plusx.tv/logo/FightBox HD.png",Fightbox
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880306&extension=ts
+#EXTINF:-1 ,Motowizja
+http://trex.queentv.club:80/play/live.php?mac=00:1A:79:C8:8D:45&stream=880273&extension=ts

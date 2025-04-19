@@ -1,0 +1,597 @@
+#EXTM3U tvg-url="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD " tvg-logo="https://i.imgur.com/ATTzqpv.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="ELEVEN SPORTS 1 FHD ",ELEVEN SPORTS 1 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55290&extension=ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD " tvg-logo="https://i.imgur.com/a6yc1EC.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="ELEVEN SPORTS 2 FHD ",ELEVEN SPORTS 2 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55291&extension=ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD " tvg-logo="https://i.imgur.com/NMpkfnN.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="ELEVEN SPORTS 3 FHD ",ELEVEN SPORTS 3 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55292&extension=ts
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD " tvg-logo="https://i.imgur.com/4L6jRrt.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="ELEVEN SPORTS 4 FHD ",ELEVEN SPORTS 4 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55293&extension=ts
+#EXTINF:-1 tvg-id="CANAL+ SPORT FHD " tvg-logo="https://i.imgur.com/qHVs7Rl.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="CANAL+ SPORT FHD ",CANAL+ SPORT FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55294&extension=ts
+#EXTINF:-1 tvg-id="CANAL SPORT 2 FHD " tvg-logo="https://i.imgur.com/Rgczm5N.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="CANAL SPORT 2 FHD ",CANAL SPORT 2 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55295&extension=ts
+#EXTINF:-1 tvg-id="CANAL+ SPORT 3 FHD " tvg-logo="https://i.imgur.com/YJT27GS.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="CANAL+ SPORT 3 FHD ",CANAL+ SPORT 3 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55296&extension=ts
+#EXTINF:-1 tvg-id="CANAL+ SPORT 4 FHD " tvg-logo="https://i.imgur.com/3AkzSpT.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="CANAL+ SPORT 4 FHD ",CANAL+ SPORT 4 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55297&extension=ts
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD " tvg-logo="https://i.imgur.com/7zQcZXK.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="EUROSPORT 1 FHD ",EUROSPORT 1 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55298&extension=ts
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD " tvg-logo="https://i.imgur.com/AoPdCYZ.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="EUROSPORT 2 FHD ",EUROSPORT 2 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55299&extension=ts
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 1 HD " tvg-logo="https://i.imgur.com/mrJ2LLz.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="POLSAT SPORT PREMIUM 1 HD ",POLSAT SPORT PREMIUM 1 HD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55300&extension=ts
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 2 FHD " tvg-logo="https://i.imgur.com/ZCzwNdy.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="POLSAT SPORT PREMIUM 2 FHD ",POLSAT SPORT PREMIUM 2 FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55301&extension=ts
+#EXTINF:-1 tvg-id="POLSAT SPORT NEWS FHD " tvg-logo="https://i.imgur.com/9x6aVUP.png" group-title="⭐ EU VIP WORLD SPORTS ⭐" tvg-name="POLSAT SPORT NEWS FHD ",POLSAT SPORT NEWS FHD 
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=55302&extension=ts
+#EXTINF:-1 tvg-id="✦●✦ POLSKA ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/pl.png" group-title="⭐ POLSKA ⭐" tvg-name="✦●✦ POLSKA ✦●✦",✦●✦ POLSKA ✦●✦
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8291&extension=ts
+#EXTINF:-1 tvg-id="CANAL+ 4K UHD" tvg-logo="https://i.imgur.com/3Gzrbtk.png" group-title="⭐ POLSKA ⭐" tvg-name="CANAL+ 4K UHD",CANAL+ 4K UHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=225921&extension=ts
+#EXTINF:-1 tvg-id="TVP INFO FHD" tvg-logo="https://i.imgur.com/2guJm6P.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP INFO FHD",TVP INFO FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162406&extension=ts
+#EXTINF:-1 tvg-id="TVP INFO HD" tvg-logo="https://i.imgur.com/XCJMDJw.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP INFO HD",TVP INFO HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8433&extension=ts
+#EXTINF:-1 tvg-id="TVP FHD" tvg-logo="https://i.imgur.com/A6pae85.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP FHD",TVP FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162408&extension=ts
+#EXTINF:-1 tvg-id="TVP HD" tvg-logo="https://i.imgur.com/3cSXBqk.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP HD",TVP HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8292&extension=ts
+#EXTINF:-1 tvg-id="TVP 1 FHD" tvg-logo="https://i.imgur.com/VwLlzvJ.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP 1 FHD",TVP 1 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162410&extension=ts
+#EXTINF:-1 tvg-id="TVP 1 HD" tvg-logo="https://i.imgur.com/Sv5dOme.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP 1 HD",TVP 1 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8293&extension=ts
+#EXTINF:-1 tvg-id="TVP 2 FHD" tvg-logo="https://i.imgur.com/TfBMU5P.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP 2 FHD",TVP 2 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162412&extension=ts
+#EXTINF:-1 tvg-id="TVP 2 HD" tvg-logo="https://i.imgur.com/xgtmwQT.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP 2 HD",TVP 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8294&extension=ts
+#EXTINF:-1 tvg-id="TVP 3 HD" tvg-logo="https://i.imgur.com/8OJT4fB.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP 3 HD",TVP 3 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162413&extension=ts
+#EXTINF:-1 tvg-id="TVP 3" tvg-logo="https://i.imgur.com/FObVBt0.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP 3",TVP 3
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8295&extension=ts
+#EXTINF:-1 tvg-id="TV4 FHD" tvg-logo="https://i.imgur.com/2KXlQrx.png" group-title="⭐ POLSKA ⭐" tvg-name="TV4 FHD",TV4 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162416&extension=ts
+#EXTINF:-1 tvg-id="TV4 HD" tvg-logo="https://i.imgur.com/4Lpccdq.png" group-title="⭐ POLSKA ⭐" tvg-name="TV4 HD",TV4 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8296&extension=ts
+#EXTINF:-1 tvg-id="TV TRWAM" tvg-logo="https://i.imgur.com/1WgsBUQ.png" group-title="⭐ POLSKA ⭐" tvg-name="TV TRWAM",TV TRWAM
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=521691&extension=ts
+#EXTINF:-1 tvg-id="TVN FHD" tvg-logo="https://i.imgur.com/bdr1XRi.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN FHD",TVN FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162417&extension=ts
+#EXTINF:-1 tvg-id="TVN HD" tvg-logo="https://i.imgur.com/gKyAA5e.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN HD",TVN HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8297&extension=ts
+#EXTINF:-1 tvg-id="TVN 7 FHD" tvg-logo="https://i.imgur.com/5mhThUk.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN 7 FHD",TVN 7 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162480&extension=ts
+#EXTINF:-1 tvg-id="TVN 7 HD" tvg-logo="https://i.imgur.com/2xGbGHx.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN 7 HD",TVN 7 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8298&extension=ts
+#EXTINF:-1 tvg-id="TV6 FHD" tvg-logo="https://i.imgur.com/F2fRomv.png" group-title="⭐ POLSKA ⭐" tvg-name="TV6 FHD",TV6 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8302&extension=ts
+#EXTINF:-1 tvg-id="TV6 HD" tvg-logo="https://i.imgur.com/iVdrDno.png" group-title="⭐ POLSKA ⭐" tvg-name="TV6 HD",TV6 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8303&extension=ts
+#EXTINF:-1 tvg-id="TVN FABULA FHD" tvg-logo="https://i.imgur.com/l9JrWF3.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN FABULA FHD",TVN FABULA FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8307&extension=ts
+#EXTINF:-1 tvg-id="TVN FABULA HD" tvg-logo="https://i.imgur.com/CBhNrp2.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN FABULA HD",TVN FABULA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8305&extension=ts
+#EXTINF:-1 tvg-id="TVN STYLE FHD" tvg-logo="https://i.imgur.com/MnqIwzT.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN STYLE FHD",TVN STYLE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162445&extension=ts
+#EXTINF:-1 tvg-id="TVN STYLE HD" tvg-logo="https://i.imgur.com/6qccyee.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN STYLE HD",TVN STYLE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8306&extension=ts
+#EXTINF:-1 tvg-id="TVN TURBO FHD" tvg-logo="https://i.imgur.com/5Eu0Pl4.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN TURBO FHD",TVN TURBO FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162440&extension=ts
+#EXTINF:-1 tvg-id="TVN TURBO HD" tvg-logo="https://i.imgur.com/FrC0WK5.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN TURBO HD",TVN TURBO HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8308&extension=ts
+#EXTINF:-1 tvg-id="TVN 24 FHD" tvg-logo="https://i.imgur.com/3mwOTwm.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN 24 FHD",TVN 24 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162450&extension=ts
+#EXTINF:-1 tvg-id="TVN 24 HD" tvg-logo="https://i.imgur.com/OQaH22g.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN 24 HD",TVN 24 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8434&extension=ts
+#EXTINF:-1 tvg-id="TVN24 BIS FHD" tvg-logo="https://i.imgur.com/LGqxMGK.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN24 BIS FHD",TVN24 BIS FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162438&extension=ts
+#EXTINF:-1 tvg-id="TVN24 BIS HD" tvg-logo="https://i.imgur.com/i2D5EEn.png" group-title="⭐ POLSKA ⭐" tvg-name="TVN24 BIS HD",TVN24 BIS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8435&extension=ts
+#EXTINF:-1 tvg-id="TVS HD" tvg-logo="https://i.imgur.com/K0pZSdM.png" group-title="⭐ POLSKA ⭐" tvg-name="TVS HD",TVS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8313&extension=ts
+#EXTINF:-1 tvg-id="TVS" tvg-logo="https://i.imgur.com/NObrDC8.png" group-title="⭐ POLSKA ⭐" tvg-name="TVS",TVS
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184129&extension=ts
+#EXTINF:-1 tvg-id="NOVELAS+ FHD" tvg-logo="https://i.imgur.com/hIcxsTd.png" group-title="⭐ POLSKA ⭐" tvg-name="NOVELAS+ FHD",NOVELAS+ FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=453828&extension=ts
+#EXTINF:-1 tvg-id="NOVELAS+ HD" tvg-logo="https://i.imgur.com/aVwlYBf.png" group-title="⭐ POLSKA ⭐" tvg-name="NOVELAS+ HD",NOVELAS+ HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481838&extension=ts
+#EXTINF:-1 tvg-id="POLSAT NEWS FHD" tvg-logo="https://i.imgur.com/sQG1jQV.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT NEWS FHD",POLSAT NEWS FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162419&extension=ts
+#EXTINF:-1 tvg-id="POLSAT NEWS HD" tvg-logo="https://i.imgur.com/bi5EPhe.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT NEWS HD",POLSAT NEWS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8436&extension=ts
+#EXTINF:-1 tvg-id="POLSAT NEWS 2 HD" tvg-logo="https://i.imgur.com/BNAOBV0.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT NEWS 2 HD",POLSAT NEWS 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162421&extension=ts
+#EXTINF:-1 tvg-id="POLSAT NEWS 2 FHD" tvg-logo="https://i.imgur.com/Br2fQFz.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT NEWS 2 FHD",POLSAT NEWS 2 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8437&extension=ts
+#EXTINF:-1 tvg-id="POLSAT FHD" tvg-logo="https://i.imgur.com/UwucjLD.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT FHD",POLSAT FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162422&extension=ts
+#EXTINF:-1 tvg-id="POLSAT HD" tvg-logo="https://i.imgur.com/PNUxmdq.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT HD",POLSAT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8299&extension=ts
+#EXTINF:-1 tvg-id="POLSAT 2 FHD" tvg-logo="https://i.imgur.com/diWJHFe.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT 2 FHD",POLSAT 2 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162424&extension=ts
+#EXTINF:-1 tvg-id="POLSAT 2 HD" tvg-logo="https://i.imgur.com/8jUKEgC.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT 2 HD",POLSAT 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8300&extension=ts
+#EXTINF:-1 tvg-id="POLSAT PLAY FHD" tvg-logo="https://i.imgur.com/jAhbBDu.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT PLAY FHD",POLSAT PLAY FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8392&extension=ts
+#EXTINF:-1 tvg-id="POLSAT PLAY HD" tvg-logo="https://i.imgur.com/phqNa4a.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT PLAY HD",POLSAT PLAY HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162476&extension=ts
+#EXTINF:-1 tvg-id="POLSAT CAFE FHD" tvg-logo="https://i.imgur.com/3DXHtvw.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT CAFE FHD",POLSAT CAFE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162428&extension=ts
+#EXTINF:-1 tvg-id="POLSAT CAFE  HD" tvg-logo="https://i.imgur.com/NtYpWHx.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT CAFE  HD",POLSAT CAFE  HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=177898&extension=ts
+#EXTINF:-1 tvg-id="POLSAT SERIALE FHD" tvg-logo="https://i.imgur.com/tS9KOdJ.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT SERIALE FHD",POLSAT SERIALE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162426&extension=ts
+#EXTINF:-1 tvg-id="POLSAT SERIALE HD" tvg-logo="https://i.imgur.com/X2cmZiT.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT SERIALE HD",POLSAT SERIALE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=177900&extension=ts
+#EXTINF:-1 tvg-id="POLSAT GAMES FHD" tvg-logo="https://i.imgur.com/1ENccSW.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT GAMES FHD",POLSAT GAMES FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8332&extension=ts
+#EXTINF:-1 tvg-id="POLSAT GAMES HD" tvg-logo="https://i.imgur.com/UkEQnO6.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT GAMES HD",POLSAT GAMES HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=177899&extension=ts
+#EXTINF:-1 tvg-id="POLSAT RODZINA FHD" tvg-logo="https://i.imgur.com/ngIwk1J.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT RODZINA FHD",POLSAT RODZINA FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8310&extension=ts
+#EXTINF:-1 tvg-id="POLSAT RODZINA HD" tvg-logo="https://i.imgur.com/ARNNeXL.png" group-title="⭐ POLSKA ⭐" tvg-name="POLSAT RODZINA HD",POLSAT RODZINA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=177901&extension=ts
+#EXTINF:-1 tvg-id="SUPER POLSAT FHD" tvg-logo="https://i.imgur.com/zobzgQD.png" group-title="⭐ POLSKA ⭐" tvg-name="SUPER POLSAT FHD",SUPER POLSAT FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8388&extension=ts
+#EXTINF:-1 tvg-id="SUPER POLSAT HD" tvg-logo="https://i.imgur.com/KKYuB9f.png" group-title="⭐ POLSKA ⭐" tvg-name="SUPER POLSAT HD",SUPER POLSAT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=177897&extension=ts
+#EXTINF:-1 tvg-id="ROMANCE TV FHD" tvg-logo="https://i.imgur.com/a7sTXEt.png" group-title="⭐ POLSKA ⭐" tvg-name="ROMANCE TV FHD",ROMANCE TV FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162453&extension=ts
+#EXTINF:-1 tvg-id="ROMANCE TV HD" tvg-logo="https://i.imgur.com/a7sTXEt.png" group-title="⭐ POLSKA ⭐" tvg-name="ROMANCE TV HD",ROMANCE TV HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162452&extension=ts
+#EXTINF:-1 tvg-id="PULS FHD" tvg-logo="https://i.imgur.com/rzOGknK.png" group-title="⭐ POLSKA ⭐" tvg-name="PULS FHD",PULS FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=178077&extension=ts
+#EXTINF:-1 tvg-id="PULS HD" tvg-logo="https://i.imgur.com/lJDfTHZ.png" group-title="⭐ POLSKA ⭐" tvg-name="PULS HD",PULS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8304&extension=ts
+#EXTINF:-1 tvg-id="PULS 2 FHD" tvg-logo="https://i.imgur.com/lFSi6c3.png" group-title="⭐ POLSKA ⭐" tvg-name="PULS 2 FHD",PULS 2 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8318&extension=ts
+#EXTINF:-1 tvg-id="PULS 2 HD" tvg-logo="https://i.imgur.com/11QE6i7.png" group-title="⭐ POLSKA ⭐" tvg-name="PULS 2 HD",PULS 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=178151&extension=ts
+#EXTINF:-1 tvg-id="TVP POLONIA FHD" tvg-logo="https://i.imgur.com/4UXwAWH.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP POLONIA FHD",TVP POLONIA FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=178078&extension=ts
+#EXTINF:-1 tvg-id="TVP POLONIA HD" tvg-logo="https://i.imgur.com/XgbyyDV.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP POLONIA HD",TVP POLONIA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8309&extension=ts
+#EXTINF:-1 tvg-id="TVP ROZRYWKA HD" tvg-logo="https://i.imgur.com/1B0p1bZ.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP ROZRYWKA HD",TVP ROZRYWKA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8301&extension=ts
+#EXTINF:-1 tvg-id="TVP KULTURA FHD" tvg-logo="https://i.imgur.com/0Lgsfkh.png" group-title="⭐ POLSKA ⭐" tvg-name="TVP KULTURA FHD",TVP KULTURA FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8438&extension=ts
+#EXTINF:-1 tvg-id="TTV FHD" tvg-logo="https://i.imgur.com/LgM2YU7.png" group-title="⭐ POLSKA ⭐" tvg-name="TTV FHD",TTV FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8314&extension=ts
+#EXTINF:-1 tvg-id="TTV HD" tvg-logo="https://i.imgur.com/JqeIcIb.png" group-title="⭐ POLSKA ⭐" tvg-name="TTV HD",TTV HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8323&extension=ts
+#EXTINF:-1 tvg-id="WP FHD" tvg-logo="https://i.imgur.com/4VcdLj5.png" group-title="⭐ POLSKA ⭐" tvg-name="WP FHD",WP FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162466&extension=ts
+#EXTINF:-1 tvg-id="WPOLSCE FHD" tvg-logo="https://i.imgur.com/l8qdPCn.png" group-title="⭐ POLSKA ⭐" tvg-name="WPOLSCE FHD",WPOLSCE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=162457&extension=ts
+#EXTINF:-1 tvg-id="TELE 5" tvg-logo="https://i.imgur.com/KjNckRV.png" group-title="⭐ POLSKA ⭐" tvg-name="TELE 5",TELE 5
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8394&extension=ts
+#EXTINF:-1 tvg-id="TV REPUBLIKA" tvg-logo="https://i.imgur.com/BkyScPj.png" group-title="⭐ POLSKA ⭐" tvg-name="TV REPUBLIKA",TV REPUBLIKA
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8319&extension=ts
+#EXTINF:-1 tvg-id="NOVELA TV" tvg-logo="https://i.imgur.com/8QSht3u.png" group-title="⭐ POLSKA ⭐" tvg-name="NOVELA TV",NOVELA TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8432&extension=ts
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-logo="https://i.imgur.com/YpsqO5M.png" group-title="⭐ POLSKA ⭐" tvg-name="ZOOM TV",ZOOM TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8320&extension=ts
+#EXTINF:-1 tvg-id="FOKUS TV FHD" tvg-logo="https://i.imgur.com/lsI9Q0L.png" group-title="⭐ POLSKA ⭐" tvg-name="FOKUS TV FHD",FOKUS TV FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8312&extension=ts
+#EXTINF:-1 tvg-id="STOPKLATKA TV" tvg-logo="https://i.imgur.com/zx42uPH.png" group-title="⭐ POLSKA ⭐" tvg-name="STOPKLATKA TV",STOPKLATKA TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8415&extension=ts
+#EXTINF:-1 tvg-id="✦●✦ POLSKA HEVC ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/pl.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="✦●✦ POLSKA HEVC ✦●✦",✦●✦ POLSKA HEVC ✦●✦
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481969&extension=ts
+#EXTINF:-1 tvg-id="↺TVP INFO HEVC" tvg-logo="https://i.imgur.com/k7IrT6e.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVP INFO HEVC",↺TVP INFO HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481968&extension=ts
+#EXTINF:-1 tvg-id="↺TVP HEVC" tvg-logo="https://i.imgur.com/dEZdT3o.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVP HEVC",↺TVP HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481967&extension=ts
+#EXTINF:-1 tvg-id="↺TVP 1 HEVC" tvg-logo="https://i.imgur.com/YpcEz5x.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVP 1 HEVC",↺TVP 1 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481966&extension=ts
+#EXTINF:-1 tvg-id="↺TVP 2 HEVC" tvg-logo="https://i.imgur.com/uOIn3tU.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVP 2 HEVC",↺TVP 2 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481965&extension=ts
+#EXTINF:-1 tvg-id="↺TVP 3 HEVC" tvg-logo="https://i.imgur.com/szzZtCt.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVP 3 HEVC",↺TVP 3 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481964&extension=ts
+#EXTINF:-1 tvg-id="↺TV4 HEVC" tvg-logo="https://i.imgur.com/4Hrwmka.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TV4 HEVC",↺TV4 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481963&extension=ts
+#EXTINF:-1 tvg-id="↺TVN HEVC" tvg-logo="https://i.imgur.com/ALvQk4G.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVN HEVC",↺TVN HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481962&extension=ts
+#EXTINF:-1 tvg-id="↺POLSAT HEVC" tvg-logo="https://i.imgur.com/PO0FdpM.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺POLSAT HEVC",↺POLSAT HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481961&extension=ts
+#EXTINF:-1 tvg-id="↺POLSAT 2 HEVC" tvg-logo="https://i.imgur.com/CzMB7Ds.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺POLSAT 2 HEVC",↺POLSAT 2 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481960&extension=ts
+#EXTINF:-1 tvg-id="↺POLSAT NEWS HEVC" tvg-logo="https://i.imgur.com/qOfKhuD.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺POLSAT NEWS HEVC",↺POLSAT NEWS HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481959&extension=ts
+#EXTINF:-1 tvg-id="↺POLSAT NEWS 2 HEVC" tvg-logo="https://i.imgur.com/CzMB7Ds.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺POLSAT NEWS 2 HEVC",↺POLSAT NEWS 2 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481958&extension=ts
+#EXTINF:-1 tvg-id="↺TVN 24 HEVC" tvg-logo="https://i.imgur.com/J3WNL5g.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TVN 24 HEVC",↺TVN 24 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481957&extension=ts
+#EXTINF:-1 tvg-id="↺TTV HEVC" tvg-logo="https://i.imgur.com/sg5VAcT.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺TTV HEVC",↺TTV HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481956&extension=ts
+#EXTINF:-1 tvg-id="↺NOVELAS+ HEVC" tvg-logo="https://i.imgur.com/OxYJc4q.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="↺NOVELAS+ HEVC",↺NOVELAS+ HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481970&extension=ts
+#EXTINF:-1 tvg-id="TVN 24 BIS HEVC" tvg-logo="https://i.imgur.com/iVS2RZE.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TVN 24 BIS HEVC",TVN 24 BIS HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481955&extension=ts
+#EXTINF:-1 tvg-id="SUPER POLSAT HEVC" tvg-logo="https://i.imgur.com/8JvCh30.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="SUPER POLSAT HEVC",SUPER POLSAT HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481954&extension=ts
+#EXTINF:-1 tvg-id="POLSAT PLAY HEVC" tvg-logo="https://i.imgur.com/HFzpeAq.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="POLSAT PLAY HEVC",POLSAT PLAY HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481953&extension=ts
+#EXTINF:-1 tvg-id="POLSAT CAFE HEVC" tvg-logo="https://i.imgur.com/a5Mww4q.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="POLSAT CAFE HEVC",POLSAT CAFE HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481952&extension=ts
+#EXTINF:-1 tvg-id="POLSAT SERIALE HEVC" tvg-logo="https://i.imgur.com/xZgwnWG.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="POLSAT SERIALE HEVC",POLSAT SERIALE HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481971&extension=ts
+#EXTINF:-1 tvg-id="POLSAT RODZINA HEVC" tvg-logo="https://i.imgur.com/Z6C3kTD.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="POLSAT RODZINA HEVC",POLSAT RODZINA HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481951&extension=ts
+#EXTINF:-1 tvg-id="POLSAT GAMES HEVC" tvg-logo="https://i.imgur.com/b4NUoVK.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="POLSAT GAMES HEVC",POLSAT GAMES HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481950&extension=ts
+#EXTINF:-1 tvg-id="ROMANCE TV HEVC" tvg-logo="https://i.imgur.com/CnOMjKc.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="ROMANCE TV HEVC",ROMANCE TV HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481949&extension=ts
+#EXTINF:-1 tvg-id="TVN 7 HEVC" tvg-logo="https://i.imgur.com/22s1hDC.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TVN 7 HEVC",TVN 7 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481948&extension=ts
+#EXTINF:-1 tvg-id="TVN STYLE HEVC" tvg-logo="https://i.imgur.com/K6dw2pg.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TVN STYLE HEVC",TVN STYLE HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481947&extension=ts
+#EXTINF:-1 tvg-id="TVN TURBO HEVC" tvg-logo="https://i.imgur.com/pjG7za1.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TVN TURBO HEVC",TVN TURBO HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481946&extension=ts
+#EXTINF:-1 tvg-id="TVN FABULA HEVC" tvg-logo="https://i.imgur.com/WgrO6yb.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TVN FABULA HEVC",TVN FABULA HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481945&extension=ts
+#EXTINF:-1 tvg-id="TV6 HEVC" tvg-logo="https://i.imgur.com/n2Oo09U.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TV6 HEVC",TV6 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481944&extension=ts
+#EXTINF:-1 tvg-id="TV PULS HEVC" tvg-logo="https://i.imgur.com/fMRUiGD.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TV PULS HEVC",TV PULS HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481943&extension=ts
+#EXTINF:-1 tvg-id="PULS 2 HEVC" tvg-logo="https://i.imgur.com/uGUlbz1.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="PULS 2 HEVC",PULS 2 HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481942&extension=ts
+#EXTINF:-1 tvg-id="TVP POLONIA HEVC" tvg-logo="https://i.imgur.com/tQdsTUs.png" group-title="⭐ POLSKA HEVC ⭐" tvg-name="TVP POLONIA HEVC",TVP POLONIA HEVC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=481941&extension=ts
+#EXTINF:-1 tvg-id=" HOME 4K" tvg-logo="https://i.imgur.com/IpnY5ZO.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HOME 4K", HOME 4K
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=225923&extension=ts
+#EXTINF:-1 tvg-id=" NAT GEO WILD HD" tvg-logo="https://i.imgur.com/KqF67zk.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" NAT GEO WILD HD", NAT GEO WILD HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183505&extension=ts
+#EXTINF:-1 tvg-id=" NAT GEO WILD FHD" tvg-logo="https://i.imgur.com/9GHn3xU.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" NAT GEO WILD FHD", NAT GEO WILD FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8456&extension=ts
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/amRjokf.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" NATIONAL GEOGRAPHIC FHD", NATIONAL GEOGRAPHIC FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8455&extension=ts
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/zMykOoe.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" NATIONAL GEOGRAPHIC HD", NATIONAL GEOGRAPHIC HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183506&extension=ts
+#EXTINF:-1 tvg-id=" NAT GEO PEOPLE FHD" tvg-logo="https://i.imgur.com/aV7E1XX.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" NAT GEO PEOPLE FHD", NAT GEO PEOPLE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8457&extension=ts
+#EXTINF:-1 tvg-id=" NAT GEO PEOPLE HD" tvg-logo="https://i.imgur.com/HLZtvoq.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" NAT GEO PEOPLE HD", NAT GEO PEOPLE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183507&extension=ts
+#EXTINF:-1 tvg-id=" ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/RJCbAD1.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" ANIMAL PLANET FHD", ANIMAL PLANET FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184125&extension=ts
+#EXTINF:-1 tvg-id=" ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/Lv1R7Dm.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" ANIMAL PLANET HD", ANIMAL PLANET HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8465&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY FHD" tvg-logo="https://i.imgur.com/EZPdYr9.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY FHD", DISCOVERY FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8459&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY HD" tvg-logo="https://i.imgur.com/ppnojKt.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY HD", DISCOVERY HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183508&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY SCIENCE FHD" tvg-logo="https://i.imgur.com/p1rIUVL.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY SCIENCE FHD", DISCOVERY SCIENCE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8461&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/VD8DClg.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY SCIENCE HD", DISCOVERY SCIENCE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183509&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY LIFE HD" tvg-logo="https://i.imgur.com/86IiJdB.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY LIFE HD", DISCOVERY LIFE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8458&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY LIFE" tvg-logo="https://i.imgur.com/wRPzqOn.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY LIFE", DISCOVERY LIFE
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183510&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY HISTORIA SD" tvg-logo="https://i.imgur.com/cygJx2i.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY HISTORIA SD", DISCOVERY HISTORIA SD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8460&extension=ts
+#EXTINF:-1 tvg-id=" DISCOVERY HISTORIA" tvg-logo="https://i.imgur.com/xqXxwem.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DISCOVERY HISTORIA", DISCOVERY HISTORIA
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183511&extension=ts
+#EXTINF:-1 tvg-id=" DA VINCI LEARNING FHD" tvg-logo="https://i.imgur.com/dDiZGAy.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DA VINCI LEARNING FHD", DA VINCI LEARNING FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8467&extension=ts
+#EXTINF:-1 tvg-id=" DA VINCI LEARNING HD" tvg-logo="https://i.imgur.com/O18zNAo.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DA VINCI LEARNING HD", DA VINCI LEARNING HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184133&extension=ts
+#EXTINF:-1 tvg-id=" E! ENTERTAINMENT FHD" tvg-logo="https://i.imgur.com/pwsKmcW.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" E! ENTERTAINMENT FHD", E! ENTERTAINMENT FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8325&extension=ts
+#EXTINF:-1 tvg-id=" E! ENTERTAINMENT HD" tvg-logo="https://i.imgur.com/kT6pm43.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" E! ENTERTAINMENT HD", E! ENTERTAINMENT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183516&extension=ts
+#EXTINF:-1 tvg-id=" HISTORY FHD" tvg-logo="https://i.imgur.com/7sAkFab.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HISTORY FHD", HISTORY FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8453&extension=ts
+#EXTINF:-1 tvg-id=" HISTORY HD" tvg-logo="https://i.imgur.com/nRs5TAX.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HISTORY HD", HISTORY HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183517&extension=ts
+#EXTINF:-1 tvg-id=" HISTORY 2 FHD" tvg-logo="https://i.imgur.com/F49xYyG.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HISTORY 2 FHD", HISTORY 2 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183518&extension=ts
+#EXTINF:-1 tvg-id=" HISTORY 2 HD" tvg-logo="https://i.imgur.com/0oyg1fI.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HISTORY 2 HD", HISTORY 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183519&extension=ts
+#EXTINF:-1 tvg-id=" BBC EARTH FHD" tvg-logo="https://i.imgur.com/b1UdvEk.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC EARTH FHD", BBC EARTH FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8466&extension=ts
+#EXTINF:-1 tvg-id=" BBC EARTH HD" tvg-logo="https://i.imgur.com/uDGsO70.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC EARTH HD", BBC EARTH HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183513&extension=ts
+#EXTINF:-1 tvg-id=" BBC BRIT FHD" tvg-logo="https://i.imgur.com/xds1t0v.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC BRIT FHD", BBC BRIT FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8452&extension=ts
+#EXTINF:-1 tvg-id=" BBC BRIT HD" tvg-logo="https://i.imgur.com/XmmZLW8.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC BRIT HD", BBC BRIT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183515&extension=ts
+#EXTINF:-1 tvg-id=" BBC FIRST FHD" tvg-logo="https://i.imgur.com/Nfhkssp.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC FIRST FHD", BBC FIRST FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8445&extension=ts
+#EXTINF:-1 tvg-id=" BBC FIRST HD" tvg-logo="https://i.imgur.com/7DYsgyb.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC FIRST HD", BBC FIRST HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183514&extension=ts
+#EXTINF:-1 tvg-id=" BBC LIFESTYLE FHD" tvg-logo="https://i.imgur.com/lOVg6Bp.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC LIFESTYLE FHD", BBC LIFESTYLE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8450&extension=ts
+#EXTINF:-1 tvg-id=" BBC LIFESTYLE HD" tvg-logo="https://i.imgur.com/fWQ4YGP.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" BBC LIFESTYLE HD", BBC LIFESTYLE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183512&extension=ts
+#EXTINF:-1 tvg-id=" PLANETE+ FHD" tvg-logo="https://i.imgur.com/e2GoIwQ.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" PLANETE+ FHD", PLANETE+ FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184126&extension=ts
+#EXTINF:-1 tvg-id=" PLANETE+ HD" tvg-logo="https://i.imgur.com/KFx0PNB.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" PLANETE+ HD", PLANETE+ HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8454&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT DOKU FHD" tvg-logo="https://i.imgur.com/Dxxhfoi.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT DOKU FHD", POLSAT DOKU FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8441&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT DOKU HD" tvg-logo="https://i.imgur.com/vnUgoFo.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT DOKU HD", POLSAT DOKU HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183562&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT VIASAT EXPLORE FHD" tvg-logo="https://i.imgur.com/mtXh6v8.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT VIASAT EXPLORE FHD", POLSAT VIASAT EXPLORE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8443&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT VIASAT EXPLORE HD" tvg-logo="https://i.imgur.com/QFWS6S9.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT VIASAT EXPLORE HD", POLSAT VIASAT EXPLORE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183565&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT VIASAT HISTORY FHD" tvg-logo="https://i.imgur.com/c8cOnpx.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT VIASAT HISTORY FHD", POLSAT VIASAT HISTORY FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8442&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT VIASAT HISTORY HD" tvg-logo="https://i.imgur.com/P6LQfUR.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT VIASAT HISTORY HD", POLSAT VIASAT HISTORY HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183566&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT VIASAT NATURE FHD" tvg-logo="https://i.imgur.com/3C9UZaw.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT VIASAT NATURE FHD", POLSAT VIASAT NATURE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8444&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT VIASAT NATURE HD" tvg-logo="https://i.imgur.com/0nWmXFc.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" POLSAT VIASAT NATURE HD", POLSAT VIASAT NATURE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183563&extension=ts
+#EXTINF:-1 tvg-id=" CRIME+ INVESTIGATION FHD" tvg-logo="https://i.imgur.com/QHGjpin.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CRIME+ INVESTIGATION FHD", CRIME+ INVESTIGATION FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8462&extension=ts
+#EXTINF:-1 tvg-id=" CRIME+ INVESTIGATION HD" tvg-logo="https://i.imgur.com/CtL6HXZ.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CRIME+ INVESTIGATION HD", CRIME+ INVESTIGATION HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184132&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ KUCHNIA FHD" tvg-logo="https://i.imgur.com/oVyQoyw.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CANAL+ KUCHNIA FHD", CANAL+ KUCHNIA FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8412&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ KUCHNIA HD" tvg-logo="https://i.imgur.com/Qbs5y9x.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CANAL+ KUCHNIA HD", CANAL+ KUCHNIA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183522&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ DOKUMENT FHD" tvg-logo="https://i.imgur.com/IX4iGhU.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CANAL+ DOKUMENT FHD", CANAL+ DOKUMENT FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183521&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ DOKUMENT HD" tvg-logo="https://i.imgur.com/xBmWCuj.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CANAL+ DOKUMENT HD", CANAL+ DOKUMENT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183520&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ DOMO FHD" tvg-logo="https://i.imgur.com/6A7Sr6G.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CANAL+ DOMO FHD", CANAL+ DOMO FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8326&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ DOMO HD" tvg-logo="https://i.imgur.com/q4K6Aj2.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" CANAL+ DOMO HD", CANAL+ DOMO HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183529&extension=ts
+#EXTINF:-1 tvg-id=" TRAVEL CHANNEL FHD" tvg-logo="https://i.imgur.com/PycCJC9.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" TRAVEL CHANNEL FHD", TRAVEL CHANNEL FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8470&extension=ts
+#EXTINF:-1 tvg-id=" TRAVEL CHANNEL HD" tvg-logo="https://i.imgur.com/3QxsKgW.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" TRAVEL CHANNEL HD", TRAVEL CHANNEL HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183567&extension=ts
+#EXTINF:-1 tvg-id=" TLC FHD" tvg-logo="https://i.imgur.com/YIKsG6u.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" TLC FHD", TLC FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183504&extension=ts
+#EXTINF:-1 tvg-id=" TLC HD" tvg-logo="https://i.imgur.com/c3LOIll.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" TLC HD", TLC HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8440&extension=ts
+#EXTINF:-1 tvg-id=" DTX FHD" tvg-logo="https://i.imgur.com/doKOu8j.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DTX FHD", DTX FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184128&extension=ts
+#EXTINF:-1 tvg-id=" DTX HD" tvg-logo="https://i.imgur.com/JvfAkhQ.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" DTX HD", DTX HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8468&extension=ts
+#EXTINF:-1 tvg-id=" HGTV FHD" tvg-logo="https://i.imgur.com/PycCJC9.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HGTV FHD", HGTV FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=178149&extension=ts
+#EXTINF:-1 tvg-id=" HGTV HD" tvg-logo="https://i.imgur.com/bwXd7vi.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HGTV HD", HGTV HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8315&extension=ts
+#EXTINF:-1 tvg-id=" WATER PLANET SD" tvg-logo="https://i.imgur.com/muJ7Lm0.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" WATER PLANET SD", WATER PLANET SD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8448&extension=ts
+#EXTINF:-1 tvg-id=" WATER PLANET" tvg-logo="https://i.imgur.com/tYtsDUv.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" WATER PLANET", WATER PLANET
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184134&extension=ts
+#EXTINF:-1 tvg-id=" STUDIOMED TV FHD" tvg-logo="https://i.imgur.com/9eBLhNY.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" STUDIOMED TV FHD", STUDIOMED TV FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8446&extension=ts
+#EXTINF:-1 tvg-id=" STUDIOMED TV HD" tvg-logo="https://i.imgur.com/TsBZ23x.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" STUDIOMED TV HD", STUDIOMED TV HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184135&extension=ts
+#EXTINF:-1 tvg-id=" ADVENTURE FHD" tvg-logo="https://i.imgur.com/RvJQnCL.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" ADVENTURE FHD", ADVENTURE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8464&extension=ts
+#EXTINF:-1 tvg-id=" ADVENTURE HD" tvg-logo="https://i.imgur.com/6uHP8p1.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" ADVENTURE HD", ADVENTURE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184136&extension=ts
+#EXTINF:-1 tvg-id=" FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/RHZuCeA.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" FOOD NETWORK FHD", FOOD NETWORK FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8321&extension=ts
+#EXTINF:-1 tvg-id=" FOOD NETWORK HD" tvg-logo="https://i.imgur.com/JZAu7dZ.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" FOOD NETWORK HD", FOOD NETWORK HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=183568&extension=ts
+#EXTINF:-1 tvg-id=" HOME TV" tvg-logo="https://i.imgur.com/j45cbS5.png" group-title="⭐ PL DOKUMENTACJA ⭐" tvg-name=" HOME TV", HOME TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8329&extension=ts
+#EXTINF:-1 tvg-id="✦●✦ POLSKA 24/7 ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/pl.png" group-title="⭐ PL CINEMA ⭐" tvg-name="✦●✦ POLSKA 24/7 ✦●✦",✦●✦ POLSKA 24/7 ✦●✦
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=216458&extension=ts
+#EXTINF:-1 tvg-id=" CBS EUROPA FHD" tvg-logo="https://i.imgur.com/rK3rdHA.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CBS EUROPA FHD", CBS EUROPA FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8451&extension=ts
+#EXTINF:-1 tvg-id=" CBS EUROPA HD" tvg-logo="https://i.imgur.com/bIWA9Nj.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CBS EUROPA HD", CBS EUROPA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184130&extension=ts
+#EXTINF:-1 tvg-id=" CBS REALITY FHD" tvg-logo="https://i.imgur.com/hn6NCBb.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CBS REALITY FHD", CBS REALITY FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8447&extension=ts
+#EXTINF:-1 tvg-id=" CBS REALITY HD" tvg-logo="https://i.imgur.com/mM6WEnJ.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CBS REALITY HD", CBS REALITY HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184131&extension=ts
+#EXTINF:-1 tvg-id=" TVP HISTORIA SD" tvg-logo="https://i.imgur.com/mWHmJjR.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" TVP HISTORIA SD", TVP HISTORIA SD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8439&extension=ts
+#EXTINF:-1 tvg-id=" TVP HISTORIA" tvg-logo="https://i.imgur.com/mWHmJjR.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" TVP HISTORIA", TVP HISTORIA
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=184127&extension=ts
+#EXTINF:-1 tvg-id=" TVP SERIALE" tvg-logo="https://i.imgur.com/tdqS1ec.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" TVP SERIALE", TVP SERIALE
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8387&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT FILM HD" tvg-logo="https://i.imgur.com/zfjidxY.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" POLSAT FILM HD", POLSAT FILM HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8391&extension=ts
+#EXTINF:-1 tvg-id=" ACTIVE FAMILY" tvg-logo="https://i.imgur.com/vjvM3bA.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" ACTIVE FAMILY", ACTIVE FAMILY
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8393&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ SERIALE HD" tvg-logo="https://i.imgur.com/NzEwtsM.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CANAL+ SERIALE HD", CANAL+ SERIALE HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8395&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ FILM HD" tvg-logo="https://i.imgur.com/TGsdg7M.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CANAL+ FILM HD", CANAL+ FILM HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8396&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ FAMILY HD" tvg-logo="https://i.imgur.com/FrXQ5mg.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CANAL+ FAMILY HD", CANAL+ FAMILY HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8397&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ FILM FHD" tvg-logo="https://i.imgur.com/xlDb3Md.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CANAL+ FILM FHD", CANAL+ FILM FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8398&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ 1 HD" tvg-logo="https://i.imgur.com/8dnSJAO.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CANAL+ 1 HD", CANAL+ 1 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8399&extension=ts
+#EXTINF:-1 tvg-id=" AXN BLACK" tvg-logo="https://i.imgur.com/KPCr1pj.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" AXN BLACK", AXN BLACK
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8400&extension=ts
+#EXTINF:-1 tvg-id=" AXN WHITE" tvg-logo="https://i.imgur.com/TQTIk9L.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" AXN WHITE", AXN WHITE
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8401&extension=ts
+#EXTINF:-1 tvg-id=" AXN HD" tvg-logo="https://i.imgur.com/unlAWOa.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" AXN HD", AXN HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8402&extension=ts
+#EXTINF:-1 tvg-id=" AXN SPIN HD" tvg-logo="https://i.imgur.com/lqghIrX.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" AXN SPIN HD", AXN SPIN HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8403&extension=ts
+#EXTINF:-1 tvg-id=" FOX HD" tvg-logo="https://i.imgur.com/7P2kKqN.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FOX HD", FOX HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8404&extension=ts
+#EXTINF:-1 tvg-id=" FOX COMEDY" tvg-logo="https://i.imgur.com/kMzQ70L.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FOX COMEDY", FOX COMEDY
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8405&extension=ts
+#EXTINF:-1 tvg-id=" AMC" tvg-logo="https://i.imgur.com/SYm1taF.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" AMC", AMC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8406&extension=ts
+#EXTINF:-1 tvg-id=" ALE KINO+ HD" tvg-logo="https://i.imgur.com/IFSvZ6V.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" ALE KINO+ HD", ALE KINO+ HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8407&extension=ts
+#EXTINF:-1 tvg-id=" COMEDY CENTRAL FHD" tvg-logo="https://i.imgur.com/dktzUvF.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" COMEDY CENTRAL FHD", COMEDY CENTRAL FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8408&extension=ts
+#EXTINF:-1 tvg-id=" 13 ULICA HD" tvg-logo="https://i.imgur.com/t2We68p.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" 13 ULICA HD", 13 ULICA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8409&extension=ts
+#EXTINF:-1 tvg-id=" SCIFI HD" tvg-logo="https://i.imgur.com/JJBsPqL.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" SCIFI HD", SCIFI HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8410&extension=ts
+#EXTINF:-1 tvg-id=" UNIVERSAL HD" tvg-logo="https://i.imgur.com/HL3pjBE.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" UNIVERSAL HD", UNIVERSAL HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8411&extension=ts
+#EXTINF:-1 tvg-id=" SUNDANCE FHD" tvg-logo="https://i.imgur.com/2SpP8nV.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" SUNDANCE FHD", SUNDANCE FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8416&extension=ts
+#EXTINF:-1 tvg-id=" KINO POLSKA HD" tvg-logo="https://i.imgur.com/TB03tWe.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" KINO POLSKA HD", KINO POLSKA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8417&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="https://i.imgur.com/RrQMI22.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" POLSAT COMEDY CENTRAL EXTRA HD", POLSAT COMEDY CENTRAL EXTRA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8419&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ PREMIUM HD" tvg-logo="https://i.imgur.com/eNDWlek.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CANAL+ PREMIUM HD", CANAL+ PREMIUM HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8420&extension=ts
+#EXTINF:-1 tvg-id=" HBO HD" tvg-logo="https://i.imgur.com/zeQ4Mwl.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" HBO HD", HBO HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8421&extension=ts
+#EXTINF:-1 tvg-id=" HBO 2 HD" tvg-logo="https://i.imgur.com/Kupr5Ai.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" HBO 2 HD", HBO 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8422&extension=ts
+#EXTINF:-1 tvg-id=" HBO 3 HD" tvg-logo="https://i.imgur.com/hOHQDBh.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" HBO 3 HD", HBO 3 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8423&extension=ts
+#EXTINF:-1 tvg-id=" FILMBOX FAMILY" tvg-logo="https://i.imgur.com/X6CMW0I.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FILMBOX FAMILY", FILMBOX FAMILY
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8424&extension=ts
+#EXTINF:-1 tvg-id=" FILMBOX ACTION" tvg-logo="https://i.imgur.com/0abx5KE.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FILMBOX ACTION", FILMBOX ACTION
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8425&extension=ts
+#EXTINF:-1 tvg-id=" FILMBOX EXTRA" tvg-logo="https://i.imgur.com/o5kjWyg.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FILMBOX EXTRA", FILMBOX EXTRA
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8426&extension=ts
+#EXTINF:-1 tvg-id=" FILMBOX PREMIUM HD" tvg-logo="https://i.imgur.com/4odcBHH.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FILMBOX PREMIUM HD", FILMBOX PREMIUM HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8427&extension=ts
+#EXTINF:-1 tvg-id=" PARAMOUNT NETWORK FHD" tvg-logo="https://i.imgur.com/5qWy2iv.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" PARAMOUNT NETWORK FHD", PARAMOUNT NETWORK FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8413&extension=ts
+#EXTINF:-1 tvg-id=" CINEMAX 2 HD" tvg-logo="https://i.imgur.com/IYfhFx3.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CINEMAX 2 HD", CINEMAX 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8428&extension=ts
+#EXTINF:-1 tvg-id=" CINEMAX HD" tvg-logo="https://i.imgur.com/5QmmiYT.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" CINEMAX HD", CINEMAX HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8429&extension=ts
+#EXTINF:-1 tvg-id=" METRO" tvg-logo="https://i.imgur.com/B1CSMTM.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" METRO", METRO
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8322&extension=ts
+#EXTINF:-1 tvg-id=" NOWA TV HD" tvg-logo="https://i.imgur.com/YU5XSnX.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" NOWA TV HD", NOWA TV HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8316&extension=ts
+#EXTINF:-1 tvg-id=" EPIC DRAMA HD" tvg-logo="https://i.imgur.com/w4yHxqm.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" EPIC DRAMA HD", EPIC DRAMA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8430&extension=ts
+#EXTINF:-1 tvg-id=" FILMBOX ARTHOUSE" tvg-logo="https://i.imgur.com/gwSRGSB.png" group-title="⭐ PL CINEMA ⭐" tvg-name=" FILMBOX ARTHOUSE", FILMBOX ARTHOUSE
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8431&extension=ts
+#EXTINF:-1 tvg-id=" ELEVEN SPORTS 1 4K" tvg-logo="https://i.imgur.com/pWmTJlr.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" ELEVEN SPORTS 1 4K", ELEVEN SPORTS 1 4K
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=225922&extension=ts
+#EXTINF:-1 tvg-id=" ELEVEN SPORT HD" tvg-logo="https://i.imgur.com/eKQtZRs.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" ELEVEN SPORT HD", ELEVEN SPORT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8485&extension=ts
+#EXTINF:-1 tvg-id=" ELEVEN SPORTS 1 HD" tvg-logo="https://i.imgur.com/JGZJmb8.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" ELEVEN SPORTS 1 HD", ELEVEN SPORTS 1 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8486&extension=ts
+#EXTINF:-1 tvg-id=" ELEVEN SPORTS 2 HD" tvg-logo="https://i.imgur.com/B7tk79D.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" ELEVEN SPORTS 2 HD", ELEVEN SPORTS 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8487&extension=ts
+#EXTINF:-1 tvg-id=" ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/sDDOCbC.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" ELEVEN SPORTS 3 HD", ELEVEN SPORTS 3 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8488&extension=ts
+#EXTINF:-1 tvg-id=" ELEVEN SPORTS 4 HD" tvg-logo="https://i.imgur.com/QI2bThi.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" ELEVEN SPORTS 4 HD", ELEVEN SPORTS 4 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8489&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT NEWS HD" tvg-logo="https://i.imgur.com/zXyHyHV.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT NEWS HD", POLSAT SPORT NEWS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8472&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT EXTRA HD" tvg-logo="https://i.imgur.com/RzFIoC8.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT EXTRA HD", POLSAT SPORT EXTRA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8473&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT FIGHT HD" tvg-logo="https://i.imgur.com/ngntkQo.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT FIGHT HD", POLSAT SPORT FIGHT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8474&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT FHD" tvg-logo="https://i.imgur.com/1gIIwCD.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT FHD", POLSAT SPORT FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8475&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT HD" tvg-logo="https://i.imgur.com/mWN9SUT.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT HD", POLSAT SPORT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8476&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT PREMIUM 1 HD" tvg-logo="https://i.imgur.com/vBkkSYn.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT PREMIUM 1 HD", POLSAT SPORT PREMIUM 1 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8477&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://i.imgur.com/KHzPAy4.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT PREMIUM 2 HD", POLSAT SPORT PREMIUM 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8478&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT PREMIUM 3 HD" tvg-logo="https://i.imgur.com/daUnj1Y.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT PREMIUM 3 HD", POLSAT SPORT PREMIUM 3 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8479&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT PREMIUM 4 HD" tvg-logo="https://i.imgur.com/7xz7w2q.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT PREMIUM 4 HD", POLSAT SPORT PREMIUM 4 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=523170&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT PREMIUM 5 HD" tvg-logo="https://i.imgur.com/coZf2kx.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT PREMIUM 5 HD", POLSAT SPORT PREMIUM 5 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=523169&extension=ts
+#EXTINF:-1 tvg-id=" POLSAT SPORT PREMIUM 6 HD" tvg-logo="https://i.imgur.com/y8LwAHH.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" POLSAT SPORT PREMIUM 6 HD", POLSAT SPORT PREMIUM 6 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=523168&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ SPORT HD" tvg-logo="https://i.imgur.com/ZT8zfL2.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ SPORT HD", CANAL+ SPORT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8481&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ SPORT 2 HD" tvg-logo="https://i.imgur.com/YNErs9N.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ SPORT 2 HD", CANAL+ SPORT 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8482&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ SPORT 3 HD" tvg-logo="https://i.imgur.com/RP35ubv.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ SPORT 3 HD", CANAL+ SPORT 3 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8483&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ SPORT 4 HD" tvg-logo="https://i.imgur.com/MAhy86H.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ SPORT 4 HD", CANAL+ SPORT 4 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8484&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ SPORT 5 HD" tvg-logo="https://i.imgur.com/9Fr1uwn.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ SPORT 5 HD", CANAL+ SPORT 5 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=510216&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ EXTRA 1 FHD" tvg-logo="http://xc.contact:80/images/wIdaRoEEyada2MXv_mITKuypr2fHhFwPI5HAx5uhUbCDtNiiaSBx6gIKxzrrBoNv.jpg" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ EXTRA 1 FHD", CANAL+ EXTRA 1 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=561375&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ EXTRA 2 FHD" tvg-logo="http://xc.contact:80/images/wIdaRoEEyada2MXv_mITKuypr2fHhFwPI5HAx5uhUbCDtNiiaSBx6gIKxzrrBoNv.jpg" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ EXTRA 2 FHD", CANAL+ EXTRA 2 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=561374&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ EXTRA 3 FHD" tvg-logo="http://xc.contact:80/images/wIdaRoEEyada2MXv_mITKuypr2fHhFwPI5HAx5uhUbCDtNiiaSBx6gIKxzrrBoNv.jpg" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ EXTRA 3 FHD", CANAL+ EXTRA 3 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=561373&extension=ts
+#EXTINF:-1 tvg-id=" CANAL+ EXTRA 4 FHD" tvg-logo="http://xc.contact:80/images/wIdaRoEEyada2MXv_mITKuypr2fHhFwPI5HAx5uhUbCDtNiiaSBx6gIKxzrrBoNv.jpg" group-title="⭐ PL SPORTY ⭐" tvg-name=" CANAL+ EXTRA 4 FHD", CANAL+ EXTRA 4 FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=561372&extension=ts
+#EXTINF:-1 tvg-id=" EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/xsOmB3z.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" EUROSPORT 1 HD", EUROSPORT 1 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8491&extension=ts
+#EXTINF:-1 tvg-id=" EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/ClaNGPU.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" EUROSPORT 2 HD", EUROSPORT 2 HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8492&extension=ts
+#EXTINF:-1 tvg-id=" NSPORT+  HD" tvg-logo="https://i.imgur.com/sIhN04D.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" NSPORT+  HD", NSPORT+  HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8480&extension=ts
+#EXTINF:-1 tvg-id=" TVP SPORT HD" tvg-logo="https://i.imgur.com/M6mNY9D.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" TVP SPORT HD", TVP SPORT HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8490&extension=ts
+#EXTINF:-1 tvg-id=" GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/89czsXV.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" GOLF CHANNEL HD", GOLF CHANNEL HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8493&extension=ts
+#EXTINF:-1 tvg-id=" SPORTKLUB HD" tvg-logo="https://i.imgur.com/rzcZ8qT.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" SPORTKLUB HD", SPORTKLUB HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8494&extension=ts
+#EXTINF:-1 tvg-id=" EXTREME SPORTS HD" tvg-logo="https://i.imgur.com/8XLqDsc.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" EXTREME SPORTS HD", EXTREME SPORTS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8495&extension=ts
+#EXTINF:-1 tvg-id=" MOTOWIZJA HD" tvg-logo="https://i.imgur.com/VQwfuKM.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" MOTOWIZJA HD", MOTOWIZJA HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8496&extension=ts
+#EXTINF:-1 tvg-id=" FIGHTBOX HD" tvg-logo="https://i.imgur.com/7Oe77fX.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" FIGHTBOX HD", FIGHTBOX HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8497&extension=ts
+#EXTINF:-1 tvg-id=" FIGHTKLUB FHD" tvg-logo="https://i.imgur.com/dTnRTpu.png" group-title="⭐ PL SPORTY ⭐" tvg-name=" FIGHTKLUB FHD", FIGHTKLUB FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8471&extension=ts
+#EXTINF:-1 tvg-id=" BABY TV" tvg-logo="https://i.imgur.com/bUSePL9.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" BABY TV", BABY TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8344&extension=ts
+#EXTINF:-1 tvg-id=" BOOMERANG HD" tvg-logo="https://i.imgur.com/uJzs8If.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" BOOMERANG HD", BOOMERANG HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8334&extension=ts
+#EXTINF:-1 tvg-id=" DISNEY XD" tvg-logo="https://i.imgur.com/JfHGFjQ.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" DISNEY XD", DISNEY XD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8343&extension=ts
+#EXTINF:-1 tvg-id=" DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/yfxz04X.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" DISNEY CHANNEL HD", DISNEY CHANNEL HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8342&extension=ts
+#EXTINF:-1 tvg-id=" DISNEY JUNIOR" tvg-logo="https://i.imgur.com/QeuqzkB.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" DISNEY JUNIOR", DISNEY JUNIOR
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8345&extension=ts
+#EXTINF:-1 tvg-id=" CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/DLBhTZH.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" CARTOON NETWORK FHD", CARTOON NETWORK FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8347&extension=ts
+#EXTINF:-1 tvg-id=" CBEEBIES" tvg-logo="https://i.imgur.com/WWbYtcH.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" CBEEBIES", CBEEBIES
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8341&extension=ts
+#EXTINF:-1 tvg-id="PL| NICK JR" tvg-logo="https://i.imgur.com/6l33fXE.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name="PL| NICK JR",PL| NICK JR
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8348&extension=ts
+#EXTINF:-1 tvg-id=" NICKTOONS HD" tvg-logo="https://i.imgur.com/weFfy9c.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" NICKTOONS HD", NICKTOONS HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8359&extension=ts
+#EXTINF:-1 tvg-id=" NICKELODEON" tvg-logo="https://i.imgur.com/3GKHxzA.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" NICKELODEON", NICKELODEON
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8349&extension=ts
+#EXTINF:-1 tvg-id=" MINIMINI+ FHD" tvg-logo="https://i.imgur.com/VLW6amr.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" MINIMINI+ FHD", MINIMINI+ FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8340&extension=ts
+#EXTINF:-1 tvg-id=" JIM JAM" tvg-logo="https://i.imgur.com/WbWyHzl.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" JIM JAM", JIM JAM
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8351&extension=ts
+#EXTINF:-1 tvg-id=" TELETOON+  HD" tvg-logo="https://i.imgur.com/NOtkCmM.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" TELETOON+  HD", TELETOON+  HD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8355&extension=ts
+#EXTINF:-1 tvg-id=" TVP ABC" tvg-logo="https://i.imgur.com/NfSQETh.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" TVP ABC", TVP ABC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8331&extension=ts
+#EXTINF:-1 tvg-id=" 4FUN KIDS" tvg-logo="https://i.imgur.com/j9j1xux.png" group-title="⭐ PL KIDS-DLA DZIECI ⭐" tvg-name=" 4FUN KIDS", 4FUN KIDS
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8385&extension=ts
+#EXTINF:-1 tvg-id="PL: NUTA TV" tvg-logo="https://i.imgur.com/PZ4oVUd.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: NUTA TV",PL: NUTA TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=8336&extension=ts
+#EXTINF:-1 tvg-id="PL: POLSAT MUSIC" tvg-logo="https://i.imgur.com/z5oTgee.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: POLSAT MUSIC",PL: POLSAT MUSIC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246921&extension=ts
+#EXTINF:-1 tvg-id="PL: DISCO POLO MUSIC" tvg-logo="https://i.imgur.com/br56gFU.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: DISCO POLO MUSIC",PL: DISCO POLO MUSIC
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246922&extension=ts
+#EXTINF:-1 tvg-id="PL: MTV POLSKA" tvg-logo="https://i.imgur.com/LPOMzbz.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: MTV POLSKA",PL: MTV POLSKA
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246925&extension=ts
+#EXTINF:-1 tvg-id="PL: POLO TV" tvg-logo="https://i.imgur.com/8uTbOof.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: POLO TV",PL: POLO TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246927&extension=ts
+#EXTINF:-1 tvg-id="PL: STARS TV" tvg-logo="https://i.imgur.com/uyxFgF7.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: STARS TV",PL: STARS TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246928&extension=ts
+#EXTINF:-1 tvg-id="PL: 4FUN TV" tvg-logo="https://i.imgur.com/GmsyyRD.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: 4FUN TV",PL: 4FUN TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246931&extension=ts
+#EXTINF:-1 tvg-id="PL: 4FUN GOLD HITS" tvg-logo="https://i.imgur.com/ISRW7cq.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: 4FUN GOLD HITS",PL: 4FUN GOLD HITS
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246930&extension=ts
+#EXTINF:-1 tvg-id="PL: 4FUN DANCE" tvg-logo="https://i.imgur.com/qyuu4VF.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: 4FUN DANCE",PL: 4FUN DANCE
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246929&extension=ts
+#EXTINF:-1 tvg-id="PL: ESKA ROCK TV" tvg-logo="https://i.imgur.com/N2HJ7BD.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: ESKA ROCK TV",PL: ESKA ROCK TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246935&extension=ts
+#EXTINF:-1 tvg-id="PL: ESKA TV EXTRA" tvg-logo="https://i.imgur.com/6SjS1Mo.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: ESKA TV EXTRA",PL: ESKA TV EXTRA
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246934&extension=ts
+#EXTINF:-1 tvg-id="PL: ESKA TV FHD" tvg-logo="https://i.imgur.com/NPnc8Dx.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: ESKA TV FHD",PL: ESKA TV FHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246933&extension=ts
+#EXTINF:-1 tvg-id="PL: VOX MUSIC TV" tvg-logo="https://i.imgur.com/nMEV3QY.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: VOX MUSIC TV",PL: VOX MUSIC TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246936&extension=ts
+#EXTINF:-1 tvg-id="PL: POWER TV" tvg-logo="https://i.imgur.com/RM9CjYf.png" group-title="⭐ PL MUZYKA ⭐" tvg-name="PL: POWER TV",PL: POWER TV
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=246932&extension=ts
+#EXTINF:-1 tvg-id="✦●✦ EVENT EPL ✦●✦" tvg-logo="https://i.ibb.co/SnkFXGP/image.png" group-title="⭐ US - EPL (EVENT) ⭐" tvg-name="✦●✦ EVENT EPL ✦●✦",✦●✦ EVENT EPL ✦●✦
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:10:E2:28&stream=487851&extension=ts

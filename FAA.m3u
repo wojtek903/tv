@@ -1,0 +1,504 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880504.png",TVP
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880504&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TVP-1-RAW.png",TVP 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880520&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880519.png",TVP 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880519&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880203.png",TV REPUBLIKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880203&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TVN24.png",TVN 24
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880512&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880513.png",TVN 24 BIS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880513&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880503.png",TVP INFO
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880503&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/1121739.png",TVP WORLD
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121739&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880441.png",POLSAT NEWS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880441&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880227.png",POLSAT NEWS 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880227&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/1137583.png",WYDARZENIA 24
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1137583&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/1121738.png",NEWS 24
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121738&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880444.png",BIZNES 24
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880444&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/WPOLSCE.png",WPOLSCE 24
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880191&extension=m3u8
+#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880391.png",POLSAT NEWS POLITYKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880391&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880240.png",TVP 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880240&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121741.png",TVP KOBIETA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121741&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880237.png",TVP ROZRYWKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880237&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880387.png",TVP KULTURA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880387&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121742.png",TVP KULTURA 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121742&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880389.png",TTV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880389&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880378.png",TVN
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880518&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880517.png",TVN 7
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880517&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880516.png",TVN FABULA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880516&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880515.png",TVN STYLE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880515&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880514.png",TVN TURBO
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880514&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1629540.png",TBN POLSKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1629540&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880386.png",SUPER POLSAT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880386&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880509.png",POLSAT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880509&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880508.png",POLSAT 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880508&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880506.png",POLSAT RODZINA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880506&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880404.png",POLSAT CAFE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880404&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-GAMES.png",POLSAT GAMES
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880401&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880399.png",POLSAT PLAY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880399&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880475.png",PULS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880475&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880479.png",PULS 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880479&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880510.png",TV 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880510&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880511.png",TV 6
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880511&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880230.png",TELE 5
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880230&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1679452.png",EWTN POLSKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1679452&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1060637.png",ANTENA TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1060637&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880474.png",TLC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880474&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880481.png",FOOD NETWORK
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880481&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880385.png",HGTV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880385&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880214.png",HOME TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880214&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880424.png",DOMO+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880424&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880415.png",KUCHNIA+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880415&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://103.176.90.118/picons/logos/activefamily.png",ACTIVE FAMILY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880234&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880212.png",METRO
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880212&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880201.png",TVS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880201&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880407.png",NOWA TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880407&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880422.png",E! ENTERTAINMENT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880422&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880192.png",WP
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880192&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880242.png",TVP POLONIA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880242&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880241.png",TVP POLONIA 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880241&extension=m3u8
+#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TRWAM-PL.png",TRWAM TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=884764&extension=m3u8
+
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/CANAL-PLUS-PREMIUM.png",CANAL+ PREMIUM
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880498&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880501.png",CANAL+ 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880501&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/CANAL-PLUS-FILM.png",CANAL+ FILM
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880491&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880497.png",CANAL+ SERIALE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880497&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880494.png",HBO
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880494&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880496.png",HBO 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880496&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880495.png",HBO 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880495&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880365.png",POLSAT FILM
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880365&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PARAMOUNT--PL.png",PARAMOUNT CHANNEL
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880472&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880473.png",WARNER TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880473&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880492.png",13 ULICA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880492&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png",AMC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880433&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880493.png",ALE KINO+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880493&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880490.png",AXN
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880490&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880489.png",AXN SPIN
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880489&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880235.png",AXN WHITE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880235&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880236.png",AXN BLACK
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880236&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880485.png",CINEMAX
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880485&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880488.png",CINEMAX 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880488&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880483.png",FILMBOX PREMIUM
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880483&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880344.png",FILMBOX EXTRA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880344&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880232.png",FILMBOX ARTHOUSE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880232&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880233.png",FILMBOX ACTION
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880233&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-FAMILY.png",FILMBOX FAMILY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880231&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880487.png",COMEDY CENTRAL
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880487&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880403.png",POLSAT COMEDY CENTRAL EXTRA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880403&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880486.png",COMEDY CENTRAL POLAND
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880486&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880478.png",KINO TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880478&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880476.png",KINO POLSKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880476&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880189.png",TVP SERIALE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880189&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880507.png",POLSAT SERIALE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880507&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880477.png",FX
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880477&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880480.png",FX COMEDY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880480&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880451.png",SCIFI UNIVERSAL
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880451&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880431.png",CBS EUROPA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880431&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EPIC-DRAMA.png",EPIC DRAMA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880421&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880229.png",STOPKLATKA TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880229&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880392.png",SUNDANCE TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880392&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880394.png",ROMANCE TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880394&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880209.png",NOVELA TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880209&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880410.png",NOVELAS+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880410&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880395.png",RED CARPET TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880395&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880197.png",VOD 205
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880197&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880196.png",VOD 206
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880196&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880195.png",VOD 207
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880195&extension=m3u8
+#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880194.png",VOD 208
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880194&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png",TVN CZAS NA ŚLUB
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1649893&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png",TVN KULINARNE PODRÓŻE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1649891&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1649889.png",TVN PATROL ONLINE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1649889&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png",TVN KRYMINALNIE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433874&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png",TVN KULTOWE SERIALE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433876&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png",TVN MOMENTY PRAWDY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433878&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433880.png",TVN MOTO
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433880&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433882.png",TVN PRAWO I ŻYCIE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433882&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433884.png",TVN RAJSKA MIŁOŚĆ
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433884&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png",TVN REWOLUCJE W KUCHNI
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433886&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433888.png",TVN SERIAL O KOBIETACH
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433888&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433890.png",TVN SZKOŁA ŻYCIA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433890&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png",TVN SZPITALNE HISTORIE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433892&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433894.png",TVN TALK-SHOW
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433894&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png",TVN TELENOWELE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433896&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433898.png",TVN USTERKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433898&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433900.png",TVN W DOMU
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433900&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/MILIONERZY.png",TVN MILIONERZY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1496498&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png",TVN ŻYCIE JAK W BAJCE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1433902&extension=m3u8
+#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/897006.png",iTVN
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=897006&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/1131804.png",LOVE NATURE 4K+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1131804&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880445.png",TRAVEL CHANNEL
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880445&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880437.png",ANIMAL PLANET
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880437&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880434.png",ADVENTURE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880434&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880450.png",BBC BRIT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880450&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880436.png",BBC EARTH
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880436&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880309.png",BBC FIRST
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880309&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880435.png",BBC LIFESTYLE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880435&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880430.png",CBS REALITY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880430&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880442.png",CANAL+ DOKUMENT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880442&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880428.png",DISCOVERY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880428&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880426.png",DISCOVERY SCIENCE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880426&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880427.png",DISCOVERY LIFE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880427&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/1530077.png",DISCOVERY HISTORIA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1530077&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png",NATIONAL GEOGRAPHIC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880438&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880439.png",NAT GEO WILD
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880439&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880440.png",NAT GEO PEOPLE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880440&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880416.png",ID
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880416&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880429.png",CRIME AND INVESTIGATION
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880429&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880423.png",DTX
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880423&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880384.png",HISTORY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880384&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880418.png",H2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880418&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880405.png",PLANETE+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880405&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880402.png",POLSAT DOKU
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880402&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880397.png",POLSAT VIASAT HISTORY
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880397&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880398.png",POLSAT VIASAT EXPLORE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880398&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880396.png",POLSAT VIASAT NATURE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880396&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880482.png",FOKUS TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880482&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880393.png",STUDIOMED TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880393&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880388.png",TVP DOKUMENT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880388&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880238.png",TVP HISTORIA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880238&extension=m3u8
+#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/1121743.png",TVP HISTORIA 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121743&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880457.png",ELEVEN SPORTS 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880457&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880456.png",ELEVEN SPORTS 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880456&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880455.png",ELEVEN SPORTS 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880455&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880454.png",ELEVEN SPORTS 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880454&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880453.png",EUROSPORT 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880453&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880452.png",EUROSPORT 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880452&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880500.png",CANAL+ 360
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880500&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880499.png",CANAL+ NOW
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880499&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880461.png",CANAL+ SPORT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880461&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880460.png",CANAL+ SPORT 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880460&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880459.png",CANAL+ SPORT 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880459&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880318.png",CANAL+ SPORT 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880318&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880406.png",CANAL+ SPORT 5
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880406&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691176.png",CANAL+ EVENT 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691176&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691175.png",CANAL+ EVENT 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691175&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691174.png",CANAL+ EVENT 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691174&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png",CANAL+ EVENT 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691173&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691171.png",CANAL+ EXTRA 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691171&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691170.png",CANAL+ EXTRA 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691170&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691169.png",CANAL+ EXTRA 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691169&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691168.png",CANAL+ EXTRA 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691168&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691167.png",CANAL+ EXTRA 5
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691167&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691166.png",CANAL+ EXTRA 6
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691166&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691165.png",CANAL+ EXTRA 7
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691165&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691164.png",CANAL+ SPORT 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691164&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691155.png",TVP SPORT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691155&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1691152.png",FIGHT KLUB
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1691152&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880471.png",POLSAT SPORT 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880471&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880470.png",POLSAT SPORT 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880470&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880468.png",POLSAT SPORT 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880468&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880467.png",POLSAT SPORT PREMIUM 1
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880467&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880466.png",POLSAT SPORT PREMIUM 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880466&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880465.png",POLSAT SPORT PREMIUM 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880465&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880464.png",POLSAT SPORT PREMIUM 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880464&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880463.png",POLSAT SPORT PREMIUM 5
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880463&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880462.png",POLSAT SPORT PREMIUM 6
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880462&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880469.png",POLSAT SPORT FIGHT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880469&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880447.png",SPORTKLUB
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880447&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880446.png",FIGHTBOX
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880446&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1121749.png",PRIME FIGHT
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121749&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880448.png",EXTREME SPORTS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880448&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880419.png",GOLF CHANNEL
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880419&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880413.png",MOTOWIZJA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880413&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602007.png",EUROSPORT 3
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602007&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602008.png",EUROSPORT 4
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602008&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602009.png",EUROSPORT 5
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602009&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602010.png",EUROSPORT 6
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602010&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602011.png",EUROSPORT 7
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602011&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602012.png",EUROSPORT 8
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602012&extension=m3u8
+#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1602013.png",EUROSPORT 9
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1602013&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880224.png",DA VINCI LEARNING
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880224&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/abc.png",TVP ABC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880239&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/abc.png",TVP ABC 2
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121740&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/1121750.png",DUCK TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121750&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/1121751.png",DUCK TV PLUS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121751&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880226.png",BBC CBEEBIES
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880226&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/897016.png",TOP KIDS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=897016&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880225.png",BABY TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880225&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/1035704.png",4FUN KIDS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1035704&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880211.png",NICK JR POLSKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880211&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NICK-MUSIC-PL.png",NICK MUSIC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121757&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880411.png",TEENNICK
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880411&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880210.png",NICKELODEON
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880210&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880412.png",NICKTOONS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880412&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-JIM-JAM.png",POLSAT JIM JAM
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880206&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/disneych.png",DISNEY CHANNEL
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880285&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880219.png",DISNEY JUNIOR
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880219&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880218.png",DISNEY XD
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880218&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880443.png",BOOMERANG
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880443&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880390.png",TELETOON+
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880390&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880414.png",MINIMINI
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880414&extension=m3u8
+#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880432.png",CARTOON NETWORK
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880432&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880216.png",ESKA TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880216&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880215.png",ESKA TV EXTRA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880215&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880217.png",ESKA ROCK TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880217&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880220.png",4FUN.TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880220&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880222.png",4FUN DANCE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880222&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880221.png",4FUN GOLD HITS
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880221&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880204.png",STARS.TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880204&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880207.png",NUTA TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880207&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MUSIC-BOX-POLSKA.png",MUSIC BOX POLSKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880199&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121760.png",MIXTAPE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121760&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121759.png",360 TUNEBOX
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121759&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880213.png",KINO POLSKA MUZYKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880213&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-MUSIC.png",POLSAT MUSIC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880400&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880409.png",MTV LIVE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880409&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880408.png",MTV POLSKA
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880408&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121761.png",MTV 00S
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121761&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880208.png",MTV 80S
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880208&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VOX-MUSIC.png",VOX MUSIC TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880198&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880205.png",POWER TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880205&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCO-POLO-MUSIC.png",DISCO POLO MUSIC
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121755&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880383.png",POLO TV
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=880383&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/JAZZ-PL.png",JAZZ
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121754&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121752.png",MEZZO
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121752&extension=m3u8
+#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121753.png",MEZZO LIVE
+http://exclusif365.pro:80/play/live.php?mac=00:1A:79:C0:08:EC&stream=1121753&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pl.wikipedia.org/wiki/Zalewo_(gmina)#/media/Plik:POL_Zalewo_flag.svg" group-title="📽️ Monitoring",Kamera Zalewo
+https://s1.worldcam.live:8082/zalewo-fontanna/tracks-v1/mono.m3u8

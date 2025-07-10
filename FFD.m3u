@@ -1,0 +1,575 @@
+#EXTM3U
+#EXTINF:-1 ,CANAL+ 4K UHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=225921&extension=m3u8
+#EXTINF:-1 ,TVP INFO FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162406&extension=m3u8
+#EXTINF:-1 ,TVP INFO HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8433&extension=m3u8
+#EXTINF:-1 ,TVP FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162408&extension=m3u8
+#EXTINF:-1 ,TVP HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8292&extension=m3u8
+#EXTINF:-1 ,TVP 1 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162410&extension=m3u8
+#EXTINF:-1 ,TVP 1 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8293&extension=m3u8
+#EXTINF:-1 ,TVP 2 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162412&extension=m3u8
+#EXTINF:-1 ,TVP 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8294&extension=m3u8
+#EXTINF:-1 ,TVP 3 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162413&extension=m3u8
+#EXTINF:-1 ,TVP 3
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8295&extension=m3u8
+#EXTINF:-1 ,TV4 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162416&extension=m3u8
+#EXTINF:-1 ,TV4 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8296&extension=m3u8
+#EXTINF:-1 ,TV TRWAM
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=521691&extension=m3u8
+#EXTINF:-1 ,TVN FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162417&extension=m3u8
+#EXTINF:-1 ,TVN HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8297&extension=m3u8
+#EXTINF:-1 ,TVN 7 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162480&extension=m3u8
+#EXTINF:-1 ,TVN 7 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8298&extension=m3u8
+#EXTINF:-1 ,TV6 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8302&extension=m3u8
+#EXTINF:-1 ,TV6 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8303&extension=m3u8
+#EXTINF:-1 ,TVN FABULA FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8307&extension=m3u8
+#EXTINF:-1 ,TVN FABULA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8305&extension=m3u8
+#EXTINF:-1 ,TVN STYLE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162445&extension=m3u8
+#EXTINF:-1 ,TVN STYLE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8306&extension=m3u8
+#EXTINF:-1 ,TVN TURBO FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162440&extension=m3u8
+#EXTINF:-1 ,TVN TURBO HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8308&extension=m3u8
+#EXTINF:-1 ,TVN 24 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162450&extension=m3u8
+#EXTINF:-1 ,TVN 24 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8434&extension=m3u8
+#EXTINF:-1 ,TVN24 BIS FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162438&extension=m3u8
+#EXTINF:-1 ,TVN24 BIS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8435&extension=m3u8
+#EXTINF:-1 ,TVS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8313&extension=m3u8
+#EXTINF:-1 ,TVS
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184129&extension=m3u8
+#EXTINF:-1 ,NOVELAS+ FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=453828&extension=m3u8
+#EXTINF:-1 ,NOVELAS+ HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481838&extension=m3u8
+#EXTINF:-1 ,POLSAT NEWS FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162419&extension=m3u8
+#EXTINF:-1 ,POLSAT NEWS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8436&extension=m3u8
+#EXTINF:-1 ,POLSAT NEWS 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162421&extension=m3u8
+#EXTINF:-1 ,POLSAT NEWS 2 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8437&extension=m3u8
+#EXTINF:-1 ,POLSAT FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162422&extension=m3u8
+#EXTINF:-1 ,POLSAT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8299&extension=m3u8
+#EXTINF:-1 ,POLSAT 2 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162424&extension=m3u8
+#EXTINF:-1 ,POLSAT 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8300&extension=m3u8
+#EXTINF:-1 ,POLSAT PLAY FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8392&extension=m3u8
+#EXTINF:-1 ,POLSAT PLAY HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162476&extension=m3u8
+#EXTINF:-1 ,POLSAT CAFE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162428&extension=m3u8
+#EXTINF:-1 ,POLSAT CAFE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=177898&extension=m3u8
+#EXTINF:-1 ,POLSAT SERIALE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162426&extension=m3u8
+#EXTINF:-1 ,POLSAT SERIALE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=177900&extension=m3u8
+#EXTINF:-1 ,POLSAT GAMES FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8332&extension=m3u8
+#EXTINF:-1 ,POLSAT GAMES HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=177899&extension=m3u8
+#EXTINF:-1 ,POLSAT RODZINA FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8310&extension=m3u8
+#EXTINF:-1 ,POLSAT RODZINA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=177901&extension=m3u8
+#EXTINF:-1 ,SUPER POLSAT FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8388&extension=m3u8
+#EXTINF:-1 ,SUPER POLSAT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=177897&extension=m3u8
+#EXTINF:-1 ,ROMANCE TV FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162453&extension=m3u8
+#EXTINF:-1 ,ROMANCE TV HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162452&extension=m3u8
+#EXTINF:-1 ,PULS FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=178077&extension=m3u8
+#EXTINF:-1 ,PULS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8304&extension=m3u8
+#EXTINF:-1 ,PULS 2 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8318&extension=m3u8
+#EXTINF:-1 ,PULS 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=178151&extension=m3u8
+#EXTINF:-1 ,TVP POLONIA FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=178078&extension=m3u8
+#EXTINF:-1 ,TVP POLONIA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8309&extension=m3u8
+#EXTINF:-1 ,TVP ROZRYWKA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8301&extension=m3u8
+#EXTINF:-1 ,TVP KULTURA FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8438&extension=m3u8
+#EXTINF:-1 ,TTV FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8314&extension=m3u8
+#EXTINF:-1 ,TTV HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8323&extension=m3u8
+#EXTINF:-1 ,WP FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162466&extension=m3u8
+#EXTINF:-1 ,WPOLSCE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=162457&extension=m3u8
+#EXTINF:-1 ,TELE 5
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8394&extension=m3u8
+#EXTINF:-1 ,TV REPUBLIKA
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8319&extension=m3u8
+#EXTINF:-1 ,NOVELA TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8432&extension=m3u8
+#EXTINF:-1 ,ZOOM TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8320&extension=m3u8
+#EXTINF:-1 ,FOKUS TV FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8312&extension=m3u8
+#EXTINF:-1 ,STOPKLATKA TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8415&extension=m3u8
+#EXTINF:-1 ,↺TVP INFO HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481968&extension=m3u8
+#EXTINF:-1 ,↺TVP HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481967&extension=m3u8
+#EXTINF:-1 ,↺TVP 1 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481966&extension=m3u8
+#EXTINF:-1 ,↺TVP 2 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481965&extension=m3u8
+#EXTINF:-1 ,↺TVP 3 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481964&extension=m3u8
+#EXTINF:-1 ,↺TV4 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481963&extension=m3u8
+#EXTINF:-1 ,↺TVN HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481962&extension=m3u8
+#EXTINF:-1 ,↺POLSAT HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481961&extension=m3u8
+#EXTINF:-1 ,↺POLSAT 2 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481960&extension=m3u8
+#EXTINF:-1 ,↺POLSAT NEWS HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481959&extension=m3u8
+#EXTINF:-1 ,↺POLSAT NEWS 2 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481958&extension=m3u8
+#EXTINF:-1 ,↺TVN 24 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481957&extension=m3u8
+#EXTINF:-1 ,↺TTV HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481956&extension=m3u8
+#EXTINF:-1 ,↺NOVELAS+ HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481970&extension=m3u8
+#EXTINF:-1 ,TVN 24 BIS HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481955&extension=m3u8
+#EXTINF:-1 ,SUPER POLSAT HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481954&extension=m3u8
+#EXTINF:-1 ,POLSAT PLAY HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481953&extension=m3u8
+#EXTINF:-1 ,POLSAT CAFE HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481952&extension=m3u8
+#EXTINF:-1 ,POLSAT SERIALE HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481971&extension=m3u8
+#EXTINF:-1 ,POLSAT RODZINA HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481951&extension=m3u8
+#EXTINF:-1 ,POLSAT GAMES HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481950&extension=m3u8
+#EXTINF:-1 ,ROMANCE TV HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481949&extension=m3u8
+#EXTINF:-1 ,TVN 7 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481948&extension=m3u8
+#EXTINF:-1 ,TVN STYLE HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481947&extension=m3u8
+#EXTINF:-1 ,TVN TURBO HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481946&extension=m3u8
+#EXTINF:-1 ,TVN FABULA HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481945&extension=m3u8
+#EXTINF:-1 ,TV6 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481944&extension=m3u8
+#EXTINF:-1 ,TV PULS HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481943&extension=m3u8
+#EXTINF:-1 ,PULS 2 HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481942&extension=m3u8
+#EXTINF:-1 ,TVP POLONIA HEVC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=481941&extension=m3u8
+#EXTINF:-1 ,HOME TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=225923&extension=m3u8
+#EXTINF:-1 ,NAT GEO WILD HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183505&extension=m3u8
+#EXTINF:-1 ,NAT GEO WILD FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8456&extension=m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8455&extension=m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183506&extension=m3u8
+#EXTINF:-1 ,NAT GEO PEOPLE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8457&extension=m3u8
+#EXTINF:-1 ,NAT GEO PEOPLE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183507&extension=m3u8
+#EXTINF:-1 ,ANIMAL PLANET FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184125&extension=m3u8
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8465&extension=m3u8
+#EXTINF:-1 ,DISCOVERY FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8459&extension=m3u8
+#EXTINF:-1 ,DISCOVERY HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183508&extension=m3u8
+#EXTINF:-1 ,DISCOVERY SCIENCE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8461&extension=m3u8
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183509&extension=m3u8
+#EXTINF:-1 ,DISCOVERY LIFE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8458&extension=m3u8
+#EXTINF:-1 ,DISCOVERY LIFE
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183510&extension=m3u8
+#EXTINF:-1 ,DISCOVERY HISTORIA SD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8460&extension=m3u8
+#EXTINF:-1 ,DISCOVERY HISTORIA
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183511&extension=m3u8
+#EXTINF:-1 ,DA VINCI LEARNING FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8467&extension=m3u8
+#EXTINF:-1 ,DA VINCI LEARNING HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184133&extension=m3u8
+#EXTINF:-1 ,E! ENTERTAINMENT FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8325&extension=m3u8
+#EXTINF:-1 ,E! ENTERTAINMENT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183516&extension=m3u8
+#EXTINF:-1 ,HISTORY FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8453&extension=m3u8
+#EXTINF:-1 ,HISTORY HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183517&extension=m3u8
+#EXTINF:-1 ,HISTORY 2 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183518&extension=m3u8
+#EXTINF:-1 ,HISTORY 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183519&extension=m3u8
+#EXTINF:-1 ,BBC EARTH FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8466&extension=m3u8
+#EXTINF:-1 ,BBC EARTH HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183513&extension=m3u8
+#EXTINF:-1 ,BBC BRIT FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8452&extension=m3u8
+#EXTINF:-1 ,BBC BRIT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183515&extension=m3u8
+#EXTINF:-1 ,BBC FIRST FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8445&extension=m3u8
+#EXTINF:-1 ,BBC FIRST HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183514&extension=m3u8
+#EXTINF:-1 ,BBC LIFESTYLE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8450&extension=m3u8
+#EXTINF:-1 ,BBC LIFESTYLE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183512&extension=m3u8
+#EXTINF:-1 ,PLANETE+ FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184126&extension=m3u8
+#EXTINF:-1 ,PLANETE+ HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8454&extension=m3u8
+#EXTINF:-1 ,POLSAT DOKU FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8441&extension=m3u8
+#EXTINF:-1 ,POLSAT DOKU HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183562&extension=m3u8
+#EXTINF:-1 ,POLSAT VIASAT EXPLORE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8443&extension=m3u8
+#EXTINF:-1 ,POLSAT VIASAT EXPLORE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183565&extension=m3u8
+#EXTINF:-1 ,POLSAT VIASAT HISTORY FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8442&extension=m3u8
+#EXTINF:-1 ,POLSAT VIASAT HISTORY HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183566&extension=m3u8
+#EXTINF:-1 ,POLSAT VIASAT NATURE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8444&extension=m3u8
+#EXTINF:-1 ,CRIME+ INVESTIGATION FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8462&extension=m3u8
+#EXTINF:-1 ,CRIME+ INVESTIGATION HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184132&extension=m3u8
+#EXTINF:-1 ,CANAL+ KUCHNIA FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8412&extension=m3u8
+#EXTINF:-1 ,CANAL+ KUCHNIA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183522&extension=m3u8
+#EXTINF:-1 ,CANAL+ DOKUMENT FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183521&extension=m3u8
+#EXTINF:-1 ,CANAL+ DOKUMENT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183520&extension=m3u8
+#EXTINF:-1 ,CANAL+ DOMO FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8326&extension=m3u8
+#EXTINF:-1 ,CANAL+ DOMO HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183529&extension=m3u8
+#EXTINF:-1 ,TRAVEL CHANNEL FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8470&extension=m3u8
+#EXTINF:-1 ,TRAVEL CHANNEL HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183567&extension=m3u8
+#EXTINF:-1 ,TLC FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183504&extension=m3u8
+#EXTINF:-1 ,PL | TLC HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8440&extension=m3u8
+#EXTINF:-1 ,DTX FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184128&extension=m3u8
+#EXTINF:-1 ,DTX HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8468&extension=m3u8
+#EXTINF:-1 ,HGTV FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=178149&extension=m3u8
+#EXTINF:-1 ,HGTV HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8315&extension=m3u8
+#EXTINF:-1 ,WATER PLANET SD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8448&extension=m3u8
+#EXTINF:-1 ,WATER PLANET
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184134&extension=m3u8
+#EXTINF:-1 ,STUDIOMED TV FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8446&extension=m3u8
+#EXTINF:-1 ,STUDIOMED TV HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184135&extension=m3u8
+#EXTINF:-1 ,ADVENTURE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8464&extension=m3u8
+#EXTINF:-1 ,ADVENTURE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184136&extension=m3u8
+#EXTINF:-1 ,FOOD NETWORK FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8321&extension=m3u8
+#EXTINF:-1 ,FOOD NETWORK HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=183568&extension=m3u8
+#EXTINF:-1 ,24/7 KINO 1
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216459&extension=m3u8
+#EXTINF:-1 ,24/7 KINO 2
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216460&extension=m3u8
+#EXTINF:-1 ,24/7 KINO 3
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216461&extension=m3u8
+#EXTINF:-1 ,24/7 KINO 4
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216462&extension=m3u8
+#EXTINF:-1 ,24/7 KINO 5
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216463&extension=m3u8
+#EXTINF:-1 ,24/7 CINEMA 1
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216464&extension=m3u8
+#EXTINF:-1 ,24/7 CINEMA 2
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216465&extension=m3u8
+#EXTINF:-1 ,24/7 CINEMA 3
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216466&extension=m3u8
+#EXTINF:-1 ,24/7 CINEMA 4
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=216467&extension=m3u8
+#EXTINF:-1 ,CBS EUROPA FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8451&extension=m3u8
+#EXTINF:-1 ,PL | CBS EUROPA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184130&extension=m3u8
+#EXTINF:-1 ,CBS REALITY FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8447&extension=m3u8
+#EXTINF:-1 ,CBS REALITY HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184131&extension=m3u8
+#EXTINF:-1 ,TVP HISTORIA SD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8439&extension=m3u8
+#EXTINF:-1 ,TVP HISTORIA
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=184127&extension=m3u8
+#EXTINF:-1 ,TVP SERIALE
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8387&extension=m3u8
+#EXTINF:-1 ,POLSAT FILM HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8391&extension=m3u8
+#EXTINF:-1 ,ACTIVE FAMILY
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8393&extension=m3u8
+#EXTINF:-1 ,CANAL+ SERIALE HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8395&extension=m3u8
+#EXTINF:-1 ,CANAL+ FILM HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8396&extension=m3u8
+#EXTINF:-1 ,CANAL+ FAMILY HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8397&extension=m3u8
+#EXTINF:-1 ,CANAL+ FILM FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8398&extension=m3u8
+#EXTINF:-1 ,CANAL+ 1 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8399&extension=m3u8
+#EXTINF:-1 ,AXN BLACK
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8400&extension=m3u8
+#EXTINF:-1 ,AXN WHITE
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8401&extension=m3u8
+#EXTINF:-1 ,AXN HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8402&extension=m3u8
+#EXTINF:-1 ,AXN SPIN HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8403&extension=m3u8
+#EXTINF:-1 ,FOX HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8404&extension=m3u8
+#EXTINF:-1 ,FOX COMEDY
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8405&extension=m3u8
+#EXTINF:-1 ,AMC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8406&extension=m3u8
+#EXTINF:-1 ,ALE KINO+ HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8407&extension=m3u8
+#EXTINF:-1 ,COMEDY CENTRAL FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8408&extension=m3u8
+#EXTINF:-1 ,13 ULICA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8409&extension=m3u8
+#EXTINF:-1 ,SCIFI HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8410&extension=m3u8
+#EXTINF:-1 ,UNIVERSAL HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8411&extension=m3u8
+#EXTINF:-1 ,SUNDANCE FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8416&extension=m3u8
+#EXTINF:-1 ,KINO POLSKA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8417&extension=m3u8
+#EXTINF:-1 ,POLSAT COMEDY CENTRAL EXTRA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8419&extension=m3u8
+#EXTINF:-1 ,CANAL+ PREMIUM HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8420&extension=m3u8
+#EXTINF:-1 ,HBO HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8421&extension=m3u8
+#EXTINF:-1 ,HBO 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8422&extension=m3u8
+#EXTINF:-1 ,HBO 3 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8423&extension=m3u8
+#EXTINF:-1 ,FILMBOX FAMILY
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8424&extension=m3u8
+#EXTINF:-1 ,FILMBOX ACTION
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8425&extension=m3u8
+#EXTINF:-1 ,FILMBOX EXTRA
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8426&extension=m3u8
+#EXTINF:-1 ,FILMBOX PREMIUM HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8427&extension=m3u8
+#EXTINF:-1 ,PARAMOUNT NETWORK FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8413&extension=m3u8
+#EXTINF:-1 ,CINEMAX 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8428&extension=m3u8
+#EXTINF:-1 ,CINEMAX HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8429&extension=m3u8
+#EXTINF:-1 ,METRO
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8322&extension=m3u8
+#EXTINF:-1 ,NOWA TV HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8316&extension=m3u8
+#EXTINF:-1 ,EPIC DRAMA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8430&extension=m3u8
+#EXTINF:-1 ,FILMBOX ARTHOUSE
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8431&extension=m3u8
+#EXTINF:-1 ,PL | ELEVEN SPORTS 1 4K
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=225922&extension=m3u8
+#EXTINF:-1 ,ELEVEN SPORT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8485&extension=m3u8
+#EXTINF:-1 ,ELEVEN SPORTS 1 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8486&extension=m3u8
+#EXTINF:-1 ,ELEVEN SPORTS 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8487&extension=m3u8
+#EXTINF:-1 ,ELEVEN SPORTS 3 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8488&extension=m3u8
+#EXTINF:-1 ,ELEVEN SPORTS 4 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8489&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT NEWS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8472&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT EXTRA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8473&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT FIGHT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8474&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8475&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8476&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 1 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8477&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8478&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 3 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8479&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 4 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=523170&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 5 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=523169&extension=m3u8
+#EXTINF:-1 ,POLSAT SPORT PREMIUM 6 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=523168&extension=m3u8
+#EXTINF:-1 ,CANAL+ SPORT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8481&extension=m3u8
+#EXTINF:-1 ,CANAL+ SPORT 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8482&extension=m3u8
+#EXTINF:-1 ,CANAL+ SPORT 3 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8483&extension=m3u8
+#EXTINF:-1 ,CANAL+ SPORT 4 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8484&extension=m3u8
+#EXTINF:-1 ,CANAL+ SPORT 5 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=510216&extension=m3u8
+#EXTINF:-1 ,CANAL+ EXTRA 1 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=561375&extension=m3u8
+#EXTINF:-1 ,CANAL+ EXTRA 2 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=561374&extension=m3u8
+#EXTINF:-1 ,CANAL+ EXTRA 3 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=561373&extension=m3u8
+#EXTINF:-1 ,CANAL+ EXTRA 4 FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=561372&extension=m3u8
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8491&extension=m3u8
+#EXTINF:-1 ,EUROSPORT 2 HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8492&extension=m3u8
+#EXTINF:-1 ,NSPORT+ HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8480&extension=m3u8
+#EXTINF:-1 ,TVP SPORT HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8490&extension=m3u8
+#EXTINF:-1 ,GOLF CHANNEL HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8493&extension=m3u8
+#EXTINF:-1 ,SPORTKLUB HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8494&extension=m3u8
+#EXTINF:-1 ,EXTREME SPORTS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8495&extension=m3u8
+#EXTINF:-1 ,MOTOWIZJA HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8496&extension=m3u8
+#EXTINF:-1 ,PL | FIGHTBOX HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8497&extension=m3u8
+#EXTINF:-1 ,FIGHTKLUB FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8471&extension=m3u8
+#EXTINF:-1 ,PL | BABY TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8344&extension=m3u8
+#EXTINF:-1 ,PL | BOOMERANG HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8334&extension=m3u8
+#EXTINF:-1 ,PL | DISNEY XD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8343&extension=m3u8
+#EXTINF:-1 ,PL | DISNEY CHANNEL HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8342&extension=m3u8
+#EXTINF:-1 ,PL | DISNEY JUNIOR
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8345&extension=m3u8
+#EXTINF:-1 ,PL | CARTOON NETWORK FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8347&extension=m3u8
+#EXTINF:-1 ,PL | CBEEBIES
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8341&extension=m3u8
+#EXTINF:-1 ,PL| NICK JR
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8348&extension=m3u8
+#EXTINF:-1 ,PL | NICKTOONS HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8359&extension=m3u8
+#EXTINF:-1 ,PL | NICKELODEON
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8349&extension=m3u8
+#EXTINF:-1 ,PL | MINIMINI+ FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8340&extension=m3u8
+#EXTINF:-1 ,PL | JIM JAM
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8351&extension=m3u8
+#EXTINF:-1 ,PL | TELETOON+  HD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8355&extension=m3u8
+#EXTINF:-1 ,PL | TVP ABC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8331&extension=m3u8
+#EXTINF:-1 ,PL | 4FUN KIDS
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8385&extension=m3u8
+#EXTINF:-1 ,PL: NUTA TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=8336&extension=m3u8
+#EXTINF:-1 ,PL: POLSAT MUSIC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246921&extension=m3u8
+#EXTINF:-1 ,PL: DISCO POLO MUSIC
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246922&extension=m3u8
+#EXTINF:-1 ,PL: MTV POLSKA
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246925&extension=m3u8
+#EXTINF:-1 ,PL: POLO TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246927&extension=m3u8
+#EXTINF:-1 ,PL: STARS TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246928&extension=m3u8
+#EXTINF:-1 ,PL: 4FUN GOLD HITS
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246930&extension=m3u8
+#EXTINF:-1 ,PL: 4FUN DANCE
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246929&extension=m3u8
+#EXTINF:-1 ,PL: ESKA ROCK TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246935&extension=m3u8
+#EXTINF:-1 ,PL: ESKA TV EXTRA
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246934&extension=m3u8
+#EXTINF:-1 ,PL: ESKA TV FHD
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246933&extension=m3u8
+#EXTINF:-1 ,PL: VOX MUSIC TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246936&extension=m3u8
+#EXTINF:-1 ,PL: POWER TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:57:45&stream=246932&extension=m3u8

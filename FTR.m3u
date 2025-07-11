@@ -1,0 +1,431 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530243.png" group-title="OGÓLNOTEMATYCZNE",TVP
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530243&extension=ts&play_token=FzV8vHwnNg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/TVP-1-.png" group-title="OGÓLNOTEMATYCZNE",TVP 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530237&extension=ts&play_token=sp6PQZhiUU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530238.png" group-title="OGÓLNOTEMATYCZNE",TVP 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530238&extension=ts&play_token=AmbhBfCS2U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530234.png" group-title="OGÓLNOTEMATYCZNE",TVN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530234&extension=ts&play_token=1E8jHvETdV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530230.png" group-title="OGÓLNOTEMATYCZNE",TVN 7
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530230&extension=ts&play_token=fxoOXnA2f8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530232.png" group-title="INFORMACYJNE",TVN 24
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530232&extension=ts&play_token=kGInk6dWbU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530231.png" group-title="INFORMACYJNE",TVN 24 BIS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530231&extension=ts&play_token=Y0hHI7EDJ6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530233.png" group-title="FILMOWE",TVN FABULA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530233&extension=ts&play_token=XDwac3onuP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530235.png" group-title="OGÓLNOTEMATYCZNE",TVN STYLE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530235&extension=ts&play_token=ofZZDCObFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530236.png" group-title="OGÓLNOTEMATYCZNE",TVN TURBO
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530236&extension=ts&play_token=atVMCZrBmi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="DLA DZIECI",TVP ABC
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530240&extension=ts&play_token=6kMeJONlWa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530241.png" group-title="DOKUMENTALNE",TVP HISTORIA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530241&extension=ts&play_token=rohuBmYIQb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530242.png" group-title="OGÓLNOTEMATYCZNE",TVP KULTURA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530242&extension=ts&play_token=nVj1MuMQAh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530244.png" group-title="FILMOWE",TVP SERIALE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530244&extension=ts&play_token=Ge8HtbLQB5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530245.png" group-title="SPORTOWE",TVP SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530245&extension=ts&play_token=gByvdUaC4I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530203.png" group-title="OGÓLNOTEMATYCZNE",POLSAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530203&extension=ts&play_token=WQoLtZz3PT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530193.png" group-title="OGÓLNOTEMATYCZNE",POLSAT CAFE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530193&extension=ts&play_token=B0h9Ie4pKu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530194.png" group-title="OGÓLNOTEMATYCZNE",POLSAT DOKU
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530194&extension=ts&play_token=A4XvL4gyrl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530195.png" group-title="OGÓLNOTEMATYCZNE",POLSAT FILM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530195&extension=ts&play_token=emkautn3mz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatgames.png" group-title="OGÓLNOTEMATYCZNE",POLSAT GAMES
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530196&extension=ts&play_token=JWoDRDWpnS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/POLSAT-JIM-JAM.png" group-title="DLA DZIECI",POLSAT JIM JAM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530197&extension=ts&play_token=CVDfMW9Oxl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatmusichd.png" group-title="MUZYCZNE",POLSAT MUSIC
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530198&extension=ts&play_token=djv75E9KAo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530201.png" group-title="INFORMACYJNE",POLSAT NEWS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530201&extension=ts&play_token=RATE6MPkzf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530200.png" group-title="INFORMACYJNE",POLSAT NEWS POLITYKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530200&extension=ts&play_token=klaSa7jIxz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530202.png" group-title="OGÓLNOTEMATYCZNE",POLSAT PLAY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530202&extension=ts&play_token=07kX5HOv9l
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530204.png" group-title="OGÓLNOTEMATYCZNE",POLSAT RODZINA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530204&extension=ts&play_token=NodQo1fLzQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530205.png" group-title="FILMOWE",POLSAT SERIALE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530205&extension=ts&play_token=55FmQttWcP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530206.png" group-title="SPORTOWE",POLSAT SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530206&extension=ts&play_token=7RooztvM7y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530207.png" group-title="SPORTOWE",POLSAT SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530207&extension=ts&play_token=T3jrTahcE7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530208.png" group-title="SPORTOWE",POLSAT SPORT 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530208&extension=ts&play_token=Jo40fBKEY0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530209.png" group-title="SPORTOWE",POLSAT SPORT FIGHT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530209&extension=ts&play_token=2du0QjEvHF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530210.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530210&extension=ts&play_token=cci1RqXWe2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530211.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530211&extension=ts&play_token=lAP6OZKrml
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv3.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM PPV3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530212&extension=ts&play_token=fxKptUExl1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv5.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM PPV5
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530214&extension=ts&play_token=0laKz8kLTI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530216.png" group-title="OGÓLNOTEMATYCZNE",POLSAT VIASAT HISTORY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530216&extension=ts&play_token=ru25iixZP7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv4.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM PPV4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530213&extension=ts&play_token=b7Ej16t9bJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/polsatsportpremiumppv6.png" group-title="SPORTOWE",POLSAT SPORT PREMIUM PPV6
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530215&extension=ts&play_token=DY17w0VFz5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-SHOWTIM.png" group-title="SPORTOWE",SKY SHOWTIME 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1847051&extension=ts&play_token=5T1lxiaK4v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/SKY-SHOWTIM.png" group-title="SPORTOWE",SKY SHOWTIME 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1847052&extension=ts&play_token=ukj6B6hsuK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1828580.png" group-title="FILMOWE",CANAL+ 1  
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1828580&extension=ts&play_token=Rp0BRap2fE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530128.png" group-title="DOKUMENTALNE",CANAL+ DOKUMENT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530128&extension=ts&play_token=xYYSSkgdtB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530129.png" group-title="OGÓLNOTEMATYCZNE",CANAL+ DOMO
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530129&extension=ts&play_token=ub3s21q4Y3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplusfamily.png" group-title="FILMOWE",CANAL+ 360
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530130&extension=ts&play_token=eIsnMLHmLH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530131.png" group-title="FILMOWE",CANAL+ FILM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530131&extension=ts&play_token=R2sL8ebbBd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530132.png" group-title="OGÓLNOTEMATYCZNE",CANAL+ KUCHNIA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530132&extension=ts&play_token=55Cc3VpsjY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530133.png" group-title="FILMOWE",CANAL+ NOW
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530133&extension=ts&play_token=WaZSjBu9lG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530134.png" group-title="FILMOWE",CANAL+ PREMIUM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530134&extension=ts&play_token=vEst8FgsaG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530135.png" group-title="FILMOWE",CANAL+ SERIALE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530135&extension=ts&play_token=36jXSEzTjj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport2.png" group-title="SPORTOWE",CANAL+ SPORT 2 POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530136&extension=ts&play_token=LukzTRGmJw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport3hd.png" group-title="SPORTOWE",CANAL+ SPORT 3 POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530137&extension=ts&play_token=23qirX9nmP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport4hd.png" group-title="SPORTOWE",CANAL+ SPORT 4 POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530138&extension=ts&play_token=kzRLbZ42PR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/piconsnew/canalplussport5hd.png" group-title="SPORTOWE",CANAL+ SPORT 5 POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530139&extension=ts&play_token=oikDHborDR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530140.png" group-title="SPORTOWE",CANAL+ SPORT POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530140&extension=ts&play_token=B4lWZaihwM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530157.png" group-title="SPORTOWE",ELEVEN SPORTS 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530157&extension=ts&play_token=pHO570wVwG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530158.png" group-title="SPORTOWE",ELEVEN SPORTS 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530158&extension=ts&play_token=urweFbXRVf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530115.png" group-title="FILMOWE",13 ULICA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530115&extension=ts&play_token=7qgQXL5wx2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530112.png" group-title="MUZYCZNE",4 FUN DANCE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530112&extension=ts&play_token=5yO3ae6XCO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530113.png" group-title="MUZYCZNE",4 FUN KIDS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530113&extension=ts&play_token=0TuGffQwYl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530114.png" group-title="MUZYCZNE",4 FUN TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530114&extension=ts&play_token=YnRRPAT3XZ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530116.png" group-title="FILMOWE",AlLE KINO+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530116&extension=ts&play_token=poH5lmJv5m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="FILMOWE",AMC POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530117&extension=ts&play_token=hlRLoNyPSA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530118.png" group-title="OGÓLNOTEMATYCZNE",ANIMAL PLANET
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530118&extension=ts&play_token=YZPuo0jJiq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530119.png" group-title="FILMOWE",AXN BLACK
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530119&extension=ts&play_token=0JWQIA0PX4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530120.png" group-title="FILMOWE",AXN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530120&extension=ts&play_token=O5Xp1fz0po
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530121.png" group-title="FILMOWE",AXN WHITE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530121&extension=ts&play_token=IDWgCVjYpX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530123.png" group-title="DLA DZIECI",BBC CBEEBIES POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530123&extension=ts&play_token=JmNA9qR4OF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530125.png" group-title="DOKUMENTALNE",BBC LIFESTYLE POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530125&extension=ts&play_token=ktsL2vBSMS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530146.png" group-title="FILMOWE",CI POLSAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530146&extension=ts&play_token=Eto7CZ2QNC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530145.png" group-title="FILMOWE",CINEMAX
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530145&extension=ts&play_token=XUSGYs1UTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530150.png" group-title="DOKUMENTALNE",DISCOVERY HISTORIA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530150&extension=ts&play_token=dwor6HqHKu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530155.png" group-title="DLA DZIECI",DISNEY XD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530155&extension=ts&play_token=f0Ae5W1p1a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530161.png" group-title="MUZYCZNE",ESKA ROCK TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530161&extension=ts&play_token=lCTwiOsRqk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530162.png" group-title="MUZYCZNE",ESKA TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530162&extension=ts&play_token=koocvXYEu5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530163.png" group-title="SPORTOWE",EUROSPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530163&extension=ts&play_token=dCKtAoHiwq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530263.png" group-title="FILMOWE",FILMBOX EXTRA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530263&extension=ts&play_token=HR6FwTzyWX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/logos/filmboxfamily.png" group-title="FILMOWE",FILMBOX FAMILY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530262&extension=ts&play_token=JQjwqE1BSm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530169.png" group-title="FILMOWE",FX
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530169&extension=ts&play_token=XiWmflm0fX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530260.png" group-title="FILMOWE",FX COMEDY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530260&extension=ts&play_token=Ha4V5DhnT3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530170.png" group-title="SPORTOWE",GOLF CHANNEL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530170&extension=ts&play_token=drkYM2xaip
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530175.png" group-title="OGÓLNOTEMATYCZNE",HISTORY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530175&extension=ts&play_token=zkgEFBK0BM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530185.png" group-title="DLA DZIECI",NICK JR
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530185&extension=ts&play_token=YZP167AQCe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530187.png" group-title="OGÓLNOTEMATYCZNE",NOWA TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530187&extension=ts&play_token=mdsyaqQLwi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530191.png" group-title="OGÓLNOTEMATYCZNE",POLO TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530191&extension=ts&play_token=47kUIQPHob
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530217.png" group-title="OGÓLNOTEMATYCZNE",PULS 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530217&extension=ts&play_token=0GXWv7V4IU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530223.png" group-title="DLA DZIECI",TELETOON+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530223&extension=ts&play_token=0iND3xNROI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1530250.png" group-title="DOKUMENTALNE",VIASAT NATURE POLSAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1530250&extension=ts&play_token=CppIJAcfiB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/882079.png" group-title="OGÓLNOTEMATYCZNE",POLSAT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=882079&extension=ts&play_token=Y5GKXWK3y0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/882081.png" group-title="OGÓLNOTEMATYCZNE",TV 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=882081&extension=ts&play_token=xJU0oGL8YU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/882104.png" group-title="OGÓLNOTEMATYCZNE",TTV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=882104&extension=ts&play_token=DYUliyxqrp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/882097.png" group-title="OGÓLNOTEMATYCZNE",KUCHNIA+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=882097&extension=ts&play_token=EMxp8DUZGH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880240.png" group-title="OGÓLNOTEMATYCZNE",TVP 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880240&extension=ts&play_token=Kw21HWX9JN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1121741.png" group-title="OGÓLNOTEMATYCZNE",TVP KOBIETA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1121741&extension=ts&play_token=4UYp8QvtsA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880237.png" group-title="OGÓLNOTEMATYCZNE",TVP ROZRYWKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880237&extension=ts&play_token=FxvndygPUr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1121742.png" group-title="OGÓLNOTEMATYCZNE",TVP KULTURA 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1121742&extension=ts&play_token=uSseFgoNO3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1629540.png" group-title="OGÓLNOTEMATYCZNE",TBN POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1629540&extension=ts&play_token=EjaRR6IToO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880386.png" group-title="OGÓLNOTEMATYCZNE",SUPER POLSAT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880386&extension=ts&play_token=15c22u4J94
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880335.png" group-title="OGÓLNOTEMATYCZNE",PULS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880335&extension=ts&play_token=msEvPRyJb5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880511.png" group-title="OGÓLNOTEMATYCZNE",TV 6
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880511&extension=ts&play_token=egWVJsD4Ut
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880230.png" group-title="OGÓLNOTEMATYCZNE",TELE 5
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880230&extension=ts&play_token=dpxjL8tL5o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1679452.png" group-title="OGÓLNOTEMATYCZNE",EWTN POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1679452&extension=ts&play_token=qES95x6aO8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1060637.png" group-title="OGÓLNOTEMATYCZNE",ANTENA TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1060637&extension=ts&play_token=KdFTEvbhfY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880474.png" group-title="OGÓLNOTEMATYCZNE",TLC
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880474&extension=ts&play_token=Bme3ngOe8m
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880481.png" group-title="OGÓLNOTEMATYCZNE",FOOD NETWORK
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880481&extension=ts&play_token=tS38oUcU9u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880385.png" group-title="OGÓLNOTEMATYCZNE",HGTV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880385&extension=ts&play_token=g1r7NDUc7g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880214.png" group-title="OGÓLNOTEMATYCZNE",HOME TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880214&extension=ts&play_token=y48AQ0ZC22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880424.png" group-title="OGÓLNOTEMATYCZNE",DOMO+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880424&extension=ts&play_token=P2vj8HVKnn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos/activefamily.png" group-title="OGÓLNOTEMATYCZNE",ACTIVE FAMILY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880234&extension=ts&play_token=JiTZigT0y8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880212.png" group-title="OGÓLNOTEMATYCZNE",METRO
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880212&extension=ts&play_token=PWHZc8PuD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880201.png" group-title="OGÓLNOTEMATYCZNE",TVS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880201&extension=ts&play_token=7U2c3ONBt4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880190.png" group-title="OGÓLNOTEMATYCZNE",ZOOM TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880190&extension=ts&play_token=15hdaQGcrH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880422.png" group-title="OGÓLNOTEMATYCZNE",E! ENTERTAINMENT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880422&extension=ts&play_token=Kfi4fYdWZy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880192.png" group-title="OGÓLNOTEMATYCZNE",WP
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880192&extension=ts&play_token=DvPhT1TDGf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880241.png" group-title="OGÓLNOTEMATYCZNE",TVP POLONIA 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880241&extension=ts&play_token=cuCmft9giS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880494.png" group-title="FILMOWE",HBO
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880494&extension=ts&play_token=fiELAWaJS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880355.png" group-title="FILMOWE",HBO 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880355&extension=ts&play_token=T9SAsXhUvQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880333.png" group-title="FILMOWE",WARNER TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880333&extension=ts&play_token=kJOfzGrkTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="FILMOWE",AMC
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880293&extension=ts&play_token=5TcjaW2OIh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880489.png" group-title="FILMOWE",AXN SPIN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880489&extension=ts&play_token=MSsNReyAcl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880233.png" group-title="FILMOWE",FILMBOX ACTION
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880233&extension=ts&play_token=OWJzGNmpnQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880263.png" group-title="FILMOWE",POLSAT COMEDY CENTRAL EXTRA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880263&extension=ts&play_token=JjhPSvejlm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880486.png" group-title="FILMOWE",COMEDY CENTRAL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880486&extension=ts&play_token=NUS9nDdjCj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos//TVN.png" group-title="TVN PLAYER",TVN KULINARNE PODRÓŻE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1649890&extension=ts&play_token=cpAII6JiAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880224.png" group-title="DLA DZIECI",DA VINCI LEARNING
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880224&extension=ts&play_token=gE5B6RdOfd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1121751.png" group-title="DLA DZIECI",DUCK TV PLUS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1121751&extension=ts&play_token=mpSTAhNp4y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880226.png" group-title="DLA DZIECI",BBC CBEEBIES
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880226&extension=ts&play_token=aohLLLltvO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880411.png" group-title="DLA DZIECI",TEENNICK
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880411&extension=ts&play_token=70TORFeQfr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880412.png" group-title="DLA DZIECI",NICKTOONS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880412&extension=ts&play_token=O1IBSbRWGD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="DLA DZIECI",DISNEY CHANNEL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880285&extension=ts&play_token=3U02Ob6K5F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880443.png" group-title="DLA DZIECI",BOOMERANG
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880443&extension=ts&play_token=nIpak2OwkK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880414.png" group-title="DLA DZIECI",MINIMINI
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880414&extension=ts&play_token=84H2Mr4HmX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880432.png" group-title="DLA DZIECI",CARTOON NETWORK
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880432&extension=ts&play_token=E2ZNyKF3dh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1131804.png" group-title="DOKUMENTALNE",LOVE NATURE 4K+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1131804&extension=ts&play_token=ZvSf2xaDjJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880305.png" group-title="DOKUMENTALNE",TRAVEL CHANNEL
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880305&extension=ts&play_token=xNRjo35rf0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880434.png" group-title="DOKUMENTALNE",ADVENTURE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880434&extension=ts&play_token=pdRKWj11HX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880310.png" group-title="DOKUMENTALNE",BBC BRIT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880310&extension=ts&play_token=40LPulAU9p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880449.png" group-title="DOKUMENTALNE",BBC FIRST
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880449&extension=ts&play_token=xHkeGl8ROv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880295.png" group-title="DOKUMENTALNE",BBC LIFESTYLE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880295&extension=ts&play_token=GH7IS54Yzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880430.png" group-title="DOKUMENTALNE",CBS REALITY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880430&extension=ts&play_token=UvU3PPUTns
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880288.png" group-title="DOKUMENTALNE",DISCOVERY
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880288&extension=ts&play_token=lqy5joOu11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880287.png" group-title="DOKUMENTALNE",DISCOVERY LIFE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880287&extension=ts&play_token=DKlfG2lnXu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://103.176.90.118/picons/logos//NAT-GEO--PL.png" group-title="DOKUMENTALNE",NATIONAL GEOGRAPHIC
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880298&extension=ts&play_token=VfyaN9ybBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880439.png" group-title="DOKUMENTALNE",NAT GEO WILD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880439&extension=ts&play_token=eCtWJaJL5x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880440.png" group-title="DOKUMENTALNE",NAT GEO PEOPLE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880440&extension=ts&play_token=lcoJ3bdQmg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880429.png" group-title="DOKUMENTALNE",CRIME AND INVESTIGATION
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880429&extension=ts&play_token=PpEwNpiymp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880283.png" group-title="DOKUMENTALNE",DTX
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880283&extension=ts&play_token=F7TVLgdknC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880278.png" group-title="DOKUMENTALNE",H2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880278&extension=ts&play_token=cXcNILwiQT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880258.png" group-title="DOKUMENTALNE",POLSAT VIASAT EXPLORE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880258&extension=ts&play_token=SnoEngq65o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880396.png" group-title="DOKUMENTALNE",POLSAT VIASAT NATURE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880396&extension=ts&play_token=uTXyxVFHyL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880482.png" group-title="DOKUMENTALNE",FOKUS TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880482&extension=ts&play_token=DYfP3KFwW7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880393.png" group-title="DOKUMENTALNE",STUDIOMED TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880393&extension=ts&play_token=N4BIjK4Bwd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880388.png" group-title="DOKUMENTALNE",TVP DOKUMENT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880388&extension=ts&play_token=6iiemHBgNz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1121743.png" group-title="DOKUMENTALNE",TVP HISTORIA 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1121743&extension=ts&play_token=4KzrlFmY7Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/905665.png" group-title="SPORTOWE",ELEVEN SPORTS 1 4K+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=905665&extension=ts&play_token=efgQ9KR5eQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880454.png" group-title="SPORTOWE",ELEVEN SPORTS 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880454&extension=ts&play_token=eLHLFBNGN6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880500.png" group-title="SPORTOWE",CANAL+ 360
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880500&extension=ts&play_token=Q89dK8WB22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880382.png" group-title="INFORMACYJNE",TVP POLONIA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880382&extension=ts&play_token=7BI6Mt2cof
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880227.png" group-title="INFORMACYJNE",POLSAT NEWS 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880227&extension=ts&play_token=Wk36UBKoU4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880221.png" group-title="MUZYCZNE",4FUN GOLD HITS
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880221&extension=ts&play_token=J9kPmHTNjU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1121760.png" group-title="MUZYCZNE",MIXTAPE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1121760&extension=ts&play_token=SFGCFFael4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1121759.png" group-title="MUZYCZNE",360 TUNEBOX
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1121759&extension=ts&play_token=NyJZgapVa7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880269.png" group-title="MUZYCZNE",MTV LIVE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880269&extension=ts&play_token=VkuKTOOdDP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/880208.png" group-title="MUZYCZNE",MTV 80S
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=880208&extension=ts&play_token=P1lwvYs9W0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936816.png" group-title="REGIONALNE",TVP3 BYDGOSZCZ
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936816&extension=ts&play_token=pM9DjhDHlD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936817.png" group-title="REGIONALNE",TVP3 GDANSK
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936817&extension=ts&play_token=C7zSh8VXuG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936818.png" group-title="REGIONALNE",TVP3 GORZOW
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936818&extension=ts&play_token=Z7sl7hFsJS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936819.png" group-title="REGIONALNE",TVP3 KATOWICE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936819&extension=ts&play_token=hXK7uZYh6G
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936820.png" group-title="REGIONALNE",TVP3 KIELCE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936820&extension=ts&play_token=hi5DSeNVt6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936821.png" group-title="REGIONALNE",TVP3 KRAKOW
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936821&extension=ts&play_token=DJJ6ERgG0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936834.png" group-title="REGIONALNE",TVP3 LUBLIN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936834&extension=ts&play_token=qnLbkRj0Xl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936837.png" group-title="REGIONALNE",TVP3 OPOLE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936837&extension=ts&play_token=1SMpafGFwv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936838.png" group-title="REGIONALNE",TVP3 POZNAN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936838&extension=ts&play_token=gJbEmErFZW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936839.png" group-title="REGIONALNE",TVP3 RZESZOW
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936839&extension=ts&play_token=D5KehuWawF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936948.png" group-title="REGIONALNE",TVP3 SZCZECIN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936948&extension=ts&play_token=8rGLzrWvyR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/936950.png" group-title="REGIONALNE",TVP3 WARSZAWA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=936950&extension=ts&play_token=R9TuEEkIs4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691141.png" group-title="FILMOWE",HBO 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691141&extension=ts&play_token=TEgqXHTXTq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/polsatcrimeandinvestigation.png" group-title="DOKUMENTALNE",POLSAT CRIME & INVESTIGATION
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691129&extension=ts&play_token=cnec0SLdiD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691122.png" group-title="FILMOWE",FILMBOX ARTHOUSE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691122&extension=ts&play_token=cLPA8N7TRF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691115.png" group-title="MUZYCZNE",4FUN.TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691115&extension=ts&play_token=rzxAB891oG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691114.png" group-title="FILMOWE",ALE KINO+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691114&extension=ts&play_token=mw3CWBkDFP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691113.png" group-title="OGÓLNOTEMATYCZNE",Alfa TVP
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691113&extension=ts&play_token=FAO0aAS9tS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691107.png" group-title="DOKUMENTALNE",BBC EARTH
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691107&extension=ts&play_token=LgjigGDLDm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691104.png" group-title="INFORMACYJNE",BIZNES 24  
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691104&extension=ts&play_token=h7ZLpUXMAv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691103.png" group-title="DLA DZIECI",BLOOMBERG EUROPEAN TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691103&extension=ts&play_token=ngxd4vfmHP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691096.png" group-title="OGÓLNOTEMATYCZNE",CNBC EUROPE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691096&extension=ts&play_token=psy6WS1GPu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691069.png" group-title="FILMOWE",KINO TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691069&extension=ts&play_token=T1WDzOkQM0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691067.png" group-title="DLA DZIECI",MINIMINI+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691067&extension=ts&play_token=Ozi1jpvsIK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691066.png" group-title="MUZYCZNE",MTV 00s
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691066&extension=ts&play_token=eL13hR7UoL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691065.png" group-title="MUZYCZNE",MTV 90s
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691065&extension=ts&play_token=25pdrmpDrs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691060.png" group-title="OGÓLNOTEMATYCZNE",NHK WORLD-JAPAN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691060&extension=ts&play_token=le4uVHiyPJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691058.png" group-title="OGÓLNOTEMATYCZNE",NOVELAS+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691058&extension=ts&play_token=1mlHcriDOI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://51.158.145.100/picons/logos/logos/SEJM-RP.png" group-title="OGÓLNOTEMATYCZNE",SEJM RP
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691049&extension=ts&play_token=xZKEBsIHWQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691024.png" group-title="REGIONALNE",TVP 3 OLSZTYN
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691024&extension=ts&play_token=UNqHCNQ0DW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691021.png" group-title="REGIONALNE",TVP 3 RZESZÓW
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691021&extension=ts&play_token=u1IKEUAYh1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691019.png" group-title="REGIONALNE",TVP 3 WROCLAW
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691019&extension=ts&play_token=Tq3uB438uc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://logo.protv.cc/piconsnew/voxmusic.png" group-title="MUZYCZNE",VOX MUSIC TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691018&extension=ts&play_token=Mg1Oa5Zbn0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697686.png" group-title="FILMOWE",FILMBOX PREMIUM
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697686&extension=ts&play_token=0O613pMCK7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/abc.png" group-title="DLA DZIECI",TVP ABC 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697684&extension=ts&play_token=sO8aXJykyr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697682.png" group-title="INFORMACYJNE",TVP INFO
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697682&extension=ts&play_token=8ZEKRp6Ndx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697679.png" group-title="INFORMACYJNE",TVP WORLD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697679&extension=ts&play_token=DDJs27hJ8H
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697675.png" group-title="REGIONALNE",TVP 3 GORZÓW WIELKOPOLSKI
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697675&extension=ts&play_token=OdkbTc7w2r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697645.png" group-title="OGÓLNOTEMATYCZNE",CBS EUROPA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697645&extension=ts&play_token=nxMqrWWmC0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697638.png" group-title="INFORMACYJNE",DEUTSCHE WELLE
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697638&extension=ts&play_token=lmtI9Wz91R
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://logo.protv.cc/piconsnew/discopolomusic.png" group-title="MUZYCZNE",DISCO POLO MUSIC
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697637&extension=ts&play_token=WieS3fcvi0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697622.png" group-title="FILMOWE",FX
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697622&extension=ts&play_token=7m1smNx8Ra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697617.png" group-title="OGÓLNOTEMATYCZNE",ID POLAND
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697617&extension=ts&play_token=5AfjoDoRe4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697616.png" group-title="FILMOWE",KINO POLSKA
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697616&extension=ts&play_token=OOPpB2MMUH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697613.png" group-title="OGÓLNOTEMATYCZNE",METRO TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697613&extension=ts&play_token=7qGdYpUcqP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697600.png" group-title="OGÓLNOTEMATYCZNE",PLANETE+
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697600&extension=ts&play_token=xXBbtlnych
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697593.png" group-title="OGÓLNOTEMATYCZNE",STARS TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697593&extension=ts&play_token=aNroHfifbl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697592.png" group-title="OGÓLNOTEMATYCZNE",STOPKLATKA TV
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697592&extension=ts&play_token=0AywAdEWIP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691169.png" group-title="SPORTOWE",CANAL+ EXTRA 3
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691169&extension=ts&play_token=9oRriQsCIv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1691164.png" group-title="SPORTOWE",CANAL+ SPORT 1
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1691164&extension=ts&play_token=0SmvdExrH9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697731.png" group-title="SPORTOWE",CANAL+ SPORT
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697731&extension=ts&play_token=jNUnsvxXU9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://picons.cmshulk.com/picons/1697721.png" group-title="SPORTOWE",EURO SPORT 2
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:79:85:5B&stream=1697721&extension=ts&play_token=rhFfSVYhPr
